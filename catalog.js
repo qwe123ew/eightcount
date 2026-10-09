@@ -151,7 +151,9 @@ globalThis.EIGHTCOUNT_DATA = {
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1gS4y1q7VE/",
       "verificationNote": "已通过B站公开检索结果核对视频直链、标题、UP主和歌曲。舞者的翻跳与慢速镜面教学，不是王心凌本人表演；标题中的“原版”指舞蹈版本。直页抓取未成功，未验证播放。",
-      "thumbnail": null
+      "thumbnail": "assets/covers/bilibili-BV1gS4y1q7VE-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1gS4y1q7VE/",
+      "thumbnailProvenance": "2026-10-09：逐条打开原视频页面，核对标题及UP主，截图已暂停的真实播放器画面（00:17）；裁去黑边，非生成图。"
     },
     {
       "song": "爱你",
@@ -205,7 +207,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1DW411Y79P/",
-      "verificationNote": "已读取B站视频页核对直链、标题、UP主、歌曲及编舞者；页面列出教程与编舞展示两个分P。这是Matt Steffanina/Phillip Chbeeb原创编舞教学的B站转载，不是Ed Sheeran本人表演。未验证播放。",
+      "verificationNote": "已读取B站视频页核对直链、标题、UP主、歌曲及编舞者；页面列出教程与编舞展示两个分P。这是Matt Steffanina/Phillip Chbeeb原创编舞教学的B站转载，不是Ed Sheeran本人表演。未验证播放。 2026-10-09原站页面显示“视频不见了”，此B站来源当前不可用；其他来源不受此结论影响。",
       "evidence": {
         "choreographer": "Matt Steffanina / Phillip Chbeeb",
         "parts": [
@@ -213,7 +215,8 @@ globalThis.EIGHTCOUNT_DATA = {
           "编舞展示 08:24"
         ]
       },
-      "thumbnail": null
+      "thumbnail": null,
+      "availabilityNote": "2026-10-09原站页面显示“视频不见了”，此B站来源当前不可用；其他来源不受此结论影响。"
     },
     {
       "song": "極楽浄土",
@@ -233,7 +236,9 @@ globalThis.EIGHTCOUNT_DATA = {
       "region": "日本",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1w5FDeiE1B/",
       "verificationNote": "已通过B站公开检索结果核对视频直链、标题、发布账号及歌曲。发布账号显示为GARNiDELiA；账号名称不等于已独立核验官方认证。直页抓取返回412，未验证播放。",
-      "thumbnail": null
+      "thumbnail": "assets/covers/bilibili-BV1w5FDeiE1B-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1w5FDeiE1B/",
+      "thumbnailProvenance": "2026-10-09：逐条打开原视频页面，核对标题及UP主，截图已暂停的真实播放器画面（00:10）；只裁去播放器黑边，保留原画面比例。"
     },
     {
       "song": "極楽浄土",
@@ -282,7 +287,9 @@ globalThis.EIGHTCOUNT_DATA = {
           "原创编舞及舞者"
         ]
       },
-      "thumbnail": null
+      "thumbnail": "assets/covers/bilibili-BV1Ft411b7Jw-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Ft411b7Jw/",
+      "thumbnailProvenance": "2026-10-09：逐条打开原视频页面，核对标题及UP主，截图已暂停的真实播放器画面（00:13）；保留原画面比例和水印。"
     },
     {
       "song": "Dynamite",
@@ -375,7 +382,9 @@ globalThis.EIGHTCOUNT_DATA = {
       "evidence": {
         "artistEvidenceUrl": "https://www.youtube.com/watch?v=7Ya2U8XN_Zw"
       },
-      "thumbnail": null
+      "thumbnail": "assets/covers/bilibili-BV1Sw411z7NB-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Sw411z7NB",
+      "thumbnailProvenance": "2026-10-09：逐条打开原视频页面，核对标题及UP主，截图已暂停的真实播放器画面（00:16）；只裁去两侧黑边，保留原画面比例和水印。"
     },
     {
       "song": "Uptown Funk",
