@@ -3113,12 +3113,14 @@ globalThis.EIGHTCOUNT_DATA = {
       "title": "That's What I Like - Bruno Mars / Koosung Jung Choreography",
       "platform": "B站",
       "url": "https://www.bilibili.com/video/BV1VApcegEmE/",
-      "uploader": "风引云走",
+      "uploader": "全网最爱耄耋的up主",
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1VApcegEmE/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页，简介给出1MILLION原片9XlA1AVl_XM；为Koosung Jung编舞的转载。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页，简介给出1MILLION原片9XlA1AVl_XM；为Koosung Jung编舞的转载。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09原页面现显示UP主为“全网最爱耄耋的up主”（UID 12113811），原目录署名“风引云走”保留于此历史说明。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:22附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1VApcegEmE-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1VApcegEmE/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:22），保留原内容比例和水印。"
     },
     {
       "song": "美人计",
@@ -3134,7 +3136,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV15x411P7F7/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面说明来源为腾讯视频，含完整音乐与分解动作两个分P；发布者为转载账号，标题中的官方不表示UP主是蔡依林。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面说明来源为腾讯视频，含完整音乐与分解动作两个分P；发布者为转载账号，标题中的官方不表示UP主是蔡依林。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:26附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV15x411P7F7-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV15x411P7F7/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:26），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "表白",
@@ -3150,7 +3155,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1b41hYREoX/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。舞者讲解及翻跳；标题中的原版指编舞版本，并非萧亚轩本人表演。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。舞者讲解及翻跳；标题中的原版指编舞版本，并非萧亚轩本人表演。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:21附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1b41hYREoX-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1b41hYREoX/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:21），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "精舞门",
@@ -3167,7 +3175,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "镜面",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Nt411M7Pc/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。Seven老师的小片段镜面教学，并非全曲。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。Seven老师的小片段镜面教学，并非全曲。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:21附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Nt411M7Pc-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Nt411M7Pc/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:21），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "快乐崇拜",
@@ -3186,7 +3197,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1fy4y1d7TD/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介说明为课间操版与原MV版舞蹈；原唱为潘玮柏与张韶涵，舞者为紫嘉儿。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介说明为课间操版与原MV版舞蹈；原唱为潘玮柏与张韶涵，舞者为紫嘉儿。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:18附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1fy4y1d7TD-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1fy4y1d7TD/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:18），保留原内容比例和水印。"
     },
     {
       "song": "不潮不用花钱",
@@ -3203,7 +3217,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "翻跳",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Cm421J7jF/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已读取直页，确认发布账号与歌曲；这是舞者复刻翻跳。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已读取直页，确认发布账号与歌曲；这是舞者复刻翻跳。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Cm421J7jF-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Cm421J7jF/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "莲",
@@ -3221,7 +3238,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1qK411p7hW/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面创作团队列出舞蹈区小锦鲤为UP主、张艺兴工作室为视频制作；为江边Krump舞蹈版本。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面创作团队列出舞蹈区小锦鲤为UP主、张艺兴工作室为视频制作；为江边Krump舞蹈版本。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:18附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1qK411p7hW-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1qK411p7hW/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:18），保留原内容比例和水印。"
     },
     {
       "song": "My Boo",
@@ -3237,7 +3257,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ZK411T7My/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。申旭阔原创爵士编舞，非易烊千玺本人表演。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。申旭阔原创爵士编舞，非易烊千玺本人表演。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:25附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1ZK411T7My-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1ZK411T7My/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:25），保留原内容比例和水印。"
     },
     {
       "song": "无价之姐",
@@ -3253,7 +3276,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1uD4y1S7My/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题与简介标明申旭阔编舞，歌曲演唱为李宇春。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题与简介标明申旭阔编舞，歌曲演唱为李宇春。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图01:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1uD4y1S7My-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1uD4y1S7My/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（01:20），保留原内容比例和水印。"
     },
     {
       "song": "Honey",
@@ -3268,7 +3294,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1UP411373P/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。王心凌歌曲的副歌教学与变速跟练；标题含作者宣传语，不代表疗效验证。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。王心凌歌曲的副歌教学与变速跟练；标题含作者宣传语，不代表疗效验证。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:17附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1UP411373P-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1UP411373P/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:17），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "要你管",
@@ -3285,7 +3314,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1XK4y157Ew/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面创作团队列出TF家族为UP主、时代少年团为参演。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面创作团队列出TF家族为UP主、时代少年团为参演。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:17附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1XK4y157Ew-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1XK4y157Ew/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:17），保留原内容比例和水印。"
     },
     {
       "song": "青春修炼手册",
@@ -3301,7 +3333,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "镜面",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Dx411N77K/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面列出镜面放慢与镜面原速两个分P，属于镜像慢速编辑版本。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面列出镜面放慢与镜面原速两个分P，属于镜像慢速编辑版本。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:19附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Dx411N77K-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Dx411N77K/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:19），保留原内容比例和水印。"
     },
     {
       "song": "卡路里",
@@ -3317,7 +3352,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Pb411B762/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介明确音乐为火箭少女101《卡路里》，编舞与舞者为杨馨可；东方舞改编。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介明确音乐为火箭少女101《卡路里》，编舞与舞者为杨馨可；东方舞改编。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:18附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Pb411B762-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Pb411B762/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:18），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "斯芬克斯",
@@ -3363,7 +3401,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1wb4y1S7kp/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。INTO1歌曲的伯远成员练习室直拍，非全团固定机位。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。INTO1歌曲的伯远成员练习室直拍，非全团固定机位。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:18附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1wb4y1S7kp-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1wb4y1S7kp/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:18），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "青苹果乐园",
@@ -3397,7 +3438,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/list/1015764080?bvid=BV1Nb4y1F7Zs&oid=623072071",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已通过B站带明确bvid的列表视频页核对标题与发布账号；独立直页抓取未成功。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已通过B站带明确bvid的列表视频页核对标题与发布账号；独立直页抓取未成功。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:21附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Nb4y1F7Zs-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Nb4y1F7Zs/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:21），保留原内容比例和水印。"
     },
     {
       "song": "最炫民族风",
@@ -3414,7 +3458,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV14X4y1c75k/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介为广场舞背面演示；并非凤凰传奇本人跳舞，也不是动作分解课程。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介为广场舞背面演示；并非凤凰传奇本人跳舞，也不是动作分解课程。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:22附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV14X4y1c75k-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV14X4y1c75k/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:22），保留原内容比例和水印。"
     },
     {
       "song": "小苹果",
@@ -3448,7 +3495,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/list/136064827?bvid=BV1aBeRz1E2v&oid=115088245850523",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已通过带明确bvid的B站列表视频页核对标题、账号与原唱信息；原创编舞课堂随拍。独立直页抓取未成功。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已通过带明确bvid的B站列表视频页核对标题、账号与原唱信息；原创编舞课堂随拍。独立直页抓取未成功。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:19附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1aBeRz1E2v-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1aBeRz1E2v/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:19），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "睫毛弯弯",
@@ -3464,7 +3514,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Fo4y1e73j/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。舞者制作的镜面分解教学；非王心凌本人表演。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。舞者制作的镜面分解教学；非王心凌本人表演。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:23附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Fo4y1e73j-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Fo4y1e73j/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:23），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "眉飞色舞",
@@ -3481,8 +3534,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "翻跳",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Zb411T7TF/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面标注眉飞色舞与翻跳，使用Remix版本。郑秀文为中文歌曲原唱，非发布者；未核验混音音轨制作者。 未实播，未验证当前播放可用性。",
-      "artistEvidenceUrl": "https://www.joox.com/my-en/single/nL5_AlTIfhYgrrp5AbRRBw%3D%3D"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面标注眉飞色舞与翻跳，使用Remix版本。郑秀文为中文歌曲原唱，非发布者；未核验混音音轨制作者。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:21附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "artistEvidenceUrl": "https://www.joox.com/my-en/single/nL5_AlTIfhYgrrp5AbRRBw%3D%3D",
+      "thumbnail": "assets/covers/bilibili-BV1Zb411T7TF-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Zb411T7TF/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:21），保留原内容比例和水印。"
     },
     {
       "song": "情人",
@@ -3498,7 +3554,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1PQ4y1P778/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介明确前半部分示范、后半部分动作分解教学。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介明确前半部分示范、后半部分动作分解教学。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:22附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1PQ4y1P778-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1PQ4y1P778/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:22），保留原内容比例和水印。"
     },
     {
       "song": "清明雨上",
@@ -3515,7 +3574,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rF41177op/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题及标签明确原创编舞、古典舞与许嵩；非歌手本人表演。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题及标签明确原创编舞、古典舞与许嵩；非歌手本人表演。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:19附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1rF41177op-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1rF41177op/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:19），保留原内容比例和水印。"
     },
     {
       "song": "潇洒小姐",
@@ -3532,7 +3594,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Sx411P7Fp/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面说明来源为腾讯，发布者是转载账号；标题中的官方不表示UP主为萧亚轩。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面说明来源为腾讯，发布者是转载账号；标题中的官方不表示UP主为萧亚轩。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:45附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Sx411P7Fp-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Sx411P7Fp/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:45），保留原内容比例和水印。"
     },
     {
       "song": "霍元甲",
@@ -3548,7 +3613,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1TP4y1Y7Fx/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已读取直页；简介说明融合功夫、太极、街舞，并列出编舞参考。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已读取直页；简介说明融合功夫、太极、街舞，并列出编舞参考。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:25附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1TP4y1Y7Fx-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1TP4y1Y7Fx/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:25），保留原内容比例和水印。"
     },
     {
       "song": "千盏",
@@ -3564,7 +3632,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1St41137Rz/",
-      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面列出舞蹈练习室与固定机位练习室两个版本。 未实播，未验证当前播放可用性。"
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面列出舞蹈练习室与固定机位练习室两个版本。 未实播，未验证当前播放可用性。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:26附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1St41137Rz-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1St41137Rz/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:26），保留原内容比例和水印。"
     },
     {
       "song": "怪美的",
@@ -4425,8 +4496,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV19Y4y1s7ru/",
-      "verificationNote": "已通过B站公开视频元数据核对歌曲、标题、UP主及练习室分P；此为YouTube官方练习室的转载，发布账号非艺人官方账号。未实播。",
-      "thumbnail": null
+      "verificationNote": "已通过B站公开视频元数据核对歌曲、标题、UP主及练习室分P；此为YouTube官方练习室的转载，发布账号非艺人官方账号。未实播。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:19附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV19Y4y1s7ru-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV19Y4y1s7ru/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:19），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "Kill Shot",
@@ -6636,12 +6709,14 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "镜面",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1844y1T7wS/",
-      "verificationNote": "已依据公开视频页面/检索元数据核对标题、发布账号及镜面说明或分P。作者说明及第2P均明确镜面cover，02:08，短于原曲，按剪辑片段收录；第3–6P为详细分解、数拍、慢速和原速跟音乐。不是艺人官方练习室。 未实播，播放与地区可用性需到原平台确认。",
-      "thumbnail": null,
+      "verificationNote": "已依据公开视频页面/检索元数据核对标题、发布账号及镜面说明或分P。作者说明及第2P均明确镜面cover，02:08，短于原曲，按剪辑片段收录；第3–6P为详细分解、数拍、慢速和原速跟音乐。不是艺人官方练习室。 未实播，播放与地区可用性需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1844y1T7wS-frame.jpg",
       "coverage": "片段：02:08剪辑版",
       "speed": "原速与慢速跟音乐；数拍与分解",
       "hasInstruction": true,
-      "practiceSections": "P2：镜面cover；P3–6：分解、数拍、慢/原速"
+      "practiceSections": "P2：镜面cover；P3–6：分解、数拍、慢/原速",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1844y1T7wS/?p=2",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印。"
     },
     {
       "song": "How You Like That",
