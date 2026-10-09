@@ -99,7 +99,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "镜面",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Lh4y147y6/",
       "thumbnail": "assets/covers/bilibili-BV1Lh4y147y6-frame.jpg",
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "region": "韩流",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Lh4y147y6/",
       "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实镜面练习室暂停画面（00:08）。"
@@ -152,7 +152,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "镜面",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1gS4y1q7VE/",
-      "verificationNote": "已通过B站公开检索结果核对视频直链、标题、UP主和歌曲。舞者的翻跳与慢速镜面教学，不是王心凌本人表演；标题中的“原版”指舞蹈版本。直页抓取未成功，未验证播放。",
+      "verificationNote": "已通过B站公开检索结果核对视频直链、标题、UP主和歌曲。舞者的翻跳与慢速镜面教学，不是王心凌本人表演；标题中的“原版”指舞蹈版本。直页抓取未成功，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "thumbnail": "assets/covers/bilibili-BV1gS4y1q7VE-frame.jpg",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1gS4y1q7VE/",
       "thumbnailProvenance": "2026-10-09：逐条打开原视频页面，核对标题及UP主，截图已暂停的真实播放器画面（00:17）；裁去黑边，非生成图。"
@@ -237,7 +237,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "日本",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1w5FDeiE1B/",
-      "verificationNote": "已通过B站公开检索结果核对视频直链、标题、发布账号及歌曲。发布账号显示为GARNiDELiA；账号名称不等于已独立核验官方认证。直页抓取返回412，未验证播放。",
+      "verificationNote": "已通过B站公开检索结果核对视频直链、标题、发布账号及歌曲。发布账号显示为GARNiDELiA；账号名称不等于已独立核验官方认证。直页抓取返回412，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "thumbnail": "assets/covers/bilibili-BV1w5FDeiE1B-frame.jpg",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1w5FDeiE1B/",
       "thumbnailProvenance": "2026-10-09：逐条打开原视频页面，核对标题及UP主，截图已暂停的真实播放器画面（00:10）；只裁去播放器黑边，保留原画面比例。"
@@ -277,7 +277,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/list/ml3166392607?bvid=BV1Ft411b7Jw&oid=41481915",
-      "verificationNote": "已通过B站含此BV号的列表页面核对标题、UP主和简介。简介标明TS白小白原创编舞、TS CREW表演，使用蔡依林歌曲；不是蔡依林本人练习室。视频直页未成功抓取，未验证播放。",
+      "verificationNote": "已通过B站含此BV号的列表页面核对标题、UP主和简介。简介标明TS白小白原创编舞、TS CREW表演，使用蔡依林歌曲；不是蔡依林本人练习室。视频直页未成功抓取，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "evidence": {
         "choreographer": "TS白小白",
         "performers": "TS CREW",
@@ -309,7 +309,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
       "thumbnail": "assets/covers/bilibili-BV1sB4y1g7iX-frame.jpg",
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "region": "韩流",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
       "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:13），保留水印。"
@@ -382,7 +382,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "翻跳",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Sw411z7NB",
-      "verificationNote": "已通过B站公开检索结果核对直链、标题、UP主及歌曲，另以原艺人官方音频确认歌曲署名。为两面桢的翻跳，不是Bruno Mars或Mark Ronson本人表演。直页抓取未成功，未验证播放。",
+      "verificationNote": "已通过B站公开检索结果核对直链、标题、UP主及歌曲，另以原艺人官方音频确认歌曲署名。为两面桢的翻跳，不是Bruno Mars或Mark Ronson本人表演。直页抓取未成功，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "evidence": {
         "artistEvidenceUrl": "https://www.youtube.com/watch?v=7Ya2U8XN_Zw"
       },
@@ -426,7 +426,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Au4y1H727/",
       "thumbnail": "assets/covers/bilibili-BV1Au4y1H727-frame.jpg",
-      "verificationNote": "已核对公开页面或检索记录中的标题、发布账号与链接；未验证完整播放与站外嵌入许可，实际可播性以原平台为准。",
+      "verificationNote": "已核对公开页面或检索记录中的标题、发布账号与链接；未验证完整播放与站外嵌入许可，实际可播性以原平台为准。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "region": "韩流",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Au4y1H727/",
       "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:12），保留原比例。"
@@ -461,7 +461,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV16C4y1F74C/",
       "thumbnail": "assets/covers/bilibili-BV16C4y1F74C-frame.jpg",
-      "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。",
+      "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "region": "韩流",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV16C4y1F74C/",
       "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:08），保留原比例。"
@@ -479,9 +479,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "JENNIE_JNB",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV13N4y1c7ns/",
-      "thumbnail": null,
-      "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV13N4y1c7ns-frame.jpg",
+      "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV13N4y1c7ns/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:28），保留原比例。"
     },
     {
       "song": "Pink Venom",
@@ -523,9 +525,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "aespa",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1eK1PYsEzp/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 账号名称不代表本站已核验官方认证。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1eK1PYsEzp-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 账号名称不代表本站已核验官方认证。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1eK1PYsEzp/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:16），保留原比例。"
     },
     {
       "song": "Whiplash",
@@ -576,9 +580,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "TXT_OFFICIAL",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1BG4y1Q7ns/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1BG4y1Q7ns-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1BG4y1Q7ns/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:13），保留原比例和水印。"
     },
     {
       "song": "S-Class",
@@ -595,9 +601,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "StrayKids",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1qm4y1i7r1/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1qm4y1i7r1-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1qm4y1i7r1/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:21），仅裁去黑边，保留原内容比例。"
     },
     {
       "song": "Magnetic",
@@ -614,9 +622,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "鳕鱼堡儿",
       "type": "分解教学",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Hp42117og/",
-      "thumbnail": null,
-      "verificationNote": "半曲教学。已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1Hp42117og-frame.jpg",
+      "verificationNote": "半曲教学。已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Hp42117og/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实教学暂停画面（00:16），保留原比例和水印。"
     },
     {
       "song": "THUNDER",
@@ -648,9 +658,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "口袋舞蹈君",
       "type": "分解教学",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1qF411F7c1/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1qF411F7c1-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1qF411F7c1/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实教学暂停画面（00:13），仅裁黑边，保留竖屏比例和水印。"
     },
     {
       "song": "I AM",
@@ -664,9 +676,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "gestron99",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1hT411p7PV/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1hT411p7PV-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1hT411p7PV/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:10），保留原比例。"
     },
     {
       "song": "Love Me Like This",
@@ -680,9 +694,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "嗑糖少女000",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV14L411r7QU/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV14L411r7QU-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV14L411r7QU/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:18），保留原比例。"
     },
     {
       "song": "WANNABE",
@@ -696,9 +712,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "口袋舞蹈君",
       "type": "镜面",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Wa4y1t7uE/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1Wa4y1t7uE-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Wa4y1t7uE/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:29），保留原内容比例和水印。"
     },
     {
       "song": "SOLO",
@@ -713,9 +731,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "TranScend全盛舞蹈工作室",
       "type": "分解教学",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV11t411Q7aT/",
-      "thumbnail": null,
-      "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV11t411Q7aT-frame.jpg",
+      "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。 2026-10-09复核：原视频公开页面正常打开，已观察并截图真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV11t411Q7aT/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:14），保留原内容比例和水印。"
     },
     {
       "song": "Hype Boy",
@@ -730,9 +750,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "条妹一条",
       "type": "分解教学",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1kD4y167RB/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1kD4y167RB-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:32附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1kD4y167RB/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:32），保留原内容比例和水印。"
     },
     {
       "song": "Super Shy",
@@ -751,9 +773,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "条妹一条",
       "type": "分解教学",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1CW4y1f7HA/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "thumbnail": "assets/covers/bilibili-BV1CW4y1f7HA-frame.jpg",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1CW4y1f7HA/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印。"
     },
     {
       "song": "ANTIFRAGILE",
@@ -7294,7 +7318,7 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "欧美",
       "sourceEvidenceUrl": "https://mattsteffanina.com/shape-of-you-ed-sheeran-dance-tutorial-matt-steffanina-x-phillip-chbeeb-choreography/",
-      "verificationNote": "已读编舞者官网原页，含教学播放器及编舞署名；已与官方YouTube同名教程对应。官网与内嵌原视频属于同一版本。 未实播；仅提供原站观看入口，地区、登录及播放可用性以原站为准。",
+      "verificationNote": "已读编舞者官网原页，含教学播放器及编舞署名；已与官方YouTube同名教程对应。官网与内嵌原视频属于同一版本。 未实播；仅提供原站观看入口，地区、登录及播放可用性以原站为准。 2026-10-09复核：编舞者官网页面正常打开，已核对内嵌视频标题及ID，并逐页截图原始视频封面；未播放全片。",
       "thumbnail": "assets/covers/mattsteffanina-3DzkXeMFLpw-cover.jpg",
       "canonicalVideoUrl": "https://www.youtube.com/watch?v=3DzkXeMFLpw",
       "originalCreator": "Matt Steffanina / Phillip Chbeeb",
