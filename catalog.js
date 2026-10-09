@@ -98,9 +98,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "瞎闹什么的的",
       "type": "镜面",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Lh4y147y6/",
-      "thumbnail": null,
+      "thumbnail": "assets/covers/bilibili-BV1Lh4y147y6-frame.jpg",
       "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Lh4y147y6/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实镜面练习室暂停画面（00:08）。"
     },
     {
       "song": "Queencard",
@@ -306,9 +308,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "WNS_WeNeedBTS",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
-      "thumbnail": null,
+      "thumbnail": "assets/covers/bilibili-BV1sB4y1g7iX-frame.jpg",
       "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:13），保留水印。"
     },
     {
       "song": "Dynamite",
@@ -421,9 +425,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "BABYMONSTER_YG",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Au4y1H727/",
-      "thumbnail": null,
+      "thumbnail": "assets/covers/bilibili-BV1Au4y1H727-frame.jpg",
       "verificationNote": "已核对公开页面或检索记录中的标题、发布账号与链接；未验证完整播放与站外嵌入许可，实际可播性以原平台为准。",
-      "region": "韩流"
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Au4y1H727/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:12），保留原比例。"
     },
     {
       "song": "BATTER UP",
@@ -454,9 +460,11 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "嘎嘎爷不达",
       "type": "练习室",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV16C4y1F74C/",
-      "thumbnail": null,
+      "thumbnail": "assets/covers/bilibili-BV16C4y1F74C-frame.jpg",
       "verificationNote": "页面标题与发布账号已核对；播放状态以原平台为准。",
-      "region": "韩流"
+      "region": "韩流",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV16C4y1F74C/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实练习室暂停画面（00:08），保留原比例。"
     },
     {
       "song": "Pink Venom",
@@ -7287,12 +7295,14 @@ globalThis.EIGHTCOUNT_DATA = {
       "region": "欧美",
       "sourceEvidenceUrl": "https://mattsteffanina.com/shape-of-you-ed-sheeran-dance-tutorial-matt-steffanina-x-phillip-chbeeb-choreography/",
       "verificationNote": "已读编舞者官网原页，含教学播放器及编舞署名；已与官方YouTube同名教程对应。官网与内嵌原视频属于同一版本。 未实播；仅提供原站观看入口，地区、登录及播放可用性以原站为准。",
-      "thumbnail": null,
+      "thumbnail": "assets/covers/mattsteffanina-3DzkXeMFLpw-cover.jpg",
       "canonicalVideoUrl": "https://www.youtube.com/watch?v=3DzkXeMFLpw",
       "originalCreator": "Matt Steffanina / Phillip Chbeeb",
       "courseGroup": "Shape of You:Matt Steffanina:Phillip Chbeeb",
       "relationship": "embedded-alternate-source",
-      "addCanonicalIfMissing": true
+      "addCanonicalIfMissing": true,
+      "thumbnailSourceUrl": "https://mattsteffanina.com/shape-of-you-ed-sheeran-dance-tutorial-matt-steffanina-x-phillip-chbeeb-choreography/",
+      "thumbnailProvenance": "2026-10-09：逐条打开编舞者官网该教程页面，核对标题及内嵌YouTube视频3DzkXeMFLpw，截图页面显示的原视频封面；保留原画面比例。"
     },
     {
       "song": "Dynamite",
