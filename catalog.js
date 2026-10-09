@@ -2,24 +2,122 @@ globalThis.EIGHTCOUNT_DATA = {
   "checkedAt": "2026-10-09",
   "videos": [
     {
-      "song": "How You Like That",
-      "artist": "BLACKPINK",
+      "song": "FREAK",
+      "artist": "YUQI",
       "aliases": [
-        "粉墨",
-        "블랙핑크"
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기"
       ],
-      "title": "BLACKPINK - 'How You Like That' DANCE PERFORMANCE VIDEO",
+      "title": "우기(YUQI) - 'FREAK' Choreography Practice Video",
       "platform": "YouTube",
-      "url": "https://www.youtube.com/watch?v=32si5cfrCNc",
-      "uploader": "BLACKPINK",
-      "type": "编舞视频",
-      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=32si5cfrCNc",
+      "url": "https://www.youtube.com/watch?v=dyFGwGFerAc",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=dyFGwGFerAc",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "FREAK",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기"
+      ],
+      "title": "〖宋雨琦〗'FREAK' Choreography Practice Video",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1qx4y1z7iw/",
+      "uploader": "i-dle_official",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/624243924?bvid=BV1qx4y1z7iw&oid=1003978811",
+      "verificationNote": "已通过B站公开页面或检索元数据核对歌曲、标题、发布账号与BV号；未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "FREAK",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기"
+      ],
+      "title": "〖4K镜面〗宋雨琦 - FREAK 练习室 直拍 分段循环 画放大 官方音轨♡扒舞专用",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1wD421K7b5/",
+      "uploader": "小鱼旺仔",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/34928337?bvid=BV1wD421K7b5&oid=1503994005",
+      "verificationNote": "已通过B站公开视频列表核对BV号、标题、发布账号及分P；饭制镜像/慢速处理版，非官方独立教学。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "FREAK",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기"
+      ],
+      "title": "舞蹈翻跳 FREAK--宋雨琦 老师，这样够freak了吗？",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Kb421a7iH/",
+      "uploader": "zxueying",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Kb421a7iH/",
+      "verificationNote": "已通过B站公开视频元数据核对歌曲、标题及UP主；舞者翻跳，不是宋雨琦本人表演。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Queencard",
+      "artist": "i-dle",
+      "aliases": [
+        "GIDLE",
+        "퀸카",
+        "(G)I-DLE",
+        "女娃"
+      ],
+      "title": "(G)I-DLE Queencard 练习室镜面扒舞",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Lh4y147y6/",
+      "uploader": "瞎闹什么的的",
+      "type": "镜面",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Lh4y147y6/",
       "thumbnail": null,
-      "verificationNote": "已核对公开视频的标题与发布账号信息；原页面与播放状态请到原平台确认。",
-      "localThumbnail": "assets/blackpink-hylt-preview.png",
-      "imageSource": "https://ononestudios.com/the-ultimate-kpop-dance-guide-become-an-iconic-kpop-dancer/",
-      "imageKind": "Screenshot preview from exact dance performance video, article-hosted",
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
       "region": "韩流"
+    },
+    {
+      "song": "Queencard",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "퀸카",
+        "女王卡"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=pKCaXYYwGjw",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=pKCaXYYwGjw",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
     },
     {
       "song": "爱你",
@@ -56,6 +154,26 @@ globalThis.EIGHTCOUNT_DATA = {
       "thumbnail": null
     },
     {
+      "song": "How You Like That",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크"
+      ],
+      "title": "BLACKPINK - 'How You Like That' DANCE PERFORMANCE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=32si5cfrCNc",
+      "uploader": "BLACKPINK",
+      "type": "编舞视频",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=32si5cfrCNc",
+      "thumbnail": null,
+      "verificationNote": "已核对公开视频的标题与发布账号信息；原页面与播放状态请到原平台确认。",
+      "localThumbnail": "assets/blackpink-hylt-preview.png",
+      "imageSource": "https://ononestudios.com/the-ultimate-kpop-dance-guide-become-an-iconic-kpop-dancer/",
+      "imageKind": "Screenshot preview from exact dance performance video, article-hosted",
+      "region": "韩流"
+    },
+    {
       "song": "Shape of You",
       "artist": "Ed Sheeran",
       "aliases": [
@@ -79,43 +197,6 @@ globalThis.EIGHTCOUNT_DATA = {
         ]
       },
       "thumbnail": null
-    },
-    {
-      "song": "Dynamite",
-      "artist": "BTS",
-      "aliases": [
-        "防弹少年团",
-        "방탄소년단"
-      ],
-      "title": "〖WNS中字〗210604 4K [CHOREOGRAPHY] BTS‘Dynamite’ Dance Practice(Cute & Lovely ver.)",
-      "platform": "B站",
-      "url": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
-      "uploader": "WNS_WeNeedBTS",
-      "type": "练习室",
-      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
-    },
-    {
-      "song": "Dynamite",
-      "artist": "BTS",
-      "aliases": [
-        "防弹少年团",
-        "방탄소년단"
-      ],
-      "title": "[CHOREOGRAPHY] BTS (방탄소년단) ‘Dynamite’ Dance Practice (Cute & Lovely ver.) #2021BTSFESTA",
-      "platform": "YouTube",
-      "url": "https://www.youtube.com/watch?v=WhDsAW1ZzZ8",
-      "uploader": "BANGTANTV",
-      "type": "练习室",
-      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=WhDsAW1ZzZ8",
-      "thumbnail": null,
-      "verificationNote": "已核对公开视频的标题与发布账号信息；原页面与播放状态请到原平台确认。",
-      "localThumbnail": "assets/bts-dynamite-preview.jpg",
-      "imageSource": "https://weverse.io/bts/media/0-6976646",
-      "imageKind": "Official Weverse thumbnail for Cute & Lovely ver. dance practice",
-      "region": "韩流"
     },
     {
       "song": "極楽浄土",
@@ -185,6 +266,43 @@ globalThis.EIGHTCOUNT_DATA = {
         ]
       },
       "thumbnail": null
+    },
+    {
+      "song": "Dynamite",
+      "artist": "BTS",
+      "aliases": [
+        "防弹少年团",
+        "방탄소년단"
+      ],
+      "title": "〖WNS中字〗210604 4K [CHOREOGRAPHY] BTS‘Dynamite’ Dance Practice(Cute & Lovely ver.)",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
+      "uploader": "WNS_WeNeedBTS",
+      "type": "练习室",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sB4y1g7iX/",
+      "thumbnail": null,
+      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
+      "region": "韩流"
+    },
+    {
+      "song": "Dynamite",
+      "artist": "BTS",
+      "aliases": [
+        "防弹少年团",
+        "방탄소년단"
+      ],
+      "title": "[CHOREOGRAPHY] BTS (방탄소년단) ‘Dynamite’ Dance Practice (Cute & Lovely ver.) #2021BTSFESTA",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WhDsAW1ZzZ8",
+      "uploader": "BANGTANTV",
+      "type": "练习室",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=WhDsAW1ZzZ8",
+      "thumbnail": null,
+      "verificationNote": "已核对公开视频的标题与发布账号信息；原页面与播放状态请到原平台确认。",
+      "localThumbnail": "assets/bts-dynamite-preview.jpg",
+      "imageSource": "https://weverse.io/bts/media/0-6976646",
+      "imageKind": "Official Weverse thumbnail for Cute & Lovely ver. dance practice",
+      "region": "韩流"
     },
     {
       "song": "Super",
@@ -515,23 +633,6 @@ globalThis.EIGHTCOUNT_DATA = {
       "uploader": "口袋舞蹈君",
       "type": "镜面",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Wa4y1t7uE/",
-      "thumbnail": null,
-      "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
-      "region": "韩流"
-    },
-    {
-      "song": "Queencard",
-      "artist": "(G)I-DLE",
-      "aliases": [
-        "GIDLE",
-        "퀸카"
-      ],
-      "title": "(G)I-DLE Queencard 练习室镜面扒舞",
-      "platform": "B站",
-      "url": "https://www.bilibili.com/video/BV1Lh4y147y6/",
-      "uploader": "瞎闹什么的的",
-      "type": "镜面",
-      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Lh4y147y6/",
       "thumbnail": null,
       "verificationNote": "已按公开检索信息核对标题与发布账号；原页面和播放状态需到原平台确认。",
       "region": "韩流"
@@ -1398,6 +1499,2735 @@ globalThis.EIGHTCOUNT_DATA = {
         "language": "泰卢固语",
         "artistEvidenceUrl": "https://goldhouse.org/media_entertainment/natu-natu-rrr/"
       },
+      "thumbnail": null
+    },
+    {
+      "song": "Mainstream",
+      "artist": "BE:FIRST",
+      "aliases": [
+        "BEFIRST"
+      ],
+      "title": "BE:FIRST / Mainstream -Dance Practice-",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=MIGCjK-9TDA",
+      "uploader": "BE:FIRST Official",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=MIGCjK-9TDA",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "FANFARE",
+      "artist": "INI",
+      "aliases": [],
+      "title": "INI｜'FANFARE' Practice Video (Fix Ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=URkh4yWdfZI",
+      "uploader": "INI",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=URkh4yWdfZI",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "D.D.",
+      "artist": "Snow Man",
+      "aliases": [
+        "雪人"
+      ],
+      "title": "Snow Man「D.D.」(dance ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=aWJqUqC0s6w",
+      "uploader": "Snow Man",
+      "type": "编舞视频",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=aWJqUqC0s6w",
+      "verificationNote": "官方定点舞蹈版本（dance ver.），不是普通音乐MV。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "SHOOTING STAR",
+      "artist": "XG",
+      "aliases": [],
+      "title": "XG - SHOOTING STAR (Dance Practice Fix ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=NNooo5vox8o",
+      "uploader": "XG",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=NNooo5vox8o",
+      "verificationNote": "日本团体XG英文歌曲；保留Fix ver.定点版本。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "LEFT RIGHT",
+      "artist": "XG",
+      "aliases": [],
+      "title": "XG - LEFT RIGHT (Dance Practice Fix ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=RB1i1MLYeQ4",
+      "uploader": "XG",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=RB1i1MLYeQ4",
+      "verificationNote": "日本团体XG英文歌曲；保留Fix ver.定点版本。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "GENTO",
+      "artist": "SB19",
+      "aliases": [
+        "菲律宾"
+      ],
+      "title": "SB19 'GENTO' Rehearsal Video with the SKOUTS",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=LUWWh2_EMC4",
+      "uploader": "SB19 Official",
+      "type": "练习室",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=LUWWh2_EMC4",
+      "verificationNote": "SB19与SKOUTS的排练版本。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Pantropiko",
+      "artist": "BINI",
+      "aliases": [
+        "菲律宾"
+      ],
+      "title": "#BINI: ‘Pantropiko’ Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=wyxmSOidPzA",
+      "uploader": "BINI Official",
+      "type": "练习室",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=wyxmSOidPzA",
+      "verificationNote": "菲律宾BINI舞蹈练习。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "MOVE",
+      "artist": "TAEMIN",
+      "aliases": [
+        "泰民",
+        "李泰民",
+        "태민"
+      ],
+      "title": "TAEMIN 태민 'MOVE' Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=_cAskH1PtmQ",
+      "uploader": "SMTOWN",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=_cAskH1PtmQ",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "RINGA LINGA",
+      "artist": "TAEYANG",
+      "aliases": [
+        "太阳",
+        "太陽",
+        "태양",
+        "링가 링가"
+      ],
+      "title": "TAEYANG - 'RINGA LINGA' Dance Performance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Ho1y-4mXIL0",
+      "uploader": "BIGBANG",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Ho1y-4mXIL0",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Roll Deep",
+      "artist": "HyunA feat. Jung Il-hoon",
+      "aliases": [
+        "金泫雅",
+        "泫雅",
+        "현아",
+        "잘나가서 그래"
+      ],
+      "title": "현아(HYUNA) - '잘나가서 그래 (Feat. 정일훈 Of BTOB)' (Roll Deep) (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=taNZuKT2pSI",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=taNZuKT2pSI",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Any song",
+      "artist": "ZICO",
+      "aliases": [
+        "지코",
+        "아무노래",
+        "任何歌"
+      ],
+      "title": "지코 (ZICO) - 아무노래 (Any song) 안무연습영상｜Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=FLEqAO7OvvQ",
+      "uploader": "ZICO",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=FLEqAO7OvvQ",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Into the New World",
+      "artist": "Girls' Generation",
+      "aliases": [
+        "少女时代",
+        "少女時代",
+        "SNSD",
+        "다시 만난 세계"
+      ],
+      "title": "RESCENE 'Into the New World' Dance Practice (Original: Girls' Generation)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=G-1Nc7tTJns",
+      "uploader": "RESCENE",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=G-1Nc7tTJns",
+      "verificationNote": "这是RESCENE发布的少女时代歌曲翻跳练习，不是少女时代本人练习室。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "4 Walls",
+      "artist": "f(x)",
+      "aliases": [
+        "函数",
+        "에프엑스"
+      ],
+      "title": "IS:SUE (イッシュ) '4 Walls' (Original by f(x)) Dance Practice [2024 ENA K POP UP CHART SHOW IN JAPAN]",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=TLHuhZFXx5I",
+      "uploader": "IS:SUE",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=TLHuhZFXx5I",
+      "verificationNote": "这是IS:SUE发布的f(x)歌曲翻跳练习；按原曲归入韩流，不按舞者国籍归类。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Dumhdurum",
+      "artist": "Apink",
+      "aliases": [
+        "阿粉",
+        "에이핑크",
+        "덤더럼"
+      ],
+      "title": "APink - Dumhdurum | Dance Cover | Choreography Mirror Mode MIRRORED | Practice Room PRACTICE ver.",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=kCc6AclLLco",
+      "uploader": "ARTBEAT",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=kCc6AclLLco",
+      "verificationNote": "这是ARTBEAT旗下AB PROJECT的镜面翻跳练习，原唱为Apink，非Apink本人。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Nonstop",
+      "artist": "OH MY GIRL",
+      "aliases": [
+        "噜妹",
+        "오마이걸",
+        "살짝 설렜어"
+      ],
+      "title": "오마이걸(OH MY GIRL)_살짝 설렜어 (Nonstop) Dance Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=t5CwVVIp934",
+      "uploader": "OH MY GIRL",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=t5CwVVIp934",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "As You Wish",
+      "artist": "WJSN",
+      "aliases": [
+        "宇宙少女",
+        "우주소녀",
+        "이루리"
+      ],
+      "title": "[Dance Practice] 우주소녀 (WJSN) - 이루리 (As You Wish) 우정들 소원 이루리 Ver.",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=JOkRHLIVjJU",
+      "uploader": "STARSHIP",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=JOkRHLIVjJU",
+      "verificationNote": "标题标注的特别版练习视频，版本名保留原文。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Scream",
+      "artist": "Dreamcatcher",
+      "aliases": [
+        "捕梦网",
+        "드림캐쳐"
+      ],
+      "title": "Dreamcatcher(드림캐쳐) 'Scream' Dance Video (연습실 ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=r16E2utaK3k",
+      "uploader": "Dreamcatcher official",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=r16E2utaK3k",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "DUN DUN",
+      "artist": "EVERGLOW",
+      "aliases": [
+        "에버글로우"
+      ],
+      "title": "[EVERGLOW] DUN DUN Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ghUjmkl1U8Q",
+      "uploader": "EVERGLOW",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=ghUjmkl1U8Q",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "WA DA DA",
+      "artist": "Kep1er",
+      "aliases": [
+        "케플러"
+      ],
+      "title": "Kep1er 케플러 | 'WA DA DA' Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=UuYXLLas-5k",
+      "uploader": "Kep1er",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=UuYXLLas-5k",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "FIESTA",
+      "artist": "IZ*ONE",
+      "aliases": [
+        "IZONE",
+        "아이즈원"
+      ],
+      "title": "IZ*ONE (아이즈원) - 'FIESTA' Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=kCk8x__pXvE",
+      "uploader": "official IZ*ONE",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=kCk8x__pXvE",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "I AM THE BEST",
+      "artist": "2NE1",
+      "aliases": [
+        "내가 제일 잘 나가"
+      ],
+      "title": "2NE1 \"I AM THE BEST\" Choreography Practice (Uncut Ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=fl19JYqW6MI",
+      "uploader": "2NE1",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=fl19JYqW6MI",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Hard Carry",
+      "artist": "GOT7",
+      "aliases": [
+        "갓세븐",
+        "하드캐리"
+      ],
+      "title": "GOT7(갓세븐) \"하드캐리\" Dance Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=-XbNyh4GP-0",
+      "uploader": "GOT7",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=-XbNyh4GP-0",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Shoot Out",
+      "artist": "MONSTA X",
+      "aliases": [
+        "MONSTAX",
+        "몬스타엑스"
+      ],
+      "title": "[Dance Practice] 몬스타엑스 (MONSTA X) - 'SHOOT OUT' Stage costume ver. (FIX ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=f_sBAFCZxdo",
+      "uploader": "STARSHIP",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=f_sBAFCZxdo",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Shangri-La",
+      "artist": "VIXX",
+      "aliases": [
+        "桃源境",
+        "도원경",
+        "빅스"
+      ],
+      "title": "빅스(VIXX) - 도원경(桃源境) (Shangri-La) Dance Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=0ZcmWd6GypU",
+      "uploader": "RealVIXX",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=0ZcmWd6GypU",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "The Chaser",
+      "artist": "INFINITE",
+      "aliases": [
+        "无限团",
+        "인피니트",
+        "추격자"
+      ],
+      "title": "INFINITE - The Chaser mirrored Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=LaNFMfB0k84",
+      "uploader": "mirrorHD",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=LaNFMfB0k84",
+      "verificationNote": "mirrorHD发布的第三方镜面版本，不是INFINITE官方账号。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "LOVE SCENARIO",
+      "artist": "iKON",
+      "aliases": [
+        "사랑을 했다",
+        "恋爱剧本"
+      ],
+      "title": "iKON - '사랑을 했다 (LOVE SCENARIO)' DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=heIvcW7nw5U",
+      "uploader": "iKON",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=heIvcW7nw5U",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Shine",
+      "artist": "PENTAGON",
+      "aliases": [
+        "펜타곤",
+        "빛나리",
+        "闪耀"
+      ],
+      "title": "PENTAGON - \"Shine\" (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=6_v8n_zb5ak",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=6_v8n_zb5ak",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "The Stealer",
+      "artist": "THE BOYZ",
+      "aliases": [
+        "더보이즈"
+      ],
+      "title": "THE BOYZ(더보이즈) ‘The Stealer’ DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=fywIorp04B4",
+      "uploader": "THE BOYZ",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=fywIorp04B4",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "In Bloom",
+      "artist": "ZEROBASEONE",
+      "aliases": [
+        "ZB1",
+        "제로베이스원"
+      ],
+      "title": "ZEROBASEONE (제로베이스원) 'In Bloom' Dance Practice (Fix ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=lD4IcYiF2aM",
+      "uploader": "ZEROBASEONE",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=lD4IcYiF2aM",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Touch My Body",
+      "artist": "SISTAR",
+      "aliases": [
+        "씨스타"
+      ],
+      "title": "[Dance Practice] SISTAR(씨스타)_Touch my body_안무연습 Ver.",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=5IT2rFeF6XQ",
+      "uploader": "STARSHIP",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=5IT2rFeF6XQ",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Crazy",
+      "artist": "4MINUTE",
+      "aliases": [
+        "미쳐",
+        "发疯"
+      ],
+      "title": "4MINUTE - Crazy (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=2qJPDmUhPIM",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=2qJPDmUhPIM",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Miniskirt",
+      "artist": "AOA",
+      "aliases": [
+        "짧은 치마",
+        "短裙"
+      ],
+      "title": "AOA - 짧은 치마(Miniskirt) 안무영상(Dance Practice) Full ver.",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=56hGcCt0NuU",
+      "uploader": "AOA",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=56hGcCt0NuU",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "BBoom BBoom",
+      "artist": "MOMOLAND",
+      "aliases": [
+        "모모랜드",
+        "뿜뿜"
+      ],
+      "title": "MOMOLAND(모모랜드) - \"뿜뿜(BBoom BBoom)\" Moving Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=S_qFgyrABXQ",
+      "uploader": "MLD ENTERTAINMENT",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=S_qFgyrABXQ",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "オトナブルー",
+      "artist": "ATARASHII GAKKO!",
+      "aliases": [
+        "OTONABLUE",
+        "新しい学校のリーダーズ",
+        "新学校领袖"
+      ],
+      "title": "【オトナブルー 】Dance Practice　ATARASHII GAKKO!",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=XCLajejueU0",
+      "uploader": "ATARASHII GAKKO! - 新しい学校のリーダーズ",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=XCLajejueU0",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "JUST DANCE!",
+      "artist": "Travis Japan",
+      "aliases": [],
+      "title": "Travis Japan - 'JUST DANCE!' -Dance Practice-",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=glnBM_ZwAus",
+      "uploader": "Travis Japan",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=glnBM_ZwAus",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Because of You, I Shine",
+      "artist": "BUS",
+      "aliases": [
+        "BUS because of you i shine",
+        "泰国"
+      ],
+      "title": "BUS ‘Because of You, I Shine’  DANCE PRACTICE (Playground Version)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=uNWKvnXAgMY",
+      "uploader": "BUS because of you i shine",
+      "type": "练习室",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=uNWKvnXAgMY",
+      "verificationNote": "Playground Version练习版本；泰国团体。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "VROOM VROOM",
+      "artist": "4EVE",
+      "aliases": [
+        "泰国"
+      ],
+      "title": "4EVE - VROOM VROOM Prod. by URBOYTJ | Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=DP00neu0-9o",
+      "uploader": "4EVE",
+      "type": "练习室",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=DP00neu0-9o",
+      "verificationNote": "泰国4EVE舞蹈练习；URBOYTJ为标题标注制作人，不作为原唱艺人。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Envolver",
+      "artist": "Anitta",
+      "aliases": [
+        "安妮塔",
+        "巴西"
+      ],
+      "title": "Envolver - Anitta | FitDance (Coreografia) | Dance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=9dQC2eIzBsg",
+      "uploader": "FitDance",
+      "type": "编舞视频",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=9dQC2eIzBsg",
+      "verificationNote": "FitDance舞者的编舞展示，原唱为Anitta，不是Anitta本人表演；按巴西拉丁流行归入其他。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Con Calma",
+      "artist": "Daddy Yankee & Snow",
+      "aliases": [
+        "洋基老爹",
+        "Snow"
+      ],
+      "title": "Daddy Yankee - Con Calma OFFICIAL DANCE TUTORIAL by Chapkis Dance (Video #1)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=n-awEsIbXlo",
+      "uploader": "ChapkisDanceUSA",
+      "type": "分解教学",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=n-awEsIbXlo",
+      "verificationNote": "ChapkisDanceUSA发布的分解教程第一部分，编舞者Greg Chapkis及Dylan Michael；不是Daddy Yankee本人教学。已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。",
+      "evidence": {
+        "artistEvidenceUrl": "https://www.youtube.com/watch?v=DiItGE3eAyQ"
+      }
+    },
+    {
+      "song": "Make you happy",
+      "artist": "NiziU",
+      "aliases": [
+        "ニジュー"
+      ],
+      "title": "NiziU「Make you happy」Dance Performance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=aXAzTUbUB6Y",
+      "uploader": "NiziU Official",
+      "type": "编舞视频",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=aXAzTUbUB6Y",
+      "verificationNote": "已通过YouTube公开检索元数据核对视频直链、实际标题、发布频道及舞蹈类型；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "GENTO",
+      "artist": "SB19",
+      "aliases": [
+        "菲律宾"
+      ],
+      "title": "〖小姨妈〗保姆级舞蹈教学SB19- GENTO翻跳+详细教程",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Kw411q7vY/",
+      "uploader": "小姨妈舞蹈教学",
+      "type": "分解教学",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Kw411q7vY/",
+      "verificationNote": "为舞者翻跳与片段教程，页面列镜面展示00:23、喊拍慢速01:53、零基础讲解15:36，不称全曲。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "FIESTA",
+      "artist": "IZ*ONE",
+      "aliases": [
+        "IZONE",
+        "아이즈원"
+      ],
+      "title": "〖苏司喵〗IZ*ONE“Fiesta”超详细舞蹈分解教程 镜面",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1e7411T7oC/",
+      "uploader": "苏司喵susiemeoww",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1e7411T7oC/",
+      "verificationNote": "苏司喵的翻跳分解教程，页面列多个动作分解分P，不是IZ*ONE本人练习室。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Dumhdurum",
+      "artist": "Apink",
+      "aliases": [
+        "阿粉",
+        "에이핑크",
+        "덤더럼"
+      ],
+      "title": "〖南舞团〗 Dumhdurum apink 韩舞 舞蹈教学 翻跳 练习室（上）",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Xf4y1S7Fy/",
+      "uploader": "南舞团官方账号",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Xf4y1S7Fy/",
+      "verificationNote": "南舞团翻跳教学上部；页面注明下部另行购买，不能当作免费完整版。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "In Bloom",
+      "artist": "ZEROBASEONE",
+      "aliases": [
+        "ZB1",
+        "제로베이스원"
+      ],
+      "title": "[ZB1] 'In Bloom' Dance Practice (Moving ver.)",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1th4y1L78t/",
+      "uploader": "ZEROBASEONE",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1th4y1L78t/",
+      "verificationNote": "发布账号显示为ZEROBASEONE；此条为Moving ver.，不是定点版。未独立核验账号认证。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "オトナブルー",
+      "artist": "ATARASHII GAKKO!",
+      "aliases": [
+        "OTONABLUE",
+        "新しい学校のリーダーズ",
+        "新学校领袖"
+      ],
+      "title": "ATARASHII GAKKO! - OTONABLUE (官方编舞版)",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV16H4y1y7nc/",
+      "uploader": "ATARASHIIGAKKO",
+      "type": "编舞视频",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV16H4y1y7nc/",
+      "verificationNote": "简介标明编舞与表演为ATARASHII GAKKO!；账号名称与标题中的“官方”不等于已独立核验认证。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "BBoom BBoom",
+      "artist": "MOMOLAND",
+      "aliases": [
+        "모모랜드",
+        "뿜뿜"
+      ],
+      "title": "〖全盛舞蹈工作室〗MOMOLAND《BBOOM BBOOM》舞蹈教学练习室",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1sW411E7pw/",
+      "uploader": "TranScend全盛舞蹈工作室",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sW411E7pw/",
+      "verificationNote": "页面简介将创作类型标为翻跳、舞者为TS FAMILY；按翻跳收录，标题带教学不等于已核实分解教程。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "Scream",
+      "artist": "Dreamcatcher",
+      "aliases": [
+        "捕梦网",
+        "드림캐쳐"
+      ],
+      "title": "女团刀群舞标杆！Dreamcatcher《Scream》官方舞蹈练习室视频公开！",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1K7411A7WV/",
+      "uploader": "爱豆安利所",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1K7411A7WV/",
+      "verificationNote": "页面标注YouTube来源，为第三方转载团体练习室；第一分P03:28，另有MV预告分P，不把预告列为舞蹈。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+    },
+    {
+      "song": "New Rules",
+      "artist": "Dua Lipa",
+      "aliases": [
+        "杜娃·黎波",
+        "杜阿·利帕"
+      ],
+      "title": "New Rules - Dua Lipa / Jin Lee Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=iyCMc9LzLrM",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=iyCMc9LzLrM",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Jin Lee的编舞课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "New Rules",
+      "artist": "Dua Lipa",
+      "aliases": [
+        "杜娃·黎波",
+        "杜阿·利帕"
+      ],
+      "title": "〖1M基础〗K chan 编舞《New Rules》",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV16R4y1o76w/",
+      "uploader": "1MILLION_OFFICIAL",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/35836017?bvid=BV16R4y1o76w&oid=347943751",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已核对含该BV号的B站列表页标题与UP主；K chan的基础编舞课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Levitating",
+      "artist": "Dua Lipa feat. DaBaby",
+      "aliases": [
+        "Dua Lipa",
+        "杜娃·黎波",
+        "悬浮"
+      ],
+      "title": "Dua Lipa - Levitating ft. DaBaby / Ara Cho Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=LUteQ_Z6tDo",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=LUteQ_Z6tDo",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介注明Ara Cho编舞，音源为含DaBaby的版本。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "7 rings",
+      "artist": "Ariana Grande",
+      "aliases": [
+        "A妹",
+        "爱莉安娜·格兰德"
+      ],
+      "title": "7 rings - Ariana Grande / Mina Myoung Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WfwV8vkIXvI",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=WfwV8vkIXvI",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Mina Myoung编舞的课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "7 rings",
+      "artist": "Ariana Grande",
+      "aliases": [
+        "A妹",
+        "爱莉安娜·格兰德"
+      ],
+      "title": "〖1M舞室〗7 rings - Ariana Grande ⁄ Mina Myoung编舞",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1hb411y7nR/",
+      "uploader": "环球瑜伽",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1hb411y7nR/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介明确转载自1MILLION的WfwV8vkIXvI，发布账号为环球瑜伽，非原编舞频道。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "bad guy",
+      "artist": "Billie Eilish",
+      "aliases": [
+        "碧梨",
+        "比莉·艾利什"
+      ],
+      "title": "bad guy - Billie Eilish / Koosung Jung Choreography with THE BOYZ",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zZp8USkoNYA",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=zZp8USkoNYA",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Koosung Jung编舞，THE BOYZ参与舞蹈；歌曲原唱仍为Billie Eilish。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Toxic",
+      "artist": "Britney Spears",
+      "aliases": [
+        "布兰妮",
+        "布兰妮·斯皮尔斯"
+      ],
+      "title": "〖原版编舞系列〗布兰妮Toxic原版编舞翻跳——来自国外粉丝Yuri Vital",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1n97mzYEg3/",
+      "uploader": "黄寅脱-坨坨日记",
+      "type": "翻跳",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1n97mzYEg3/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介指明转载自Yuri Vital的翻跳，不是Britney Spears本人舞蹈录像。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "BILLIE EILISH.",
+      "artist": "Armani White",
+      "aliases": [
+        "Armani white"
+      ],
+      "title": "〖EXP舞室〗阿飘编舞-Billie Eilish.",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1QM411177a/",
+      "uploader": "EXP舞室",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1QM411177a/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介明确写出音乐Armani white-Billie Eilish.；此处Billie Eilish.是歌名，不应把Billie Eilish标作原唱。阿飘编舞。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Abracadabra",
+      "artist": "Lady Gaga",
+      "aliases": [
+        "嘎嘎",
+        "女神卡卡",
+        "魔咒"
+      ],
+      "title": "我再说一遍，女王来了！Lady Gaga《Abracadabra》编舞",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1pVNDz5E7V/",
+      "uploader": "单色舞蹈官方",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1pVNDz5E7V/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介注明任佳编舞、单色流行舞进修系统班学员表演。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "aliases": [
+        "莎宾娜·卡本特",
+        "塞布丽娜·卡彭特",
+        "匠妹"
+      ],
+      "title": "YGX-Bini编舞 Sabrina Carpenter ‘Nonsense’",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1rh4y1G7yV/",
+      "uploader": "胆小的狮子小姐",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rh4y1G7yV/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。标题与分P标明YGX-Bini编舞；UP主转载自YouTube，不是Sabrina Carpenter本人表演。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Sorry",
+      "artist": "Justin Bieber",
+      "aliases": [
+        "贾斯汀·比伯",
+        "比伯"
+      ],
+      "title": "Justin Bieber - \"SORRY\" Dance TUTORIAL | @MattSteffanina Choreography (@JustinBieber)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=2zcFiA71zy4",
+      "uploader": "DNCR Dance Tutorials",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=2zcFiA71zy4",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Matt Steffanina自编舞的动作分解教学。直页抓取未成功，标题及当前频道名经YouTube公开检索元数据核对。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Work",
+      "artist": "Rihanna feat. Drake",
+      "aliases": [
+        "Rihanna",
+        "蕾哈娜",
+        "Drake",
+        "公鸭"
+      ],
+      "title": "\"WORK\" - Rihanna Dance TUTORIAL | @MattSteffanina Choreography (#DanceCoverContest)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=w6DmlFyB6SE",
+      "uploader": "DNCR Dance Tutorials",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=w6DmlFyB6SE",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Matt Steffanina自编舞的动作分解教学。歌曲合作署名另核对Rihanna频道原曲。直页抓取未成功。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null,
+      "evidence": {
+        "artistEvidenceUrl": "https://www.youtube.com/watch?v=HL1UzIK-flA"
+      }
+    },
+    {
+      "song": "24K Magic",
+      "artist": "Bruno Mars",
+      "aliases": [
+        "火星哥",
+        "布鲁诺·马尔斯"
+      ],
+      "title": "24K Magic - Bruno Mars / Kasper Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=bmVyRL9WOA0",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=bmVyRL9WOA0",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kasper编舞的课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "24K Magic",
+      "artist": "Bruno Mars",
+      "aliases": [
+        "火星哥",
+        "布鲁诺·马尔斯"
+      ],
+      "title": "24K Magic - Bruno Mars / 1MILLION Dance Tutorial",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=wuA2IhduKlQ",
+      "uploader": "1MILLION Dance Tutorials",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=wuA2IhduKlQ",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kasper编舞的教学版，发布频道与1MILLION Dance Studio展示频道不同。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Cheap Thrills",
+      "artist": "Sia",
+      "aliases": [
+        "希雅"
+      ],
+      "title": "Sia | Cheap Thrills | Choreography by Viet Dang",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=9uTojYQm0N8",
+      "uploader": "moOon",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=9uTojYQm0N8",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介注明Viet Dang的Jazz Funk课堂录像；这个链接为编舞展示，教程在发布者另外提供的链接。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Me Too",
+      "artist": "Meghan Trainor",
+      "aliases": [
+        "梅根·特瑞娜",
+        "梅根·崔娜"
+      ],
+      "title": "Me Too - Meghan Trainor / Kevin Shin Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Mc5hnql7pjk",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Mc5hnql7pjk",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kevin Shin编舞的课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Me Too",
+      "artist": "Meghan Trainor",
+      "aliases": [
+        "梅根·特瑞娜",
+        "梅根·崔娜"
+      ],
+      "title": "〖阔少_申旭阔〗申旭阔编舞 《Me Too》Meghan Trainor 舞蹈 Kevin Shin Choreography",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Xw411Z7e5/",
+      "uploader": "阔少_申旭阔",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Xw411Z7e5/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介标注申旭阔编舞，说明是老舞新跳。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Wolves",
+      "artist": "Selena Gomez & Marshmello",
+      "aliases": [
+        "Selena Gomez",
+        "Marshmello",
+        "赛琳娜·戈麦斯",
+        "傻脸娜",
+        "棉花糖"
+      ],
+      "title": "Wolves - Selena Gomez, Marshmello / Jun Liu Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zbWsb36U0uo",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=zbWsb36U0uo",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Jun Liu编舞，简介明确两位歌曲艺人的署名。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Sugar",
+      "artist": "Maroon 5",
+      "aliases": [
+        "魔力红",
+        "魔力红乐队"
+      ],
+      "title": "Sugar - Maroon 5 / Eunho Kim Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=SDAL5VCdKpc",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=SDAL5VCdKpc",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Eunho Kim编舞的课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Sugar",
+      "artist": "Maroon 5",
+      "aliases": [
+        "魔力红",
+        "魔力红乐队"
+      ],
+      "title": "编舞展示收藏系列03《Sugar》Maroon 5〖Hilty & Bosch\"HB\"〗",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1rq4y1p74r/",
+      "uploader": "HiltyandBosch",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rq4y1p74r/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页；Hilty & Bosch双人街舞组合的编舞展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "aliases": [
+        "艾娃·麦克斯"
+      ],
+      "title": "Sweet but Psycho - Ava Max / Mina Myoung Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=yz5hrlhbaYI",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=yz5hrlhbaYI",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Mina Myoung编舞的课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "How Long",
+      "artist": "Charlie Puth",
+      "aliases": [
+        "查理·普斯",
+        "断眉"
+      ],
+      "title": "CHARLIE PUTH - How Long | Kyle Hanagami Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=iW2yUrXXRTI",
+      "uploader": "KYLE HANAGAMI",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=iW2yUrXXRTI",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kyle Hanagami编舞，多组舞者演绎；简介明确歌曲原唱Charlie Puth。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "aliases": [
+        "奥莉维亚·罗德里戈",
+        "奥利维亚·罗德里戈"
+      ],
+      "title": "OLIVIA RODRIGO -  Good 4 U | Kyle Hanagami Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=wWS5eQAVhGM",
+      "uploader": "KYLE HANAGAMI",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=wWS5eQAVhGM",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kyle Hanagami编舞，多组舞者演绎；简介明确曲目与专辑Sour。直页抓取未成功。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Adore You",
+      "artist": "Harry Styles",
+      "aliases": [
+        "哈里·斯泰尔斯",
+        "哈利·斯泰尔斯"
+      ],
+      "title": "HARRY STYLES - Adore You | Kyle Hanagami Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=JGXtLjvnurI",
+      "uploader": "KYLE HANAGAMI",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=JGXtLjvnurI",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kyle Hanagami编舞，多组舞者演绎。直页抓取未成功。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Formation",
+      "artist": "Beyoncé",
+      "aliases": [
+        "Beyonce",
+        "碧昂丝",
+        "碧昂斯"
+      ],
+      "title": "\"FORMATION\" - Beyonce Dance TUTORIAL | @MattSteffanina Choreography (Advanced)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Suhz7IMYNwE",
+      "uploader": "DNCR Dance Tutorials",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Suhz7IMYNwE",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。标题明确标注Advanced，是Matt Steffanina编舞的进阶教学，不是Beyoncé本人教学。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Say So",
+      "artist": "Doja Cat",
+      "aliases": [
+        "蜜桃猫",
+        "豆荚猫"
+      ],
+      "title": "Doja Cat - Say So / Beginner's Class",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=5Eiqnt-Kxqk",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=5Eiqnt-Kxqk",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介注明Tina Boo编舞；Beginner's Class指基础班课堂展示，未声称有逐步动作讲解。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Blinding Lights",
+      "artist": "The Weeknd",
+      "aliases": [
+        "盆栽",
+        "威肯"
+      ],
+      "title": "The Weeknd - Blinding Lights (Dance Routine & Tutorial) | Mandy Jiroux",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=QwAePAovK4w",
+      "uploader": "Mandy Jiroux",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=QwAePAovK4w",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。发布者说明是自己的编舞，含逐步动作讲解。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Blinding Lights",
+      "artist": "The Weeknd",
+      "aliases": [
+        "盆栽",
+        "威肯"
+      ],
+      "title": "TAP DANCE ROUTINE | \"Blinding Lights\" by The Weeknd | Tap dancing choreography, Beginner-friendly!",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=XSzivR81t5A",
+      "uploader": "Beginner Dance Tutorials",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=XSzivR81t5A",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。这是踢踏舞成品展示，含Level 1与Level 2；逐步教程为另一个链接，不把本条标成分解教学。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Swalla",
+      "artist": "Jason Derulo feat. Nicki Minaj & Ty Dolla $ign",
+      "aliases": [
+        "Jason Derulo",
+        "杰森·德鲁罗",
+        "Nicki Minaj",
+        "麻辣鸡"
+      ],
+      "title": "Swalla - Jason Derulo (ft. Nicki Minaj & Ty Dolla $ign) / Hyojin Choi Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=41iqt-RzZjQ",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=41iqt-RzZjQ",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Hyojin Choi编舞，歌曲合作署名见标题与简介。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Swalla",
+      "artist": "Jason Derulo feat. Nicki Minaj & Ty Dolla $ign",
+      "aliases": [
+        "Jason Derulo",
+        "杰森·德鲁罗",
+        "Nicki Minaj",
+        "麻辣鸡"
+      ],
+      "title": "Swalla - Jason Derulo ft. Nicki Minaj & Ty Dolla $ign / Junsun Yoo Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=a02n87pnY_U",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=a02n87pnY_U",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Junsun Yoo编舞，与Hyojin Choi版本是不同编舞。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "greedy",
+      "artist": "Tate McRae",
+      "aliases": [
+        "塔特·麦克雷",
+        "泰特·麦克蕾"
+      ],
+      "title": "Tate McRae - 'GREEDY' Dance | Matt Steffanina & Enola Bedard Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=BP8Jk3kDqbY",
+      "uploader": "Matt Steffanina",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=BP8Jk3kDqbY",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Matt Steffanina与Enola Bedard编舞；此视频是编舞展示，其DNCR教程是另行提供的内容。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Buttons",
+      "artist": "The Pussycat Dolls",
+      "aliases": [
+        "小野猫",
+        "小野猫组合"
+      ],
+      "title": "万人迷JOJO上线--《Buttons》依旧充满力量！完整版舞蹈+视频镜面分解 编舞：红房子",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1BA411b7P4/",
+      "uploader": "希娅爵士舞kiwi老师",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1BA411b7P4/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介标明翻跳JoJo编舞，kiwi老师表演；第1集为舞蹈展示，随后3集为分解。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null,
+      "evidence": {
+        "artistEvidenceUrl": "https://www.youtube.com/watch?v=XpNNhb7yEOA"
+      }
+    },
+    {
+      "song": "Buttons",
+      "artist": "The Pussycat Dolls",
+      "aliases": [
+        "小野猫",
+        "小野猫组合"
+      ],
+      "title": "BUTTONS (5 YEAR ANNIVERSARY) - THE PUSSYCAT DOLLS - CHOREOGRAPHY BY JOJO GOMEZ",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=XpNNhb7yEOA",
+      "uploader": "JoJo Gomez",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=XpNNhb7yEOA",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。JoJo Gomez频道发布的5周年编舞版。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null,
+      "evidence": {
+        "artistEvidenceUrl": "https://www.youtube.com/watch?v=XpNNhb7yEOA"
+      }
+    },
+    {
+      "song": "Worth It",
+      "artist": "Fifth Harmony feat. Kid Ink",
+      "aliases": [
+        "Fifth Harmony",
+        "五美",
+        "五佳人"
+      ],
+      "title": "May J Lee编舞《Worth It》舞蹈镜面分解教学〖口袋教学〗",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1iz4y1U7bu/",
+      "uploader": "口袋舞蹈君",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1iz4y1U7bu/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介说明May J Lee编舞、JEAN老师讲解；含镜面教学Part1至Part3。原唱署名另核对1MILLION原编舞视频。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null,
+      "evidence": {
+        "artistEvidenceUrl": "https://www.youtube.com/watch?v=zUDXj8REpAI"
+      }
+    },
+    {
+      "song": "Worth It",
+      "artist": "Fifth Harmony feat. Kid Ink",
+      "aliases": [
+        "Fifth Harmony",
+        "五美",
+        "五佳人"
+      ],
+      "title": "Worth it - Fifth Harmony ft.Kid Ink / May J Lee Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zUDXj8REpAI",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=zUDXj8REpAI",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。May J Lee编舞的课堂展示，标题和简介明确Fifth Harmony及Kid Ink。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "Waka Waka (This Time for Africa)",
+      "artist": "Shakira feat. Freshlyground",
+      "aliases": [
+        "Waka Waka",
+        "夏奇拉",
+        "哇咔哇咔"
+      ],
+      "title": "绿 茵 足 球 宝 贝！活力热舞《waka waka》〖清清〗",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV17Y411u7L6/",
+      "uploader": "耿清清呀",
+      "type": "翻跳",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV17Y411u7L6/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。B站简介注明BGM为Shakira-Waka waka，另核对Official Charts的Freshlyground合作署名；为舞者清清翻跳。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null,
+      "evidence": {
+        "artistEvidenceUrl": "https://www.officialcharts.com/songs/shakira-ft-freshlyground-waka-waka-this-time-for-africa/"
+      }
+    },
+    {
+      "song": "Scream",
+      "artist": "Usher",
+      "aliases": [
+        "亚瑟小子"
+      ],
+      "title": "世界级街舞大神Hilty & Bosch\"HB\"来了！极具感染力锁舞表演《Scream - Usher》",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1sh411674c/",
+      "uploader": "HiltyandBosch",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sh411674c/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页，标题明确歌曲Scream及原唱Usher；舞者为Hilty & Bosch。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "That's What I Like",
+      "artist": "Bruno Mars",
+      "aliases": [
+        "火星哥",
+        "布鲁诺·马尔斯"
+      ],
+      "title": "That's What I Like - Bruno Mars / Koosung Jung Choreography",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1VApcegEmE/",
+      "uploader": "风引云走",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1VApcegEmE/",
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页，简介给出1MILLION原片9XlA1AVl_XM；为Koosung Jung编舞的转载。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
+      "thumbnail": null
+    },
+    {
+      "song": "美人计",
+      "artist": "蔡依林",
+      "aliases": [
+        "美人計",
+        "Jolin Tsai"
+      ],
+      "title": "蔡依林 Jolin Tsai - 美人计 官方舞蹈版 + 分解动作",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV15x411P7F7/",
+      "uploader": "KiraFung",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV15x411P7F7/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面说明来源为腾讯视频，含完整音乐与分解动作两个分P；发布者为转载账号，标题中的官方不表示UP主是蔡依林。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "表白",
+      "artist": "萧亚轩",
+      "aliases": [
+        "蕭亞軒",
+        "Elva Hsiao"
+      ],
+      "title": "现在还有人想学萧亚轩的舞吗？《表白》全网唯一完整原版舞蹈教学~保姆级镜面慢速分解舞蹈教程，Elva的舞只有自己学了才知道有多难",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1b41hYREoX/",
+      "uploader": "克里斯不关门_",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1b41hYREoX/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。舞者讲解及翻跳；标题中的原版指编舞版本，并非萧亚轩本人表演。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "精舞门",
+      "artist": "罗志祥",
+      "aliases": [
+        "精舞門",
+        "羅志祥",
+        "Show Lo"
+      ],
+      "title": "舞蹈教程-罗志祥《精舞门》小片段镜面教学",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Nt411M7Pc/",
+      "uploader": "锐力舞蹈",
+      "type": "镜面",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Nt411M7Pc/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。Seven老师的小片段镜面教学，并非全曲。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "快乐崇拜",
+      "artist": "潘玮柏 & 张韶涵",
+      "aliases": [
+        "快樂崇拜",
+        "潘瑋柏",
+        "張韶涵",
+        "Wilber Pan",
+        "Angela Chang"
+      ],
+      "title": "课间操《快乐崇拜》分段慢速教学版【紫嘉儿】潘玮柏♥张韶涵♥华语经典重温♥",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1fy4y1d7TD/",
+      "uploader": "紫嘉儿",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1fy4y1d7TD/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介说明为课间操版与原MV版舞蹈；原唱为潘玮柏与张韶涵，舞者为紫嘉儿。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "不潮不用花钱",
+      "artist": "林俊杰",
+      "aliases": [
+        "不潮不用花錢",
+        "林俊傑",
+        "JJ Lin"
+      ],
+      "title": "请～你不要到处叩叩！既然来了JJ家那就给大家表演个不潮不用花钱吧～林俊杰JJ Lin《不潮不用花钱》原版舞蹈全网罕见高还原度复刻翻跳",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Cm421J7jF/",
+      "uploader": "克里斯不关门_",
+      "type": "翻跳",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Cm421J7jF/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已读取直页，确认发布账号与歌曲；这是舞者复刻翻跳。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "莲",
+      "artist": "张艺兴",
+      "aliases": [
+        "蓮",
+        "張藝興",
+        "LAY",
+        "Lit"
+      ],
+      "title": "【官方】张艺兴《莲》舞蹈版视频",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1qK411p7hW/",
+      "uploader": "舞蹈区小锦鲤",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1qK411p7hW/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面创作团队列出舞蹈区小锦鲤为UP主、张艺兴工作室为视频制作；为江边Krump舞蹈版本。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "My Boo",
+      "artist": "易烊千玺",
+      "aliases": [
+        "易烊千璽",
+        "Jackson Yee"
+      ],
+      "title": "【易烊千玺】千玺 超 性 感 新单《My Boo》舞蹈 申旭阔爵士编舞 每一句My Boo 都唱进我的心里了【猛男百日连更挑战Day33】",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ZK411T7My/",
+      "uploader": "阔少_申旭阔",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ZK411T7My/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。申旭阔原创爵士编舞，非易烊千玺本人表演。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "无价之姐",
+      "artist": "李宇春",
+      "aliases": [
+        "無價之姐",
+        "Chris Lee"
+      ],
+      "title": "乘风破浪的编舞师来啦！申旭阔编舞李宇春《无价之姐》",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1uD4y1S7My/",
+      "uploader": "HHI世界街舞锦标赛官方账号",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1uD4y1S7My/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题与简介标明申旭阔编舞，歌曲演唱为李宇春。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "Honey",
+      "artist": "王心凌",
+      "aliases": [
+        "Cyndi Wang"
+      ],
+      "title": "学甜心跳Honey抗抑郁！王心凌《Honey》1:1超还原原版副歌舞蹈镜面慢速详细分解教学+变速跟练",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1UP411373P/",
+      "uploader": "克里斯不关门_",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1UP411373P/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。王心凌歌曲的副歌教学与变速跟练；标题含作者宣传语，不代表疗效验证。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "要你管",
+      "artist": "时代少年团",
+      "aliases": [
+        "時代少年團",
+        "TNT",
+        "Teens in Times"
+      ],
+      "title": "【时代少年团】《要你管》练习室版",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1XK4y157Ew/",
+      "uploader": "TF家族",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1XK4y157Ew/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面创作团队列出TF家族为UP主、时代少年团为参演。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "青春修炼手册",
+      "artist": "TFBOYS",
+      "aliases": [
+        "青春修煉手冊",
+        "加油男孩"
+      ],
+      "title": "TFBOYS！！ 青春修炼手册(′▽`··)舞蹈 镜面+放慢",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Dx411N77K/",
+      "uploader": "小萝卜特甜糖尼",
+      "type": "镜面",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Dx411N77K/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面列出镜面放慢与镜面原速两个分P，属于镜像慢速编辑版本。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "卡路里",
+      "artist": "火箭少女101",
+      "aliases": [
+        "Rocket Girls 101",
+        "Calorie"
+      ],
+      "title": "【单色舞蹈】太美了吧！火箭少女101 -《卡路里》东方舞版本",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Pb411B762/",
+      "uploader": "单色舞蹈官方",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Pb411B762/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介明确音乐为火箭少女101《卡路里》，编舞与舞者为杨馨可；东方舞改编。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "斯芬克斯",
+      "artist": "THE9",
+      "aliases": [
+        "SphinX"
+      ],
+      "title": "【THE9】《斯芬克斯（SphinX）》舞蹈练习室MV",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=6StEHyj7yQU",
+      "uploader": "THE9 Official",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=6StEHyj7yQU",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。YouTube公开视频检索元数据明确为舞蹈练习室MV，非普通剧情音乐MV。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "BONBON GIRLS",
+      "artist": "硬糖少女303",
+      "aliases": [
+        "BonBon Girls 303"
+      ],
+      "title": "【硬糖少女303】 《BONBON GIRLS》练习室 |  \"BONBON GIRLS\" Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Efv4t4Ou_QU",
+      "uploader": "Tencent Video- Show",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Efv4t4Ou_QU",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。公开视频检索标题和简介均明确为练习室版。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "风暴眼",
+      "artist": "INTO1",
+      "aliases": [
+        "風暴眼",
+        "The Storm Center"
+      ],
+      "title": "【INTO1伯远】高清《风暴眼》练习室直拍",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1wb4y1S7kp/",
+      "uploader": "cacaring",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1wb4y1S7kp/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。INTO1歌曲的伯远成员练习室直拍，非全团固定机位。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "青苹果乐园",
+      "artist": "小虎队",
+      "aliases": [
+        "青蘋果樂園",
+        "小虎隊",
+        "Little Tigers"
+      ],
+      "title": "YHBOYS组合 - 《青苹果乐园》练习室舞蹈",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=xUkY-GcfApM",
+      "uploader": "乐华娱乐 YH Entertainment",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=xUkY-GcfApM",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。YHBOYS的翻跳/翻演练习室，原唱艺人与表演团体分开标注；非小虎队原版影像。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "节奏病",
+      "artist": "刘雨昕",
+      "aliases": [
+        "節奏病",
+        "劉雨昕",
+        "XIN LIU"
+      ],
+      "title": "【刘雨昕2024东方跨年晚会】节奏病高燃练习室",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Nb4y1F7Zs/",
+      "uploader": "刘雨昕工作室",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/1015764080?bvid=BV1Nb4y1F7Zs&oid=623072071",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已通过B站带明确bvid的列表视频页核对标题与发布账号；独立直页抓取未成功。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "最炫民族风",
+      "artist": "凤凰传奇",
+      "aliases": [
+        "最炫民族風",
+        "鳳凰傳奇",
+        "Phoenix Legend"
+      ],
+      "title": "火爆广场舞，凤凰传奇演唱《最炫民族风》背面演示",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV14X4y1c75k/",
+      "uploader": "星秀广场舞",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV14X4y1c75k/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介为广场舞背面演示；并非凤凰传奇本人跳舞，也不是动作分解课程。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "小苹果",
+      "artist": "筷子兄弟",
+      "aliases": [
+        "小蘋果",
+        "Chopstick Brothers",
+        "Little Apple"
+      ],
+      "title": "The Little Apple 小蘋果 筷子兄弟-小苹果 舞蹈鏡面教學  波波星球 幼兒律動 泡泡哥哥 小蘋果 兒童",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=N8jeTuHX9-U",
+      "uploader": "波波星球泡泡哥哥BoboPopo",
+      "type": "镜面",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=N8jeTuHX9-U",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。公开视频检索标题明确为儿童律动的舞蹈镜面教学；歌曲艺人是筷子兄弟。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "刀马旦",
+      "artist": "李玟 feat. 周杰伦",
+      "aliases": [
+        "刀馬旦",
+        "CoCo Lee",
+        "Jay Chou"
+      ],
+      "title": "走过丝路 回家乡#音音编舞 周杰伦&李玟《刀马旦》",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1aBeRz1E2v/",
+      "uploader": "音酱是个什么酱",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/136064827?bvid=BV1aBeRz1E2v&oid=115088245850523",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已通过带明确bvid的B站列表视频页核对标题、账号与原唱信息；原创编舞课堂随拍。独立直页抓取未成功。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "睫毛弯弯",
+      "artist": "王心凌",
+      "aliases": [
+        "睫毛彎彎",
+        "Cyndi Wang"
+      ],
+      "title": "包教会！听了那么多年的《睫毛弯弯》你确定不来学吗？原版MV看不清的舞步都在这了｜王心凌《睫毛弯弯》原版编舞1:1超还原保姆级镜面分解舞蹈教学",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Fo4y1e73j/",
+      "uploader": "克里斯不关门_",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Fo4y1e73j/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。舞者制作的镜面分解教学；非王心凌本人表演。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "眉飞色舞",
+      "artist": "郑秀文",
+      "aliases": [
+        "眉飛色舞",
+        "鄭秀文",
+        "Sammi Cheng"
+      ],
+      "title": "眉飞色舞Remix版/艾琳网红舞课堂",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Zb411T7TF/",
+      "uploader": "ED爵士舞古典舞",
+      "type": "翻跳",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Zb411T7TF/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面标注眉飞色舞与翻跳，使用Remix版本。郑秀文为中文歌曲原唱，非发布者；未核验混音音轨制作者。 未实播，未验证当前播放可用性。",
+      "artistEvidenceUrl": "https://www.joox.com/my-en/single/nL5_AlTIfhYgrrp5AbRRBw%3D%3D"
+    },
+    {
+      "song": "情人",
+      "artist": "蔡徐坤",
+      "aliases": [
+        "KUN",
+        "Lover"
+      ],
+      "title": "蔡徐坤《情人》舞蹈教学动作分解",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1PQ4y1P778/",
+      "uploader": "ALeeex阿乐",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1PQ4y1P778/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。简介明确前半部分示范、后半部分动作分解教学。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "清明雨上",
+      "artist": "许嵩",
+      "aliases": [
+        "清明雨上",
+        "許嵩",
+        "Vae"
+      ],
+      "title": "屏住呼吸，感受这雨夜的美！【清明雨上】原创编舞",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1rF41177op/",
+      "uploader": "晓丹小仙女儿",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rF41177op/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题及标签明确原创编舞、古典舞与许嵩；非歌手本人表演。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "潇洒小姐",
+      "artist": "萧亚轩",
+      "aliases": [
+        "瀟灑小姐",
+        "蕭灑小姐",
+        "Elva Hsiao"
+      ],
+      "title": "ELVA萧亚轩《潇洒小姐》官方舞蹈教学",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Sx411P7Fp/",
+      "uploader": "一只Capricorn",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Sx411P7Fp/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面说明来源为腾讯，发布者是转载账号；标题中的官方不表示UP主为萧亚轩。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "霍元甲",
+      "artist": "周杰伦",
+      "aliases": [
+        "Jay Chou",
+        "Fearless"
+      ],
+      "title": "【紫嘉儿】周杰伦《霍元甲》舞蹈教程|镜面动作分解|零基础教学|超燃国风编舞",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1TP4y1Y7Fx/",
+      "uploader": "紫嘉儿",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1TP4y1Y7Fx/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。已读取直页；简介说明融合功夫、太极、街舞，并列出编舞参考。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "千盏",
+      "artist": "SING女团",
+      "aliases": [
+        "千盞",
+        "SING"
+      ],
+      "title": "【SING女团】2019电子国风主打曲《千盏》舞蹈练习室：扇子舞难度再升级啦~",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1St41137Rz/",
+      "uploader": "SING女团",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1St41137Rz/",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。页面列出舞蹈练习室与固定机位练习室两个版本。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "怪美的",
+      "artist": "蔡依林",
+      "aliases": [
+        "Ugly Beauty",
+        "Jolin Tsai"
+      ],
+      "title": "蔡依林 Jolin Tsai - 怪美的｜60秒愛上跳舞｜Dance cover by Diva",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Nj9c1cDGi8k",
+      "uploader": "愛跳舞的Diva",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Nj9c1cDGi8k",
+      "verificationNote": "已通过公开页面或检索元数据核对直链、标题与发布账号。标题写Dance cover，简介进一步明确由Diva为歌曲rap段落自行编舞；因此归为编舞视频。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "玫瑰少年",
+      "artist": "蔡依林",
+      "aliases": [
+        "Womxnly",
+        "Jolin Tsai"
+      ],
+      "title": "蔡依林 Jolin Tsai《玫瑰少年 Womxnly》Official Dance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=feOq6MWeUXA",
+      "uploader": "JOLIN 蔡依林",
+      "type": "编舞视频",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=feOq6MWeUXA",
+      "verificationNote": "已通过YouTube公开检索元数据核对直链、舞蹈版标题与当前频道名JOLIN 蔡依林（Official Artist Channel）。直页抓取未成功；未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "美人计",
+      "artist": "蔡依林",
+      "aliases": [
+        "美人計",
+        "Jolin Tsai"
+      ],
+      "title": "【全盛舞蹈工作室】蔡依林《美人计》爵士编舞练习室",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=pdM9aIjF5Sw",
+      "uploader": "TranScend全盛舞蹈工作室",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=pdM9aIjF5Sw",
+      "verificationNote": "已通过公开检索元数据核对直链、标题与发布账号。简介明确原创编舞、小胖老师与学员表演，非蔡依林本人演出。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "表白",
+      "artist": "萧亚轩",
+      "aliases": [
+        "蕭亞軒",
+        "Elva Hsiao"
+      ],
+      "title": "【我教你跳 Let’s Dance】No.5萧亚轩《表白》",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ZZ4y1p7Tu/",
+      "uploader": "Aaron李论",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ZZ4y1p7Tu/",
+      "verificationNote": "已通过公开检索元数据核对直链、标题与发布账号。页面标题、镜面与舞蹈教学标签及简介共同核对；舞者讲解萧亚轩歌曲的舞步。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "快乐崇拜",
+      "artist": "潘玮柏 & 张韶涵",
+      "aliases": [
+        "快樂崇拜",
+        "潘瑋柏",
+        "張韶涵",
+        "Wilber Pan",
+        "Angela Chang"
+      ],
+      "title": "《快乐崇拜》完整版舞蹈教程",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1fy41187WC/",
+      "uploader": "AS丹丹零基础舞蹈教学",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1fy41187WC/",
+      "verificationNote": "已通过公开检索元数据核对直链、标题与发布账号。此为另一个发布账号的完整版舞蹈教程，不与紫嘉儿版本混为同一资源。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "Honey",
+      "artist": "王心凌",
+      "aliases": [
+        "Cyndi Wang"
+      ],
+      "title": "【南舞团】王心凌经典歌曲《honey》全曲翻跳+保姆级舞蹈教学（上）",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1LY4y1x7bb/",
+      "uploader": "南舞团官方账号",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1LY4y1x7bb/",
+      "verificationNote": "已通过公开检索元数据核对直链、标题与发布账号。此直链是上部，简介明确下部教学需要另行购买；不要把本视频描述为免费完整分解课程。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "霍元甲",
+      "artist": "周杰伦",
+      "aliases": [
+        "Jay Chou",
+        "Fearless"
+      ],
+      "title": "【周杰伦】中国风的《霍元甲》 流行编舞练习室版-【单色舞蹈】",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ng4y1q7BG/",
+      "uploader": "单色舞蹈官方",
+      "type": "练习室",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ng4y1q7BG/",
+      "verificationNote": "已通过公开检索元数据核对直链、标题与发布账号。简介明确音乐为周杰伦《霍元甲》，编舞阿伦，舞者为阿伦与多位学员；为流行舞课堂编舞版本。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "寄明月",
+      "artist": "SING女团",
+      "aliases": [
+        "SING"
+      ],
+      "title": "中国风女团SING《寄明月》舞蹈教学分解",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1av411q7gb/",
+      "uploader": "Haiven-运动视频集",
+      "type": "分解教学",
+      "region": "华语",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1av411q7gb/",
+      "verificationNote": "已通过公开检索元数据核对直链、标题与发布账号。页面标注来源youku.com；这是教学转载，发布账号不是SING女团。 未实播，未验证当前播放可用性。"
+    },
+    {
+      "song": "LATATA",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Fhk4Qzj_QpM",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Fhk4Qzj_QpM",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "HANN (Alone)",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "HANN",
+        "한(一)",
+        "一"
+      ],
+      "title": "(G)I-DLE - 'HANN (Alone)' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=EGuuBE7xjBk",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=EGuuBE7xjBk",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Senorita",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(G) I-DLE) - 'Senorita' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=rhBa2_-qw00",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=rhBa2_-qw00",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "LION",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=FRYY-OxzRTU",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=FRYY-OxzRTU",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Oh my god",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "'Oh My God' Dance Practice Video ((G)I-DLE)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=wLlKktf0ZWE",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=wLlKktf0ZWE",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "HWAA",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "火花",
+        "화(火花)",
+        "HWA"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=cwKYh2geaik",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=cwKYh2geaik",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "TOMBOY",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=CKSQjJDQTaQ",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=CKSQjJDQTaQ",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "MY BAG",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Si5pQHRRH5w",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Si5pQHRRH5w",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Nxde",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=R9UsmrVEWYY",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=R9UsmrVEWYY",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Klaxon",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=hLntT4a_O58",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=hLntT4a_O58",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Super Lady",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Special Performance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=IIgWfz6FTSM",
+      "uploader": "i-dle (아이들)",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=IIgWfz6FTSM",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Good Thing",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "i-dle (아이들) 'Good Thing' Choreography Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=5MrJBrR_sfo",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=5MrJBrR_sfo",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Girlfriend",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "i-dle (아이들) 'Girlfriend' Choreography Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=KceEp8y5HC4",
+      "uploader": "i-dle (아이들)",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=KceEp8y5HC4",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Mono (Feat. skaiwater)",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "Mono",
+        "skaiwater"
+      ],
+      "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Choreography Practice Video (Character Ver.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=MPHOhBD8mn8",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=MPHOhBD8mn8",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "M.O.",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기",
+        "MO",
+        "M O"
+      ],
+      "title": "우기 (YUQI) 'M.O.' Choreography Practice Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=FeAHoZlcX_c",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=FeAHoZlcX_c",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和发布频道；发布方为艺人官方频道或CUBE官方频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "On Clap (Feat. Lexie Liu)",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기",
+        "On Clap",
+        "刘柏辛",
+        "Lexie Liu"
+      ],
+      "title": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' Special Performance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=i_r3Ni7jdNw",
+      "uploader": "i-dle (아이들)",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=i_r3Ni7jdNw",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和艺人官方发布频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Allergy",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'Allergy' Special Performance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=SWC8DXoV7ts",
+      "uploader": "i-dle (아이들)",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=SWC8DXoV7ts",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和艺人官方发布频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Put It Straight (Nightmare Ver.)",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "싫다고 말해",
+        "Put It Straight",
+        "噩梦版"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=SBtF_e6XWnc",
+      "uploader": "i-dle (아이들)",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=SBtF_e6XWnc",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和艺人官方发布频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "DUMDi DUMDi",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "덤디덤디",
+        "Dumdi Dumdi"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=naRRqAGIAqQ",
+      "uploader": "i-dle (아이들)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=naRRqAGIAqQ",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和艺人官方发布频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Crow",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "i-dle (아이들) 'Crow' Performance Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=w6FzChNkVrY",
+      "uploader": "i-dle (아이들)",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=w6FzChNkVrY",
+      "verificationNote": "已通过YouTube公开视频元数据核对歌曲、标题和艺人官方发布频道。未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Uh-Oh",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=PzSCnRCpM_c",
+      "uploader": "United CUBE (CUBE Entertainment Official YouTube Channel)",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://t.me/s/godtierkpop?before=6454",
+      "verificationNote": "视频ID与标题通过公开视频引用核对，CUBE发布与练习室属性由作品资料及官方Weverse对应条目交叉支持；YouTube直页抓取未成功，未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Gimme Dat Love",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "i-dle 아이들 ‘Gimme Dat Love’｜On the Spot｜온더스팟",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=nCIfydOldxI",
+      "uploader": "1theK Originals - 원더케이 오리지널",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://ranktube.co.kr/video/nCIfydOldxI",
+      "verificationNote": "已通过公开统计页核对标题、频道与视频ID，并由另一公开视频引用交叉核对。属于艺人参与的1theK舞蹈表演；未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "I Want That",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'I Want That' Dance Tutorial | EXPLAINED + Mirrored",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=A5K-dEcLfho",
+      "uploader": "Kathleen Carm",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=A5K-dEcLfho",
+      "verificationNote": "已通过YouTube公开视频元数据核对标题、频道与歌曲。作者翻跳分解教学，含数拍；不是艺人本人教学。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "I Want That",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들((G)I-DLE) - 'I Want That' Dance Tutorial | SLOW MUSIC + Mirrored",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=9bHEcpzIBek",
+      "uploader": "Kathleen Carm",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=9bHEcpzIBek",
+      "verificationNote": "已通过YouTube公开视频元数据核对标题、频道与歌曲；作者镜面翻跳教学，简介列出0.5倍、0.75倍与原速。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Lucid",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들 (G)i-DLE 'Lucid' Mirrored Tutorial | Ayie Garcia",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=NhZe_K48EYY",
+      "uploader": "Ayie Garcia",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=NhZe_K48EYY",
+      "verificationNote": "已通过YouTube公开视频元数据核对标题、频道与歌曲；作者翻跳，简介标明全曲慢速与原速，不是艺人本人练习室。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Luv U",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(여자)아이들 (G)I-DLE - '사랑해(Luv U)' / Kpop Dance Cover / Dance Practice Mirror Mode",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=0vUcoyOrqyk",
+      "uploader": "MORE THAN YOUTH",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=0vUcoyOrqyk",
+      "verificationNote": "已通过YouTube公开视频元数据核对标题、频道与歌曲；简介列出翻跳舞者及对应成员位置，不是i-dle本人练习室。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Fate",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "나는 아픈 건 딱 질색이니까",
+        "命运"
+      ],
+      "title": "(G)I-DLE - Fate dance tutorial (chorus) ENG SUB",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=9vnVKx-aH5M",
+      "uploader": "YOKO",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=9vnVKx-aH5M",
+      "verificationNote": "已通过YouTube公开视频元数据核对标题、频道与歌曲；副歌翻跳分解教学，俄语讲解、英文字幕，含数拍与慢速。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "M.O.",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기",
+        "MO",
+        "M O"
+      ],
+      "title": "〖镜面扒舞〗宋雨琦YUQI - M.O. 舞蹈版镜像慢速 投屏",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1H7pUz1EzX/",
+      "uploader": "一杯不加糖_Suu",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1H7pUz1EzX/",
+      "verificationNote": "已读取B站视频页核对标题、发布账号与歌曲。饭制镜面慢速处理版，页面抓取时账号名为一杯不加糖_Suu；未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "On Clap (Feat. Lexie Liu)",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기",
+        "On Clap",
+        "刘柏辛",
+        "Lexie Liu"
+      ],
+      "title": "〖宋雨琦〗'On Clap (Feat. Lexie Liu)' Special Performance Video",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1zm421W7P5/",
+      "uploader": "i-dle_official",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1zm421W7P5/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对歌曲、标题、发布账号与BV号；未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Radio (Dum-Dum)",
+      "artist": "YUQI",
+      "aliases": [
+        "宋雨琦",
+        "雨琦",
+        "Song Yuqi",
+        "우기",
+        "Radio",
+        "Dum Dum"
+      ],
+      "title": "〖雨琦 x 孟子义〗 250416 Radio(Dum-Dum)当当当～～手把手教学",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1e4oTYoE2t/",
+      "uploader": "護娃使者",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1e4oTYoE2t/",
+      "verificationNote": "已读取B站视频页核对标题、UP主、人物与歌曲；页面注明来源WB，为雨琦与孟子义的教学片段转载，非全曲系统课程。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Mono (Feat. skaiwater)",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들",
+        "Mono",
+        "skaiwater"
+      ],
+      "title": "〖i-dle〗'Mono (Feat. skaiwater)' Choreography Practice Video (Character Ver.)",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1GoF8zdEMM/",
+      "uploader": "i-dle_official",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/624243924?bvid=BV1GoF8zdEMM&oid=116016663235155",
+      "verificationNote": "已通过B站公开页面或检索元数据核对歌曲、标题、发布账号与BV号；未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Allergy",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "〖(G)I-DLE〗 - 'Allergy' Special Performance Video",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Ak4y1p7Ly/",
+      "uploader": "i-dle_official",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Ak4y1p7Ly/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对歌曲、标题、发布账号与BV号；未实播，播放与地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Wife",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "〖安夏〗《Wife》详细舞蹈教学，看这篇就够了！",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV13F4m1u7oF/",
+      "uploader": "安夏_ANXIA",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV13F4m1u7oF/",
+      "verificationNote": "已通过B站公开视频元数据核对标题、UP主、歌曲和分P；作者副歌翻跳分解教学，包含原速镜面、数拍和0.75倍速，不是艺人本人表演。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "MY BAG",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "娃",
+        "아이들",
+        "여자아이들"
+      ],
+      "title": "(G)I-DLE《MY BAG》(Choreography Practice Video) 编舞练习视频，鲨疯了鲨疯了！",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV19Y4y1s7ru/",
+      "uploader": "最爱KPOP",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV19Y4y1s7ru/",
+      "verificationNote": "已通过B站公开视频元数据核对歌曲、标题、UP主及练习室分P；此为YouTube官方练习室的转载，发布账号非艺人官方账号。未实播。",
       "thumbnail": null
     }
   ]
