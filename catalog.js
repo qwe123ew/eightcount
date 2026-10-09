@@ -4229,6 +4229,1617 @@ globalThis.EIGHTCOUNT_DATA = {
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV19Y4y1s7ru/",
       "verificationNote": "已通过B站公开视频元数据核对歌曲、标题、UP主及练习室分P；此为YouTube官方练习室的转载，发布账号非艺人官方账号。未实播。",
       "thumbnail": null
+    },
+    {
+      "song": "Kill Shot",
+      "artist": "ITZY",
+      "aliases": [
+        "있지"
+      ],
+      "title": "〖Justjerk〗ITZY - Kill Shot编舞师版〖EUNKI CHOREO Class〗",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1rj411176r/",
+      "uploader": "光州酸奶",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rj411176r/",
+      "verificationNote": "EUNKI编舞师课堂展示的转载，不是ITZY本人练习室。已通过B站公开检索元数据核对标题、发布账号、歌曲和视频直链；直页抓取未成功，未实播，原平台可播性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Kitsch",
+      "artist": "IVE",
+      "aliases": [
+        "아이브"
+      ],
+      "title": "IVE《Kitsch》4K练习室版",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV11V4y1Z7Wt/",
+      "uploader": "123IVE",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV11V4y1Z7Wt/",
+      "verificationNote": "已通过B站公开检索元数据核对标题、发布账号、歌曲和视频直链；直页抓取未成功，未实播，原平台可播性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "GRL GVNG",
+      "artist": "XG",
+      "aliases": [],
+      "title": "XG - GRL GVNG (练习室舞蹈版)",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1r94y1Y7hd/",
+      "uploader": "XGALX_XG",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/2087881184?bvid=BV1r94y1Y7hd&oid=361506969",
+      "verificationNote": "已通过B站公开检索元数据核对标题、发布账号、歌曲和视频直链；直页抓取未成功，未实播，原平台可播性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "我最红（LEEjung Remix编舞）",
+      "artist": "2NE1",
+      "aliases": [
+        "I AM THE BEST Remix",
+        "내가 제일 잘 나가",
+        "我最红 Remix"
+      ],
+      "title": "〖糖糖翻跳〗我最红remix——2ne1（leejung编舞）baby monster考核曲",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1SV4y1B7GY/",
+      "uploader": "fresh糖糖",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/95684109?bvid=BV1SV4y1B7GY&oid=869073483",
+      "verificationNote": "已通过B站公开检索元数据核对标题、UP主和BV号。舞者翻跳LEEjung的Remix编舞；截图第6条歌手与具体Remix无法确认，此视频仅为相关版本，不代表与QQ音乐音轨精确匹配。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Weapon",
+      "artist": "ITZY",
+      "aliases": [
+        "있지"
+      ],
+      "title": "ITZY新歌’WEAPON’五人练习室完整版公开！Newnion+Floor 街头少女战士编舞翻跳全身版〖ModernX舞团〗",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1yZ4y1d7vX/",
+      "uploader": "ModernX",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1yZ4y1d7vX/",
+      "verificationNote": "此为ModernX舞团翻跳，不是ITZY本人练习室。使用Weapon (With 뉴니온, 플로어) (Prod. Czaer)。已通过B站公开检索元数据核对标题、发布账号、歌曲和视频直链；直页抓取未成功，未实播，原平台可播性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "GO HARD",
+      "artist": "TWICE",
+      "aliases": [
+        "兔瓦斯",
+        "트와이스"
+      ],
+      "title": "〖ELIN艾琳〗TWICE-《GO HARD》完整舞蹈慢动作",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ST411x7SE/",
+      "uploader": "ELIN艾琳",
+      "type": "镜面",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ST411x7SE/",
+      "verificationNote": "舞者慢动作翻跳，原页面标签含镜面/舞蹈教程，非TWICE本人练习室。已通过B站公开检索元数据核对标题、发布账号、歌曲和视频直链；直页抓取未成功，未实播，原平台可播性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "SET ME FREE",
+      "artist": "TWICE",
+      "aliases": [
+        "兔瓦斯",
+        "트와이스"
+      ],
+      "title": "TWICE \"SET ME FREE\" Choreography Video",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=sXM5GwksZIY",
+      "uploader": "TWICE",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=sXM5GwksZIY",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、直链、Official Artist Channel及编舞视频类型；未实播，播放和地区可用性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "ROYAL",
+      "artist": "IVE",
+      "aliases": [
+        "아이브"
+      ],
+      "title": "IVE ROYAL原始编舞版，老师好会跳！(by Freemind)",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Hv4y1K7PV/",
+      "uploader": "嗑糖少女000",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Hv4y1K7PV/",
+      "verificationNote": "Freemind编舞师版本的转载，不是IVE本人舞台或练习室；原页面说明指向https://youtu.be/lk1puXmnChU。已通过B站公开检索元数据核对标题、发布账号、歌曲和视频直链；直页抓取未成功，未实播，原平台可播性需到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Nxde",
+      "artist": "i-dle",
+      "aliases": [
+        "(G)I-DLE",
+        "GIDLE",
+        "女娃",
+        "아이들"
+      ],
+      "title": "〖4K〗娃 打歌舞台+直拍合集 'Nxde' ((G)I-DLE FanCam) - @MCOUNTDOWN_2022.10.20（第1集团体直拍）",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1vm4y1w71q/?p=1",
+      "uploader": "收藏少年",
+      "type": "舞台",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1vm4y1w71q/",
+      "verificationNote": "已打开B站页面，核对标题、UP主、BV号及第1集团体直拍。括号是本站补充的分集定位。为2022-10-20 MCOUNTDOWN舞台直拍，未确认与截图Nxde (Live)属于同一现场录音，仅作为相关现场版本。未实播。",
+      "thumbnail": null
+    },
+    {
+      "song": "Spicy",
+      "artist": "aespa",
+      "aliases": [
+        "에스파",
+        "æspa"
+      ],
+      "title": "〖aespa〗 STUDIO CHOOM 《Spicy 》舞蹈版 『4K中字』",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1zV4y1C7Cs/",
+      "uploader": "神经病大老鼠",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1zV4y1C7Cs/",
+      "verificationNote": "B站网页搜索索引显示标题、UP主、BE ORIGINAL说明；分P为舞蹈版03:44、一镜到底03:24。已核对为STUDIO CHOOM舞蹈表演，非MV。直接抓取页缓存未命中，未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "Next Level",
+      "artist": "aespa",
+      "aliases": [
+        "에스파",
+        "æspa"
+      ],
+      "title": "〖aespa〗《Next Level》 aespa Company ver. Dance Practice 舞蹈视频",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1iM4y1u7Z1/",
+      "uploader": "aespa",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/2128487337?bvid=BV1iM4y1u7Z1&oid=931249355",
+      "verificationNote": "已读取B站列表对应视频页，标题明确Dance Practice，上传账号aespa，发布日期2021-06-19。官方YouTube同名版本交叉核对：https://www.youtube.com/watch?v=IMpXNQ-MLT4 。视频直页返回412，列表页可读；未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "Savage",
+      "artist": "aespa",
+      "aliases": [
+        "에스파",
+        "æspa"
+      ],
+      "title": "aespa 에스파 'Savage' Squid Game ver. Dance Practice",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=jVkHUbF_rfg",
+      "uploader": "aespa",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=jVkHUbF_rfg",
+      "verificationNote": "YouTube搜索元数据明确标题为Squid Game ver. Dance Practice，上传者aespa且标记Official Artist Channel，发布日期2021-11-02。B站找到合集中第12P但为避免跳错集选用官方独立视频。未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "Illusion",
+      "artist": "aespa",
+      "aliases": [
+        "怪火",
+        "도깨비불",
+        "에스파",
+        "æspa"
+      ],
+      "title": "〖aespa〗怪火Illusion 练习室 Dance Practice",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1LY411K71K/",
+      "uploader": "娃娃菜DEDE",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1LY411K71K/",
+      "verificationNote": "B站网页搜索索引显示标题、UP主和说明“练习室舞蹈”，并注明原始来源https://youtu.be/0lXwMdnpoFQ 。已核对为舞蹈练习室而非Lyric Video。直页抓取返回412，未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "UNFORGIVEN (feat. Nile Rodgers)",
+      "artist": "LE SSERAFIM",
+      "aliases": [
+        "UNFORGIVEN",
+        "Nile Rodgers",
+        "르세라핌",
+        "LESSERAFIM"
+      ],
+      "title": "练习室！LE SSERAFIM《UNFORGIVEN》Dance Practice (Fix ver.) 230504",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Jh411j7KB",
+      "uploader": "Hi_Eclipse",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Jh411j7KB",
+      "verificationNote": "B站网页搜索索引显示独立视频标题、UP主Hi_Eclipse、发布日期2023-05-04以及歌曲标签UNFORGIVEN (feat. Nile Rodgers)，标题明确Dance Practice (Fix ver.)。直接抓取页缓存未命中，未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "FEARLESS",
+      "artist": "LE SSERAFIM",
+      "aliases": [
+        "르세라핌",
+        "LESSERAFIM"
+      ],
+      "title": "01LE SSERAFIM-FEARLESS 练习室",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV11G4y1b7fa/?p=1",
+      "uploader": "-林知-",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV11G4y1b7fa/",
+      "verificationNote": "B站网页搜索索引完整列出UP主-林知-、来源HYBE Entertainment/Source Music及选集；第1P明确为FEARLESS练习室02:52，链接指定p=1。合集页标题为〖LE SSERAFIM〗练习室+舞蹈 合集 4K (更新至第39届金唱片)。直页抓取返回412，未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "DUMB DUMB",
+      "artist": "JEON SOMI",
+      "aliases": [
+        "SOMI",
+        "全昭弥",
+        "全昭彌",
+        "전소미",
+        "덤덤"
+      ],
+      "title": "〖4K中字〗完整舞蹈版 高校万人迷甜心 SOMI - 'DUMB DUMB'",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1o44y117pf/",
+      "uploader": "JaeCynthiakiii",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1o44y117pf/",
+      "verificationNote": "B站网页搜索索引显示标题、UP主、2021-08-04日期和YouTube来源。标题明确完整舞蹈版；另一B站翻跳视频BV1vM4y1P78p也将此BV号列为舞蹈参考。此项归编舞视频，未误标普通MV。直页抓取返回412，未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "XOXO",
+      "artist": "JEON SOMI",
+      "aliases": [
+        "SOMI",
+        "全昭弥",
+        "全昭彌",
+        "전소미"
+      ],
+      "title": "JEON SOMI - XOXO DANCE PRACTICE VIDEO - 4K HDR MV",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1714y1v7sA/",
+      "uploader": "AJK-M",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1714y1v7sA/",
+      "verificationNote": "B站网页搜索索引显示标题、UP主AJK-M与发布日期2022-09-14，标题明确DANCE PRACTICE VIDEO。已交叉核对官方THEBLACKLABEL同名练习室：https://www.youtube.com/watch?v=B9iQHLLdkUY 。标题末尾MV是上传者通用标签，核心视频为练习室；直页工具不可读，未验证播放。",
+      "thumbnail": null
+    },
+    {
+      "song": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "【Badykey】Pretty Savage-BLACKPINK全曲翻跳|上海韩舞教学韩国女团kpop舞蹈",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ji4y157Cm/",
+      "uploader": "Badykey悦子",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ji4y157Cm/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对标题、曲目、发布账号和BV号。舞者全曲翻跳，非BLACKPINK本人练习室。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Shut Down",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "BLACKPINK - ‘Shut Down’ DANCE PERFORMANCE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=PjrAwC4TIPA",
+      "uploader": "BLACKPINK",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=PjrAwC4TIPA",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道舞蹈表演版。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Forever Young",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "BLACKPINK - 'Forever Young' DANCE PRACTICE VIDEO (MOVING VER.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=89kTb73csYg",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=89kTb73csYg",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道，移动镜头版。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "DDU-DU DDU-DU",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink",
+        "뚜두뚜두",
+        "DDU-DU DDU-DU (Korean Ver.)"
+      ],
+      "title": "BLACKPINK - '뚜두뚜두 (DDU-DU DDU-DU)' DANCE PRACTICE VIDEO (MOVING VER.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=jOJbXvjZ-cQ",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=jOJbXvjZ-cQ",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道，韩语原版歌曲、移动镜头版。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "LALISA",
+      "artist": "LISA",
+      "aliases": [
+        "리사",
+        "BLACKPINK LISA",
+        "Lalisa"
+      ],
+      "title": "LISA - 'LALISA' DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ZJ6QQLDIzrI",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=ZJ6QQLDIzrI",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Lovesick Girls",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "BLACKPINK - 'Lovesick Girls' DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=YxksUfnuEbI",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=YxksUfnuEbI",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "WHISTLE",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink",
+        "口哨",
+        "휘파람"
+      ],
+      "title": "BLACKPINK - '휘파람(WHISTLE)' DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=1kYrp_Bs8DU",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://weverse.io/blackpink/media/2-27966412",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。已核对艺人官方Weverse媒体页的标题及其指向YouTube同ID的嵌入链接；YouTube直接抓取失败。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Kill This Love",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "BLACKPINK - 'Kill This Love' DANCE PRACTICE VIDEO (MOVING VER.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=MOwaUlXZxkI",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=MOwaUlXZxkI",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道，移动镜头版。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink",
+        "玩火",
+        "불장난"
+      ],
+      "title": "BLACKPINK - ‘불장난(PLAYING WITH FIRE)’ DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=NvWfJTbrTBY",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=NvWfJTbrTBY",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "earthquake",
+      "artist": "JISOO",
+      "aliases": [
+        "지수",
+        "金智秀",
+        "BLACKPINK JISOO"
+      ],
+      "title": "JISOO - ‘earthquake’ DANCE PERFORMANCE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Z33suvklkx0",
+      "uploader": "JISOO",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=Z33suvklkx0",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道，Kiel Tutin和Kany编舞的正式舞蹈表演版；不采用练习花絮。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Your Love",
+      "artist": "JISOO",
+      "aliases": [
+        "지수",
+        "金智秀",
+        "BLACKPINK JISOO"
+      ],
+      "title": "JISOO - ‘YOUR LOVE’ DANCE | CHOREOGRAPHY BY EDNAYIU #JISOO #YOURLOVE #YOURLOVE_DANCE @sooyaaa__",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=RXvuPBjH1so",
+      "uploader": "EDNAYIU",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=RXvuPBjH1so",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。编舞者本人账号发布的原创编舞片段，非JISOO官方原编或DEADLINE演唱会椅子舞；公开元数据未说明全曲覆盖。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "New Woman",
+      "artist": "LISA",
+      "aliases": [
+        "리사",
+        "BLACKPINK LISA",
+        "Lalisa",
+        "ROSALÍA",
+        "Rosalia",
+        "New Woman (ft. ROSALÍA)"
+      ],
+      "title": "LISA - New Woman (ft. ROSALÍA) | BADA Choreography",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=LljHulE6St4",
+      "uploader": "FEEDBACK DANCE STUDIO",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=LljHulE6St4",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。舞室自有频道发布的BADA原创课堂编舞，视频为分组展示；非LISA本人练习室或MV原编。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "FXCK UP THE WORLD (Vixi Solo Version)",
+      "artist": "LISA",
+      "aliases": [
+        "리사",
+        "BLACKPINK LISA",
+        "Lalisa",
+        "FUTW",
+        "Vixi Solo Version",
+        "FXCK UP THE WORLD"
+      ],
+      "title": "LISA - FUTW (Vixi Solo Version) | GolfyDance | Dance Fitness / Dance Workout",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1bgXFYDEFE/",
+      "uploader": "GolfyDance",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1bgXFYDEFE/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对标题、曲目、发布账号和BV号。发布者自编Dance Fitness镜面跟跳；标题明确为Vixi Solo Version，不等同歌单中的ft. Future合作版，也不是官方舞台原编。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Rockstar",
+      "artist": "LISA",
+      "aliases": [
+        "리사",
+        "BLACKPINK LISA",
+        "Lalisa"
+      ],
+      "title": "LISA - ROCKSTAR (Dance Practice Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=tEA7buzhE0s",
+      "uploader": "LLOUD Official",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=tEA7buzhE0s",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道，Sean Bankhead编舞。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Don't Know What To Do",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "BLACKPINK - 'Don't Know What To Do' DANCE PRACTICE VIDEO (MOVING VER.)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=bqzDuRz_P7g",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=bqzDuRz_P7g",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道，移动镜头版。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "STAY",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink"
+      ],
+      "title": "BLACKPINK - STAY / Learner's Class",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zk-uZ3MsY1M",
+      "uploader": "1MILLION Dance Studio",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=zk-uZ3MsY1M",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。舞室官方频道发布的Hyeyeon原创课堂编舞，非BLACKPINK官方原编；该视频为课堂展示，不宣称逐动作分解教学。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "like JENNIE",
+      "artist": "JENNIE",
+      "aliases": [
+        "제니",
+        "金珍妮",
+        "BLACKPINK JENNIE"
+      ],
+      "title": "JENNIE Solo新曲like JENNIE舞蹈翻跳+两段副歌语音详细教学",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1LeRGY6ECj/",
+      "uploader": "Dee镝镝",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1LeRGY6ECj/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对标题、曲目、发布账号和BV号。两段副歌教学及跟跳，非全曲教学；未核对其音轨与歌单Explicit标记是否一致。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "Mantra",
+      "artist": "JENNIE",
+      "aliases": [
+        "제니",
+        "金珍妮",
+        "BLACKPINK JENNIE"
+      ],
+      "title": "JENNIE - Mantra (Official Performance Video)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=V5bVtAej1hs",
+      "uploader": "JENNIE",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=V5bVtAej1hs",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方舞蹈表演版；未核对其音轨与歌单Explicit标记是否一致。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "with the IE (way up)",
+      "artist": "JENNIE",
+      "aliases": [
+        "제니",
+        "金珍妮",
+        "BLACKPINK JENNIE",
+        "way up"
+      ],
+      "title": "最近对Jennie太上头了With the IE(way up)妖爷编舞",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1uvXxY8EgP/",
+      "uploader": "妖爷【松木】",
+      "type": "编舞视频",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1uvXxY8EgP/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对标题、曲目、发布账号和BV号。舞者自编舞片段，非JENNIE本人原编；页面歌曲标签含Explicit，未逐音轨比对。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "aliases": [
+        "ROSE",
+        "로제",
+        "朴彩英",
+        "BLACKPINK ROSÉ",
+        "Bruno Mars",
+        "火星哥",
+        "APT",
+        "阿帕次",
+        "ROSÉ",
+        "Rose"
+      ],
+      "title": "APT. - ROSÉ & Bruno Mars副歌舞蹈挑战+语音详细教学（非官方版）",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1tuy5YuEHP/",
+      "uploader": "Dee镝镝",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1tuy5YuEHP/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对标题、曲目、发布账号和BV号。作者明确标注非官方版，仅副歌挑战与语音教学。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "JUMP",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink",
+        "뛰어"
+      ],
+      "title": "BLACKPINK - JUMP 舞蹈副歌翻跳+语音详细分解",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1uA3vztEpf/",
+      "uploader": "Dee镝镝",
+      "type": "分解教学",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1uA3vztEpf/",
+      "verificationNote": "已通过B站公开页面或检索元数据核对标题、曲目、发布账号和BV号。仅副歌翻跳与分解，不宣称是BLACKPINK官方练习室或全曲教学；原页面直接抓取出现412，以上来自公开索引元数据。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "BOOMBAYAH",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink",
+        "붐바야"
+      ],
+      "title": "BLACKPINK - '붐바야(BOOMBAYAH)' DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ivoS3HUJB3Q",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=ivoS3HUJB3Q",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    },
+    {
+      "song": "AS IF IT'S YOUR LAST",
+      "artist": "BLACKPINK",
+      "aliases": [
+        "粉墨",
+        "블랙핑크",
+        "Blackpink",
+        "像最后一样",
+        "마지막처럼"
+      ],
+      "title": "BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ DANCE PRACTICE VIDEO",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=hKUJmA9O6iA",
+      "uploader": "BLACKPINK",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.youtube.com/watch?v=hKUJmA9O6iA",
+      "verificationNote": "已通过YouTube公开检索元数据核对标题、曲目和发布频道。艺人官方频道。未实播，播放与地区可用性请到原平台确认。",
+      "thumbnail": null
+    }
+  ],
+  "playlists": [
+    {
+      "id": "dance-music",
+      "title": "舞蹈音乐 · 38 条截图记录",
+      "expectedCount": 38,
+      "visibleCount": 38,
+      "complete": true,
+      "note": "已录入截图中的38条记录。重复歌曲保留原序号，共用视频；Remix、Live和截断标题的差异会逐项注明。点击曲目查看相关舞蹈。",
+      "tracks": [
+        {
+          "index": 1,
+          "song": "TOMBOY",
+          "artist": "i-dle",
+          "matchSong": "TOMBOY",
+          "matchArtist": "i-dle",
+          "versionNote": "",
+          "status": "已有",
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=CKSQjJDQTaQ"
+          ]
+        },
+        {
+          "index": 2,
+          "song": "Kill Shot",
+          "artist": "ITZY",
+          "matchSong": "Kill Shot",
+          "matchArtist": "ITZY",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1rj411176r/"
+          ]
+        },
+        {
+          "index": 3,
+          "song": "Kitsch",
+          "artist": "IVE",
+          "matchSong": "Kitsch",
+          "matchArtist": "IVE",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV11V4y1Z7Wt/"
+          ]
+        },
+        {
+          "index": 4,
+          "song": "GRL GVNG",
+          "artist": "XG",
+          "matchSong": "GRL GVNG",
+          "matchArtist": "XG",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1r94y1Y7hd/"
+          ]
+        },
+        {
+          "index": 5,
+          "song": "I AM THE BEST",
+          "artist": "2NE1",
+          "matchSong": "I AM THE BEST",
+          "matchArtist": "2NE1",
+          "versionNote": "",
+          "status": "已有",
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=fl19JYqW6MI"
+          ]
+        },
+        {
+          "index": 6,
+          "song": "我最红 (Remix)",
+          "artist": "未知（截图歌手不清）",
+          "matchSong": "我最红（LEEjung Remix编舞）",
+          "matchArtist": "2NE1",
+          "versionNote": "歌手与Remix版本未能可靠辨认；仅找到相关的2NE1我最红LEEjung Remix编舞翻跳，不能确认QQ音轨相同。",
+          "status": "新查相关版本；精确版本待核对",
+          "exactMatch": false,
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1SV4y1B7GY/"
+          ]
+        },
+        {
+          "index": 7,
+          "song": "Spicy",
+          "artist": "aespa",
+          "matchSong": "Spicy",
+          "matchArtist": "aespa",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1zV4y1C7Cs/"
+          ]
+        },
+        {
+          "index": 8,
+          "song": "UNFORGIVEN (feat. Nile Rod…)",
+          "artist": "LE SSERAFIM",
+          "matchSong": "UNFORGIVEN (feat. Nile Rodgers)",
+          "matchArtist": "LE SSERAFIM",
+          "versionNote": "截图feat.副标题截断；主曲确认，对应公开标题为UNFORGIVEN (feat. Nile Rodgers)。",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1Jh411j7KB"
+          ]
+        },
+        {
+          "index": 9,
+          "song": "Weapon",
+          "artist": "ITZY",
+          "matchSong": "Weapon",
+          "matchArtist": "ITZY",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1yZ4y1d7vX/"
+          ]
+        },
+        {
+          "index": 10,
+          "song": "LEFT RIGHT REMIXX (FEAT.…",
+          "artist": "XG",
+          "matchSong": "LEFT RIGHT",
+          "matchArtist": "XG",
+          "versionNote": "截图FEAT.后的副标题未显示完整。已有LEFT RIGHT原版练习室仅作相关版本；已查到官方Remixx音源/Visualizer，但它们不是舞蹈视频，不作为舞蹈资源加入。",
+          "status": "已有相关原版；精确版本暂无可靠舞蹈来源",
+          "exactMatch": false,
+          "versionEvidenceUrl": "https://xgalx.com/en/xg/news/detail.php?id=1108054",
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=RB1i1MLYeQ4"
+          ]
+        },
+        {
+          "index": 11,
+          "song": "GO HARD",
+          "artist": "TWICE",
+          "matchSong": "GO HARD",
+          "matchArtist": "TWICE",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1ST411x7SE/"
+          ]
+        },
+        {
+          "index": 12,
+          "song": "Queen card (女王之牌) (2023…",
+          "artist": "i-dle",
+          "matchSong": "Queencard",
+          "matchArtist": "i-dle",
+          "versionNote": "2023开头的副标题被截图截断，无法确认具体现场或改编版本；已有原版舞蹈仅作相关版本。",
+          "status": "已有相关原版；精确版本待核对",
+          "exactMatch": false,
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1Lh4y147y6/",
+            "https://www.youtube.com/watch?v=pKCaXYYwGjw"
+          ]
+        },
+        {
+          "index": 13,
+          "song": "SET ME FREE",
+          "artist": "TWICE",
+          "matchSong": "SET ME FREE",
+          "matchArtist": "TWICE",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=sXM5GwksZIY"
+          ]
+        },
+        {
+          "playlist": 1,
+          "index": 14,
+          "song": "Pretty Savage",
+          "artist": "BLACKPINK",
+          "matchSong": "Pretty Savage",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1ji4y157Cm/"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 15,
+          "song": "Shut Down",
+          "artist": "BLACKPINK",
+          "matchSong": "Shut Down",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=PjrAwC4TIPA"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 16,
+          "song": "Forever Young",
+          "artist": "BLACKPINK",
+          "matchSong": "Forever Young",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=89kTb73csYg"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 17,
+          "song": "DDU-DU DDU-DU (Korean V…",
+          "artist": "BLACKPINK",
+          "matchSong": "DDU-DU DDU-DU",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "截图标题尾部被截断为“Korean V…”，暂按韩语原版DDU-DU DDU-DU匹配，完整版本待核对。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=jOJbXvjZ-cQ"
+          ],
+          "sourceNote": "",
+          "exactMatch": false
+        },
+        {
+          "playlist": 1,
+          "index": 18,
+          "song": "Pink Venom",
+          "artist": "BLACKPINK",
+          "matchSong": "Pink Venom",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "已有来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV13N4y1c7ns/",
+            "https://www.youtube.com/watch?v=RFMi3v0TXP8"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "index": 19,
+          "song": "Next Level",
+          "artist": "aespa",
+          "matchSong": "Next Level",
+          "matchArtist": "aespa",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1iM4y1u7Z1/"
+          ]
+        },
+        {
+          "playlist": 1,
+          "index": 20,
+          "song": "LALISA",
+          "artist": "LISA",
+          "matchSong": "LALISA",
+          "matchArtist": "LISA",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=ZJ6QQLDIzrI"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 21,
+          "song": "MONEY",
+          "artist": "LISA",
+          "matchSong": "MONEY",
+          "matchArtist": "LISA",
+          "versionNote": "",
+          "status": "已有来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1rh411J7dk/?p=1",
+            "https://www.youtube.com/watch?v=fr-eHz87XoM"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "index": 22,
+          "song": "Nxde (Live)",
+          "artist": "i-dle",
+          "matchSong": "Nxde",
+          "matchArtist": "i-dle",
+          "versionNote": "截图未显示Live场次；保留Live标记。新增2022-10-20 MCOUNTDOWN团体直拍仅为相关现场版本，不代表QQ现场录音精确匹配。",
+          "status": "新查相关现场；精确版本待核对",
+          "exactMatch": false,
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=R9UsmrVEWYY",
+            "https://www.bilibili.com/video/BV1vm4y1w71q/?p=1"
+          ]
+        },
+        {
+          "index": 23,
+          "song": "POP!",
+          "artist": "NAYEON",
+          "matchSong": "POP!",
+          "matchArtist": "NAYEON",
+          "versionNote": "",
+          "status": "已有",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1TY4y1n7PG/?p=2",
+            "https://www.youtube.com/watch?v=_c4cKLYD28o"
+          ]
+        },
+        {
+          "index": 24,
+          "song": "DUMB DUMB",
+          "artist": "JEON SOMI",
+          "matchSong": "DUMB DUMB",
+          "matchArtist": "JEON SOMI",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1o44y117pf/"
+          ]
+        },
+        {
+          "index": 25,
+          "song": "TOMBOY (R3hab Remix)",
+          "artist": "i-dle / R3HAB",
+          "matchSong": "TOMBOY",
+          "matchArtist": "i-dle",
+          "versionNote": "明确为R3HAB Remix。已有TOMBOY原版练习室仅作相关版本；检索未核实该Remix对应的可靠舞蹈直链。",
+          "status": "已有相关原版；精确版本暂无可靠舞蹈来源",
+          "exactMatch": false,
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=CKSQjJDQTaQ"
+          ]
+        },
+        {
+          "index": 26,
+          "song": "DUMB DUMB (덤덤)",
+          "artist": "JEON SOMI",
+          "matchSong": "DUMB DUMB",
+          "matchArtist": "JEON SOMI",
+          "versionNote": "",
+          "status": "新查；与第24条同曲，保留歌单序号但共用视频",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1o44y117pf/"
+          ]
+        },
+        {
+          "playlist": 1,
+          "index": 27,
+          "song": "Lovesick Girls",
+          "artist": "BLACKPINK",
+          "matchSong": "Lovesick Girls",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=YxksUfnuEbI"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 28,
+          "song": "How You Like That",
+          "artist": "BLACKPINK",
+          "matchSong": "How You Like That",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "已有来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=32si5cfrCNc"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 29,
+          "song": "WHISTLE (口哨)",
+          "artist": "BLACKPINK",
+          "matchSong": "WHISTLE",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=1kYrp_Bs8DU"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 1,
+          "index": 30,
+          "song": "Kill This Love",
+          "artist": "BLACKPINK",
+          "matchSong": "Kill This Love",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=MOwaUlXZxkI"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "index": 31,
+          "song": "Savage",
+          "artist": "aespa",
+          "matchSong": "Savage",
+          "matchArtist": "aespa",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=jVkHUbF_rfg"
+          ]
+        },
+        {
+          "index": 32,
+          "song": "FEARLESS",
+          "artist": "LE SSERAFIM",
+          "matchSong": "FEARLESS",
+          "matchArtist": "LE SSERAFIM",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV11G4y1b7fa/?p=1"
+          ]
+        },
+        {
+          "index": 33,
+          "song": "怪火 (Illusion)",
+          "artist": "aespa",
+          "matchSong": "Illusion",
+          "matchArtist": "aespa",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1LY411K71K/"
+          ]
+        },
+        {
+          "index": 34,
+          "song": "XOXO",
+          "artist": "JEON SOMI",
+          "matchSong": "XOXO",
+          "matchArtist": "JEON SOMI",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1714y1v7sA/"
+          ]
+        },
+        {
+          "index": 35,
+          "song": "WA DA DA",
+          "artist": "Kep1er",
+          "matchSong": "WA DA DA",
+          "matchArtist": "Kep1er",
+          "versionNote": "",
+          "status": "已有",
+          "videoUrls": [
+            "https://www.youtube.com/watch?v=UuYXLLas-5k"
+          ]
+        },
+        {
+          "index": 36,
+          "song": "ROYAL",
+          "artist": "IVE",
+          "matchSong": "ROYAL",
+          "matchArtist": "IVE",
+          "versionNote": "",
+          "status": "新查",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1Hv4y1K7PV/"
+          ]
+        },
+        {
+          "playlist": 1,
+          "index": 37,
+          "song": "SOLO",
+          "artist": "JENNIE",
+          "matchSong": "SOLO",
+          "matchArtist": "JENNIE",
+          "versionNote": "",
+          "status": "已有来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV11t411Q7aT/"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "index": 38,
+          "song": "LOVE DIVE",
+          "artist": "IVE",
+          "matchSong": "LOVE DIVE",
+          "matchArtist": "IVE",
+          "versionNote": "",
+          "status": "已有",
+          "videoUrls": [
+            "https://www.bilibili.com/video/BV1qF411F7c1/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blackpink-deadline",
+      "title": "BLACKPINK · DEADLINE 歌单",
+      "expectedCount": 29,
+      "visibleCount": 26,
+      "complete": false,
+      "note": "按本次截图录入第1—26条；第27—29条未显示，尚未导入。toxic till the end与3am暂未找到可靠舞蹈来源，保留为待补条目。点击曲目查看相关舞蹈。",
+      "tracks": [
+        {
+          "playlist": 2,
+          "index": 1,
+          "song": "Kill This Love",
+          "artist": "BLACKPINK",
+          "matchSong": "Kill This Love",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=MOwaUlXZxkI"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 2,
+          "song": "Pink Venom",
+          "artist": "BLACKPINK",
+          "matchSong": "Pink Venom",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "已有来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV13N4y1c7ns/",
+            "https://www.youtube.com/watch?v=RFMi3v0TXP8"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 3,
+          "song": "How You Like That",
+          "artist": "BLACKPINK",
+          "matchSong": "How You Like That",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "已有来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=32si5cfrCNc"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 4,
+          "song": "PLAYING WITH FIRE (불장난)",
+          "artist": "BLACKPINK",
+          "matchSong": "PLAYING WITH FIRE",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=NvWfJTbrTBY"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 5,
+          "song": "Shut Down",
+          "artist": "BLACKPINK",
+          "matchSong": "Shut Down",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=PjrAwC4TIPA"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 6,
+          "song": "earthquake",
+          "artist": "JISOO",
+          "matchSong": "earthquake",
+          "matchArtist": "JISOO",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=Z33suvklkx0"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 7,
+          "song": "Your Love",
+          "artist": "JISOO",
+          "matchSong": "Your Love",
+          "matchArtist": "JISOO",
+          "versionNote": "目前为EDNAYIU原创编舞片段，非JISOO本人或DEADLINE演唱会椅子舞原编。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=RXvuPBjH1so"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 8,
+          "song": "New Woman (ft. ROSALÍA)",
+          "artist": "LISA / …",
+          "matchSong": "New Woman",
+          "matchArtist": "LISA",
+          "versionNote": "采用BADA原创课堂编舞，非LISA本人或原MV编舞；截图艺人栏尾部截断。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=LljHulE6St4"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 9,
+          "song": "FXCK UP THE WORLD ft. Future",
+          "artist": "LISA",
+          "matchSong": "FXCK UP THE WORLD (Vixi Solo Version)",
+          "matchArtist": "LISA",
+          "versionNote": "截图为ft. Future合作版；目前舞蹈参考是Vixi Solo Version的自编Dance Fitness，音轨和编舞不完全等同。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1bgXFYDEFE/"
+          ],
+          "sourceNote": "",
+          "exactMatch": false
+        },
+        {
+          "playlist": 2,
+          "index": 10,
+          "song": "Rockstar",
+          "artist": "LISA",
+          "matchSong": "Rockstar",
+          "matchArtist": "LISA",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=tEA7buzhE0s"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 11,
+          "song": "Pretty Savage",
+          "artist": "BLACKPINK",
+          "matchSong": "Pretty Savage",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1ji4y157Cm/"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 12,
+          "song": "Don't Know What To Do",
+          "artist": "BLACKPINK",
+          "matchSong": "Don't Know What To Do",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=bqzDuRz_P7g"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 13,
+          "song": "WHISTLE (口哨)",
+          "artist": "BLACKPINK",
+          "matchSong": "WHISTLE",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=1kYrp_Bs8DU"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 14,
+          "song": "STAY",
+          "artist": "BLACKPINK",
+          "matchSong": "STAY",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "采用Hyeyeon/1MILLION原创课堂编舞，非BLACKPINK官方原编。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=zk-uZ3MsY1M"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 15,
+          "song": "Lovesick Girls",
+          "artist": "BLACKPINK",
+          "matchSong": "Lovesick Girls",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=YxksUfnuEbI"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 16,
+          "song": "like JENNIE (Explicit)",
+          "artist": "JENNIE",
+          "matchSong": "like JENNIE",
+          "matchArtist": "JENNIE",
+          "versionNote": "截图为Explicit版本；对应舞蹈/教学的音轨是否为相同Explicit版本尚未核对。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1LeRGY6ECj/"
+          ],
+          "sourceNote": "",
+          "exactMatch": false
+        },
+        {
+          "playlist": 2,
+          "index": 17,
+          "song": "Mantra (Explicit)",
+          "artist": "JENNIE",
+          "matchSong": "Mantra",
+          "matchArtist": "JENNIE",
+          "versionNote": "截图为Explicit版本；对应舞蹈/教学的音轨是否为相同Explicit版本尚未核对。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=V5bVtAej1hs"
+          ],
+          "sourceNote": "",
+          "exactMatch": false
+        },
+        {
+          "playlist": 2,
+          "index": 18,
+          "song": "with the IE (way up) (Explicit)",
+          "artist": "JENNIE",
+          "matchSong": "with the IE (way up)",
+          "matchArtist": "JENNIE",
+          "versionNote": "截图为Explicit版本；对应舞蹈/教学的音轨是否为相同Explicit版本尚未核对。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1uvXxY8EgP/"
+          ],
+          "sourceNote": "",
+          "exactMatch": false
+        },
+        {
+          "playlist": 2,
+          "index": 19,
+          "song": "toxic till the end",
+          "artist": "ROSÉ",
+          "matchSong": "toxic till the end",
+          "matchArtist": "ROSÉ",
+          "versionNote": "",
+          "status": "无可靠舞蹈源，待补",
+          "sourceUrls": [],
+          "sourceNote": "未检索到可靠的B站或创作者官方YouTube独立舞蹈/教学直链。检索中所谓DANCE PERFORMANCE明确将On The Ground旧画面换为本曲音轨，已排除；普通MV、演唱现场和游戏混剪不计入。"
+        },
+        {
+          "playlist": 2,
+          "index": 20,
+          "song": "3am",
+          "artist": "ROSÉ",
+          "matchSong": "3am",
+          "matchArtist": "ROSÉ",
+          "versionNote": "",
+          "status": "无可靠舞蹈源，待补",
+          "sourceUrls": [],
+          "sourceNote": "未检索到可靠的B站或创作者官方YouTube独立舞蹈/教学直链；演唱现场、官方音频和无可核对直链的聚合页不计入。"
+        },
+        {
+          "playlist": 2,
+          "index": 21,
+          "song": "APT.",
+          "artist": "ROSÉ / Bruno Mars",
+          "matchSong": "APT.",
+          "matchArtist": "ROSÉ",
+          "versionNote": "采用非官方副歌舞蹈挑战教学，非全曲或艺人原编。",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1tuy5YuEHP/"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 22,
+          "song": "JUMP",
+          "artist": "BLACKPINK",
+          "matchSong": "JUMP",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.bilibili.com/video/BV1uA3vztEpf/"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 23,
+          "song": "BOOMBAYAH (붐바야)",
+          "artist": "BLACKPINK",
+          "matchSong": "BOOMBAYAH",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=ivoS3HUJB3Q"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 24,
+          "song": "DDU-DU DDU-DU (Korean Ver.)",
+          "artist": "BLACKPINK",
+          "matchSong": "DDU-DU DDU-DU",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=jOJbXvjZ-cQ"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 25,
+          "song": "AS IF IT'S YOUR LAST (像最后一样)",
+          "artist": "BLACKPINK",
+          "matchSong": "AS IF IT'S YOUR LAST",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=hKUJmA9O6iA"
+          ],
+          "sourceNote": ""
+        },
+        {
+          "playlist": 2,
+          "index": 26,
+          "song": "Forever Young",
+          "artist": "BLACKPINK",
+          "matchSong": "Forever Young",
+          "matchArtist": "BLACKPINK",
+          "versionNote": "",
+          "status": "新增来源",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=89kTb73csYg"
+          ],
+          "sourceNote": ""
+        }
+      ]
     }
   ]
 };
