@@ -40,7 +40,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/list/624243924?bvid=BV1qx4y1z7iw&oid=1003978811",
       "verificationNote": "已通过B站公开页面或检索元数据核对歌曲、标题、发布账号与BV号；未实播，播放与地区可用性需到原平台确认。",
-      "thumbnail": null
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/5e29e4f22ce747885325b86bb8adb4f48fd9191a.jpg",
+      "localThumbnail": "assets/covers/BV1qx4y1z7iw.webp",
+      "imageSource": "https://www.bilibili.com/video/BV1qx4y1z7iw/",
+      "imageKind": "Exact Bilibili archive thumbnail from official public video metadata; resized to maximum 480 px; no generated or unrelated imagery"
     },
     {
       "song": "FREAK",

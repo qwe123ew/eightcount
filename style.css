@@ -145,6 +145,8 @@ h1 .acid { color: var(--accent); }
 .play { position: absolute; right: 10px; bottom: 10px; display: grid; place-items: center; width: 29px; height: 29px; border-radius: 50%; background: var(--accent); color: #251433; }
 .play svg { width: 10px; height: 10px; margin-left: 2px; fill: currentColor; }
 .cover-fallback { position: absolute; z-index: -1; inset: 0; display: flex; flex-direction: column; justify-content: space-between; padding: 18px; background: linear-gradient(135deg, #3b3448, #211d2c); }
+.cover-status { position: absolute; z-index: 2; top: 10px; left: 10px; max-width: calc(100% - 20px); padding: 3px 7px; border: 1px solid #81768f; border-radius: 5px; background: #211e2b; color: #e6deef; font-size: 12px; line-height: 1.4; font-weight: 500; }
+.cover-button[data-cover-state="missing"] .cover-fallback small, .cover-button[data-cover-state="unavailable"] .cover-fallback small { margin-top: 22px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .cover-fallback small { color: #d7cfdf; font-size: 12px; letter-spacing: 1.5px; }
 .cover-fallback strong { max-width: 95%; margin-bottom: 20px; color: #f2edf8; font-size: clamp(21px, 2.1vw, 33px); font-weight: 800; line-height: 1.03; letter-spacing: -1px; overflow-wrap: anywhere; }
 .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; margin-top: 12px; }
