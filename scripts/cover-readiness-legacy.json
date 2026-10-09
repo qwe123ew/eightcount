@@ -1,0 +1,2031 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-10-09",
+  "purpose": "Frozen transition baseline only. Never add later songs or source URLs.",
+  "songIds": [
+    "2ne1-iamthebest",
+    "2ne1-我最红leejungremix编舞",
+    "4eve-vroomvroom",
+    "4minute-crazy",
+    "aespa-armageddon",
+    "aespa-drama",
+    "aespa-illusion",
+    "aespa-nextlevel",
+    "aespa-savage",
+    "aespa-spicy",
+    "aespa-whiplash",
+    "akmu-paradiseofrumors",
+    "anitta-envolver",
+    "aoa-miniskirt",
+    "apink-dumhdurum",
+    "arianagrande-7rings",
+    "armaniwhite-billieeilish",
+    "atarashiigakko-オトナブルー",
+    "ateez-bouncy",
+    "avamax-sweetbutpsycho",
+    "babymonster-batterup",
+    "babymonster-sheesh",
+    "befirst-mainstream",
+    "beyoncé-formation",
+    "bigbang-bangbangbang",
+    "billieeilish-badguy",
+    "bini-pantropiko",
+    "blackpink-asifitsyourlast",
+    "blackpink-boombayah",
+    "blackpink-ddududdudu",
+    "blackpink-dontknowwhattodo",
+    "blackpink-foreveryoung",
+    "blackpink-go",
+    "blackpink-howyoulikethat",
+    "blackpink-jump",
+    "blackpink-killthislove",
+    "blackpink-lovesickgirls",
+    "blackpink-pinkvenom",
+    "blackpink-playingwithfire",
+    "blackpink-prettysavage",
+    "blackpink-shutdown",
+    "blackpink-stay",
+    "blackpink-whistle",
+    "boynextdoor-oneandonly",
+    "britneyspears-toxic",
+    "brunomars-24kmagic",
+    "brunomars-thatswhatilike",
+    "bts-20",
+    "bts-amiwrong",
+    "bts-bodytobody",
+    "bts-boywithluv",
+    "bts-butter",
+    "bts-dynamite",
+    "bts-fakelove",
+    "bts-fya",
+    "bts-hooligan",
+    "bts-idol",
+    "bts-micdrop",
+    "bts-normal",
+    "bts-onemorenight",
+    "bts-runbts",
+    "bts-springday",
+    "bts-swim",
+    "bts-theydontknowboutus",
+    "bus-becauseofyouishine",
+    "camilacabellofeatyoungthug-havana",
+    "charlieputh-howlong",
+    "chungha-play",
+    "coldplaybts-myuniverse",
+    "cortis-fashion",
+    "cortis-go",
+    "cortis-redred",
+    "daddyyankeesnow-concalma",
+    "dojacat-sayso",
+    "dreamcatcher-scream",
+    "dualipa-newrules",
+    "dualipafeatdababy-levitating",
+    "edsheeran-shapeofyou",
+    "enhypen-biteme",
+    "enhypen-drunkdazed",
+    "everglow-dundun",
+    "exo-theeve",
+    "fifthharmonyfeatkidink-worthit",
+    "fiftyfifty-cupid",
+    "fx-4walls",
+    "garnidelia-極楽浄土",
+    "gfriend-mago",
+    "girlsgeneration-intothenewworld",
+    "got7-hardcarry",
+    "harrystyles-adoreyou",
+    "hearts2hearts-focus",
+    "hearts2hearts-rude",
+    "hearts2hearts-style",
+    "huntrx-golden",
+    "huntrx-howitsdone",
+    "huntrx-takedown",
+    "huntrx-whatitsoundslike",
+    "hwasa-goodgoodbye",
+    "hyunafeatjungilhoon-rolldeep",
+    "idle-allergy",
+    "idle-crow",
+    "idle-dumdidumdi",
+    "idle-fate",
+    "idle-gimmedatlove",
+    "idle-girlfriend",
+    "idle-goodthing",
+    "idle-hannalone",
+    "idle-hwaa",
+    "idle-iwantthat",
+    "idle-klaxon",
+    "idle-latata",
+    "idle-lion",
+    "idle-lucid",
+    "idle-luvu",
+    "idle-monofeatskaiwater",
+    "idle-mybag",
+    "idle-nxde",
+    "idle-ohmygod",
+    "idle-putitstraightnightmarever",
+    "idle-queencard",
+    "idle-senorita",
+    "idle-superlady",
+    "idle-tomboy",
+    "idle-uhoh",
+    "idle-wife",
+    "ikon-lovescenario",
+    "illit-magnetic",
+    "illit-notcuteanymore",
+    "infinite-thechaser",
+    "ini-fanfare",
+    "into1-风暴眼",
+    "itzy-killshot",
+    "itzy-thatsanono",
+    "itzy-wannabe",
+    "itzy-weapon",
+    "ive-bangbang",
+    "ive-blackhole",
+    "ive-iam",
+    "ive-kitsch",
+    "ive-lovedive",
+    "ive-royal",
+    "izone-fiesta",
+    "jasonderulofeatnickiminajtydollaign-swalla",
+    "jennie-likejennie",
+    "jennie-mantra",
+    "jennie-solo",
+    "jennie-withtheiewayup",
+    "jeonsomi-dumbdumb",
+    "jeonsomi-xoxo",
+    "jhope-killinitgirl",
+    "jimin-who",
+    "jin-dontsayyouloveme",
+    "jisoo-earthquake",
+    "jisoo-yourlove",
+    "jungkook-3d",
+    "jungkook-seven",
+    "jungkook-standingnexttoyou",
+    "justinbieber-sorry",
+    "katseye-debut",
+    "katseye-gabriela",
+    "katseye-gameboy",
+    "katseye-gnarly",
+    "katseye-internetgirl",
+    "katseye-mia",
+    "katseye-pinkyup",
+    "katseye-touch",
+    "kep1er-wadada",
+    "kiiikiii-404newera",
+    "kissoflife-igloo",
+    "kissoflife-whoisshe",
+    "ladygaga-abracadabra",
+    "lesserafim-antifragile",
+    "lesserafim-crazy",
+    "lesserafim-easy",
+    "lesserafim-fearless",
+    "lesserafim-spaghetti",
+    "lesserafim-unforgivenfeatnilerodgers",
+    "limyoungwoong-그댈위한멜로디",
+    "limyoungwoong-사랑은늘도망가",
+    "lisa-fxckuptheworldvixisoloversion",
+    "lisa-lalisa",
+    "lisa-money",
+    "lisa-newwoman",
+    "lisa-rockstar",
+    "lngshot-moonwalkin",
+    "mamamoo-hip",
+    "markronsonfeatbrunomars-uptownfunk",
+    "maroon5-sugar",
+    "meghantrainor-metoo",
+    "michaeljackson-smoothcriminal",
+    "momoland-bboombboom",
+    "monstax-shootout",
+    "nayeon-pop",
+    "nct127-kickit",
+    "nctdream-candy",
+    "newjeans-ditto",
+    "newjeans-hypeboy",
+    "newjeans-supershy",
+    "niziu-makeyouhappy",
+    "nmixx-lovemelikethis",
+    "ohmygirl-nonstop",
+    "oliviarodrigo-good4u",
+    "pentagon-shine",
+    "plave-bbuu",
+    "plave-bornsavage",
+    "rahulsipligunjkaalabhairava-naatunaatu",
+    "redvelvet-psycho",
+    "rihannafeatdrake-work",
+    "riize-flyup",
+    "riize-lucky",
+    "rosé-toxictilltheend",
+    "rosébrunomars-apt",
+    "sabrinacarpenter-nonsense",
+    "sajaboys-sodapop",
+    "sajaboys-youridol",
+    "sb19-gento",
+    "selenagomezmarshmello-wolves",
+    "seventeen-super",
+    "seventeen-thunder",
+    "shakirafeatfreshlyground-wakawakathistimeforafrica",
+    "shinee-lucifer",
+    "sia-cheapthrills",
+    "sing女团-千盏",
+    "sing女团-寄明月",
+    "sistar-touchmybody",
+    "snowman-dd",
+    "stayc-asap",
+    "straykids-godsmenu",
+    "straykids-lalalala",
+    "straykids-sclass",
+    "sunmi-gashina",
+    "taemin-move",
+    "taeyang-ringalinga",
+    "tatemcrae-greedy",
+    "tfboys-青春修炼手册",
+    "the9-斯芬克斯",
+    "theboyz-thestealer",
+    "thepussycatdolls-buttons",
+    "theweeknd-blindinglights",
+    "theweekndjennielilyrosedepp-oneofthegirls",
+    "travisjapan-justdance",
+    "treasure-move",
+    "twice-feelspecial",
+    "twice-gohard",
+    "twice-setmefree",
+    "twice-strategy",
+    "twice-takedownjeongyeonjihyochaeyoung",
+    "twice-whatislove",
+    "tws-plottwist",
+    "txt-stickwithyou",
+    "txt-sugarrushride",
+    "txt-takemetonirvanafeatvinidaweng",
+    "usher-scream",
+    "viviz-maniac",
+    "vixx-shangrila",
+    "wjsn-asyouwish",
+    "woodz-drowning",
+    "xg-grlgvng",
+    "xg-leftright",
+    "xg-shootingstar",
+    "yena-catchcatch",
+    "yoasobi-アイドル",
+    "yuqi-freak",
+    "yuqi-mo",
+    "yuqi-onclapfeatlexieliu",
+    "yuqi-radiodumdum",
+    "zerobaseone-inbloom",
+    "zico-anysong",
+    "凤凰传奇-最炫民族风",
+    "刘雨昕-节奏病",
+    "周杰伦-霍元甲",
+    "周杰伦-青花瓷",
+    "小虎队-青苹果乐园",
+    "张艺兴-莲",
+    "时代少年团-要你管",
+    "易烊千玺-myboo",
+    "李宇春-无价之姐",
+    "李玟feat周杰伦-刀马旦",
+    "林俊杰-不潮不用花钱",
+    "潘玮柏张韶涵-快乐崇拜",
+    "火箭少女101-卡路里",
+    "王心凌-honey",
+    "王心凌-爱你",
+    "王心凌-睫毛弯弯",
+    "硬糖少女303-bonbongirls",
+    "筷子兄弟-小苹果",
+    "罗志祥-精舞门",
+    "萧亚轩-潇洒小姐",
+    "萧亚轩-爱的主打歌",
+    "萧亚轩-表白",
+    "蔡依林-怪美的",
+    "蔡依林-日不落",
+    "蔡依林-玫瑰少年",
+    "蔡依林-美人计",
+    "蔡依林-舞娘",
+    "蔡徐坤-情人",
+    "许嵩-清明雨上",
+    "郑秀文-眉飞色舞"
+  ],
+  "sources": [
+    {
+      "songId": "2ne1-iamthebest",
+      "url": "https://www.youtube.com/watch?v=fl19JYqW6MI"
+    },
+    {
+      "songId": "2ne1-我最红leejungremix编舞",
+      "url": "https://www.bilibili.com/video/BV1SV4y1B7GY/"
+    },
+    {
+      "songId": "4eve-vroomvroom",
+      "url": "https://www.youtube.com/watch?v=DP00neu0-9o"
+    },
+    {
+      "songId": "4minute-crazy",
+      "url": "https://www.youtube.com/watch?v=2qJPDmUhPIM"
+    },
+    {
+      "songId": "aespa-armageddon",
+      "url": "https://www.bilibili.com/video/BV1Qr421w7iB/"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.bilibili.com/video/BV16C4y1F74C/"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.bilibili.com/video/BV17a4y1U7Ry/"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.bilibili.com/video/BV1iu4y1b762/"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.bilibili.com/video/BV1q94y137Jr/"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.youtube.com/watch?v=3x8BTSXrhHI"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.youtube.com/watch?v=A_bEGrPlAOo"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.youtube.com/watch?v=aBLzG8a1j3Y"
+    },
+    {
+      "songId": "aespa-drama",
+      "url": "https://www.youtube.com/watch?v=xuTuAHDCpBM"
+    },
+    {
+      "songId": "aespa-illusion",
+      "url": "https://www.bilibili.com/video/BV1LY411K71K/"
+    },
+    {
+      "songId": "aespa-nextlevel",
+      "url": "https://www.bilibili.com/video/BV1GB4y1g7yv/"
+    },
+    {
+      "songId": "aespa-nextlevel",
+      "url": "https://www.bilibili.com/video/BV1iM4y1u7Z1/"
+    },
+    {
+      "songId": "aespa-savage",
+      "url": "https://www.youtube.com/watch?v=jVkHUbF_rfg"
+    },
+    {
+      "songId": "aespa-spicy",
+      "url": "https://www.bilibili.com/video/BV1j24y1K7h3/"
+    },
+    {
+      "songId": "aespa-spicy",
+      "url": "https://www.bilibili.com/video/BV1zV4y1C7Cs/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1eK1PYsEzp/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1feS4YME8o/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1fz1LYhEiW/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1pjSRYsEES/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1REfKYcEGj/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1WZS3YqEBA/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.bilibili.com/video/BV1ZH1NYAEkh/"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.youtube.com/watch?v=4hAdcenQWqU"
+    },
+    {
+      "songId": "aespa-whiplash",
+      "url": "https://www.youtube.com/watch?v=gPaK6AhK9HY"
+    },
+    {
+      "songId": "akmu-paradiseofrumors",
+      "url": "https://www.youtube.com/watch?v=XAS-By9PJkk"
+    },
+    {
+      "songId": "anitta-envolver",
+      "url": "https://www.youtube.com/watch?v=9dQC2eIzBsg"
+    },
+    {
+      "songId": "aoa-miniskirt",
+      "url": "https://www.youtube.com/watch?v=56hGcCt0NuU"
+    },
+    {
+      "songId": "apink-dumhdurum",
+      "url": "https://www.bilibili.com/video/BV1Xf4y1S7Fy/"
+    },
+    {
+      "songId": "apink-dumhdurum",
+      "url": "https://www.youtube.com/watch?v=kCc6AclLLco"
+    },
+    {
+      "songId": "arianagrande-7rings",
+      "url": "https://www.bilibili.com/video/BV1hb411y7nR/"
+    },
+    {
+      "songId": "arianagrande-7rings",
+      "url": "https://www.youtube.com/watch?v=WfwV8vkIXvI"
+    },
+    {
+      "songId": "armaniwhite-billieeilish",
+      "url": "https://www.bilibili.com/video/BV1QM411177a/"
+    },
+    {
+      "songId": "atarashiigakko-オトナブルー",
+      "url": "https://www.bilibili.com/video/BV16H4y1y7nc/"
+    },
+    {
+      "songId": "atarashiigakko-オトナブルー",
+      "url": "https://www.youtube.com/watch?v=XCLajejueU0"
+    },
+    {
+      "songId": "ateez-bouncy",
+      "url": "https://www.youtube.com/watch?v=smLc012VUts"
+    },
+    {
+      "songId": "avamax-sweetbutpsycho",
+      "url": "https://www.youtube.com/watch?v=yz5hrlhbaYI"
+    },
+    {
+      "songId": "babymonster-batterup",
+      "url": "https://www.bilibili.com/video/BV1Au4y1H727/"
+    },
+    {
+      "songId": "babymonster-batterup",
+      "url": "https://www.youtube.com/watch?v=buFQulSu-C4"
+    },
+    {
+      "songId": "babymonster-sheesh",
+      "url": "https://www.bilibili.com/video/BV11M4m1R7F2/"
+    },
+    {
+      "songId": "befirst-mainstream",
+      "url": "https://www.youtube.com/watch?v=MIGCjK-9TDA"
+    },
+    {
+      "songId": "beyoncé-formation",
+      "url": "https://www.youtube.com/watch?v=Suhz7IMYNwE"
+    },
+    {
+      "songId": "bigbang-bangbangbang",
+      "url": "https://www.youtube.com/watch?v=uxqjsXjSKPk"
+    },
+    {
+      "songId": "billieeilish-badguy",
+      "url": "https://www.youtube.com/watch?v=zZp8USkoNYA"
+    },
+    {
+      "songId": "bini-pantropiko",
+      "url": "https://www.youtube.com/watch?v=wyxmSOidPzA"
+    },
+    {
+      "songId": "blackpink-asifitsyourlast",
+      "url": "https://www.bilibili.com/video/BV1Gv411Y7Cd/"
+    },
+    {
+      "songId": "blackpink-asifitsyourlast",
+      "url": "https://www.youtube.com/watch?v=hKUJmA9O6iA"
+    },
+    {
+      "songId": "blackpink-boombayah",
+      "url": "https://www.youtube.com/watch?v=ivoS3HUJB3Q"
+    },
+    {
+      "songId": "blackpink-ddududdudu",
+      "url": "https://www.bilibili.com/video/BV1aW411c7Ee/?p=3"
+    },
+    {
+      "songId": "blackpink-ddududdudu",
+      "url": "https://www.steezy.co/posts/how-to-do-the-dance-move-from-ddu-du-ddu-du-by-blackpink"
+    },
+    {
+      "songId": "blackpink-ddududdudu",
+      "url": "https://www.youtube.com/watch?v=jOJbXvjZ-cQ"
+    },
+    {
+      "songId": "blackpink-dontknowwhattodo",
+      "url": "https://www.youtube.com/watch?v=bqzDuRz_P7g"
+    },
+    {
+      "songId": "blackpink-foreveryoung",
+      "url": "https://www.bilibili.com/video/BV1Jw411r72Q/"
+    },
+    {
+      "songId": "blackpink-foreveryoung",
+      "url": "https://www.youtube.com/watch?v=89kTb73csYg"
+    },
+    {
+      "songId": "blackpink-go",
+      "url": "https://www.youtube.com/watch?v=EFS3W9pPxKg"
+    },
+    {
+      "songId": "blackpink-howyoulikethat",
+      "url": "https://www.bilibili.com/video/BV11y4y1k7kD/"
+    },
+    {
+      "songId": "blackpink-howyoulikethat",
+      "url": "https://www.bilibili.com/video/BV1eC4y1h7Ln/"
+    },
+    {
+      "songId": "blackpink-howyoulikethat",
+      "url": "https://www.youtube.com/watch?v=32si5cfrCNc"
+    },
+    {
+      "songId": "blackpink-jump",
+      "url": "https://www.bilibili.com/video/BV1cbgczUE6G/"
+    },
+    {
+      "songId": "blackpink-jump",
+      "url": "https://www.bilibili.com/video/BV1qpu8zHErq/"
+    },
+    {
+      "songId": "blackpink-jump",
+      "url": "https://www.bilibili.com/video/BV1uA3vztEpf/"
+    },
+    {
+      "songId": "blackpink-jump",
+      "url": "https://www.youtube.com/watch?v=2FIwogAjlZw"
+    },
+    {
+      "songId": "blackpink-jump",
+      "url": "https://www.youtube.com/watch?v=EGfbCABFn08"
+    },
+    {
+      "songId": "blackpink-jump",
+      "url": "https://www.youtube.com/watch?v=KJNbTDEBzuY"
+    },
+    {
+      "songId": "blackpink-killthislove",
+      "url": "https://www.youtube.com/watch?v=MOwaUlXZxkI"
+    },
+    {
+      "songId": "blackpink-lovesickgirls",
+      "url": "https://www.youtube.com/watch?v=YxksUfnuEbI"
+    },
+    {
+      "songId": "blackpink-pinkvenom",
+      "url": "https://rutube.ru/video/54f4e8988362571ac128507349e4aefa/"
+    },
+    {
+      "songId": "blackpink-pinkvenom",
+      "url": "https://www.bilibili.com/video/BV13N4y1c7ns/"
+    },
+    {
+      "songId": "blackpink-pinkvenom",
+      "url": "https://www.bilibili.com/video/BV1Me411u7Tg/"
+    },
+    {
+      "songId": "blackpink-pinkvenom",
+      "url": "https://www.bilibili.com/video/BV1xd4y197Xm/?p=2"
+    },
+    {
+      "songId": "blackpink-pinkvenom",
+      "url": "https://www.youtube.com/watch?v=RFMi3v0TXP8"
+    },
+    {
+      "songId": "blackpink-playingwithfire",
+      "url": "https://www.youtube.com/watch?v=NvWfJTbrTBY"
+    },
+    {
+      "songId": "blackpink-prettysavage",
+      "url": "https://www.bilibili.com/video/BV1ji4y157Cm/"
+    },
+    {
+      "songId": "blackpink-shutdown",
+      "url": "https://www.youtube.com/watch?v=PjrAwC4TIPA"
+    },
+    {
+      "songId": "blackpink-stay",
+      "url": "https://www.youtube.com/watch?v=zk-uZ3MsY1M"
+    },
+    {
+      "songId": "blackpink-whistle",
+      "url": "https://www.youtube.com/watch?v=1kYrp_Bs8DU"
+    },
+    {
+      "songId": "boynextdoor-oneandonly",
+      "url": "https://www.bilibili.com/video/BV1c94y167SQ/"
+    },
+    {
+      "songId": "britneyspears-toxic",
+      "url": "https://www.bilibili.com/video/BV1n97mzYEg3/"
+    },
+    {
+      "songId": "brunomars-24kmagic",
+      "url": "https://www.youtube.com/watch?v=bmVyRL9WOA0"
+    },
+    {
+      "songId": "brunomars-24kmagic",
+      "url": "https://www.youtube.com/watch?v=wuA2IhduKlQ"
+    },
+    {
+      "songId": "brunomars-thatswhatilike",
+      "url": "https://www.bilibili.com/video/BV1VApcegEmE/"
+    },
+    {
+      "songId": "bts-20",
+      "url": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
+    },
+    {
+      "songId": "bts-amiwrong",
+      "url": "https://vimeo.com/675012024"
+    },
+    {
+      "songId": "bts-bodytobody",
+      "url": "https://www.bilibili.com/video/BV1Bo9MBREyy/"
+    },
+    {
+      "songId": "bts-boywithluv",
+      "url": "https://www.youtube.com/watch?v=CzvfbRbEjww"
+    },
+    {
+      "songId": "bts-butter",
+      "url": "https://www.youtube.com/watch?v=ujf3iJoWgrM"
+    },
+    {
+      "songId": "bts-dynamite",
+      "url": "https://mattsteffanina.com/bts-dynamite-dance-tutorial/"
+    },
+    {
+      "songId": "bts-dynamite",
+      "url": "https://www.bilibili.com/video/BV1sB4y1g7iX/"
+    },
+    {
+      "songId": "bts-dynamite",
+      "url": "https://www.carriemitchell.net/blog/dynamite"
+    },
+    {
+      "songId": "bts-dynamite",
+      "url": "https://www.dailymotion.com/video/x7x1rgi"
+    },
+    {
+      "songId": "bts-dynamite",
+      "url": "https://www.youtube.com/watch?v=WhDsAW1ZzZ8"
+    },
+    {
+      "songId": "bts-fakelove",
+      "url": "https://vimeo.com/325332307"
+    },
+    {
+      "songId": "bts-fakelove",
+      "url": "https://www.youtube.com/watch?v=nQySbNGu4g0"
+    },
+    {
+      "songId": "bts-fya",
+      "url": "https://www.youtube.com/watch?v=iF-r_AAMOjE"
+    },
+    {
+      "songId": "bts-hooligan",
+      "url": "https://www.youtube.com/watch?v=qWDNVP1pb48"
+    },
+    {
+      "songId": "bts-idol",
+      "url": "https://www.youtube.com/watch?v=bhWXw56puNY"
+    },
+    {
+      "songId": "bts-micdrop",
+      "url": "https://www.youtube.com/watch?v=eRkpkveBWyo"
+    },
+    {
+      "songId": "bts-normal",
+      "url": "https://www.youtube.com/watch?v=O0D_0GIdH4U"
+    },
+    {
+      "songId": "bts-onemorenight",
+      "url": "https://www.youtube.com/watch?v=zF8GFG8RW7w"
+    },
+    {
+      "songId": "bts-runbts",
+      "url": "https://www.youtube.com/watch?v=aqW4xXUgmno"
+    },
+    {
+      "songId": "bts-springday",
+      "url": "https://www.youtube.com/watch?v=_AlODdAInRY"
+    },
+    {
+      "songId": "bts-swim",
+      "url": "https://jingxuan.douyin.com/m/video/7620665316401911793"
+    },
+    {
+      "songId": "bts-swim",
+      "url": "https://www.youtube.com/watch?v=uYcNZLJ3KmU"
+    },
+    {
+      "songId": "bts-theydontknowboutus",
+      "url": "https://www.youtube.com/watch?v=4Fq98EvLyPQ"
+    },
+    {
+      "songId": "bus-becauseofyouishine",
+      "url": "https://www.youtube.com/watch?v=uNWKvnXAgMY"
+    },
+    {
+      "songId": "camilacabellofeatyoungthug-havana",
+      "url": "https://www.bilibili.com/video/BV1EM4y1Q73d/"
+    },
+    {
+      "songId": "charlieputh-howlong",
+      "url": "https://www.youtube.com/watch?v=iW2yUrXXRTI"
+    },
+    {
+      "songId": "chungha-play",
+      "url": "https://www.bilibili.com/video/av797049060/"
+    },
+    {
+      "songId": "coldplaybts-myuniverse",
+      "url": "https://www.youtube.com/watch?v=DNt96KhnqqM"
+    },
+    {
+      "songId": "cortis-fashion",
+      "url": "https://www.youtube.com/watch?v=u5IhtyOsEzE"
+    },
+    {
+      "songId": "cortis-go",
+      "url": "https://www.youtube.com/watch?v=xfDwI_csntE"
+    },
+    {
+      "songId": "cortis-redred",
+      "url": "https://www.youtube.com/watch?v=kuVNutQeBBA"
+    },
+    {
+      "songId": "daddyyankeesnow-concalma",
+      "url": "https://www.youtube.com/watch?v=n-awEsIbXlo"
+    },
+    {
+      "songId": "dojacat-sayso",
+      "url": "https://www.youtube.com/watch?v=5Eiqnt-Kxqk"
+    },
+    {
+      "songId": "dreamcatcher-scream",
+      "url": "https://www.bilibili.com/video/BV1K7411A7WV/"
+    },
+    {
+      "songId": "dreamcatcher-scream",
+      "url": "https://www.youtube.com/watch?v=r16E2utaK3k"
+    },
+    {
+      "songId": "dualipa-newrules",
+      "url": "https://www.bilibili.com/video/BV16R4y1o76w/"
+    },
+    {
+      "songId": "dualipa-newrules",
+      "url": "https://www.youtube.com/watch?v=iyCMc9LzLrM"
+    },
+    {
+      "songId": "dualipafeatdababy-levitating",
+      "url": "https://www.youtube.com/watch?v=LUteQ_Z6tDo"
+    },
+    {
+      "songId": "edsheeran-shapeofyou",
+      "url": "https://mattsteffanina.com/shape-of-you-ed-sheeran-dance-tutorial-matt-steffanina-x-phillip-chbeeb-choreography/"
+    },
+    {
+      "songId": "edsheeran-shapeofyou",
+      "url": "https://www.bilibili.com/video/BV1DW411Y79P/"
+    },
+    {
+      "songId": "enhypen-biteme",
+      "url": "https://www.bilibili.com/video/BV1ra4y1L7De/?p=3"
+    },
+    {
+      "songId": "enhypen-drunkdazed",
+      "url": "https://www.bilibili.com/video/BV1qV41177W5/"
+    },
+    {
+      "songId": "everglow-dundun",
+      "url": "https://www.youtube.com/watch?v=ghUjmkl1U8Q"
+    },
+    {
+      "songId": "exo-theeve",
+      "url": "https://www.youtube.com/watch?v=b6ycw7p9-bE"
+    },
+    {
+      "songId": "fifthharmonyfeatkidink-worthit",
+      "url": "https://www.bilibili.com/video/BV1iz4y1U7bu/"
+    },
+    {
+      "songId": "fifthharmonyfeatkidink-worthit",
+      "url": "https://www.youtube.com/watch?v=zUDXj8REpAI"
+    },
+    {
+      "songId": "fiftyfifty-cupid",
+      "url": "https://www.bilibili.com/video/BV11s4y197YA/"
+    },
+    {
+      "songId": "fx-4walls",
+      "url": "https://www.youtube.com/watch?v=TLHuhZFXx5I"
+    },
+    {
+      "songId": "garnidelia-極楽浄土",
+      "url": "https://www.bilibili.com/video/BV1w5FDeiE1B/"
+    },
+    {
+      "songId": "garnidelia-極楽浄土",
+      "url": "https://www.youtube.com/watch?v=Xap7db08JNo"
+    },
+    {
+      "songId": "gfriend-mago",
+      "url": "https://www.bilibili.com/video/BV1H5411V7fC/"
+    },
+    {
+      "songId": "gfriend-mago",
+      "url": "https://www.youtube.com/watch?v=tJf-vlcTXBA"
+    },
+    {
+      "songId": "girlsgeneration-intothenewworld",
+      "url": "https://www.youtube.com/watch?v=G-1Nc7tTJns"
+    },
+    {
+      "songId": "got7-hardcarry",
+      "url": "https://www.youtube.com/watch?v=-XbNyh4GP-0"
+    },
+    {
+      "songId": "harrystyles-adoreyou",
+      "url": "https://www.youtube.com/watch?v=JGXtLjvnurI"
+    },
+    {
+      "songId": "hearts2hearts-focus",
+      "url": "https://www.youtube.com/watch?v=C9McWCeK6QA"
+    },
+    {
+      "songId": "hearts2hearts-rude",
+      "url": "https://www.bilibili.com/video/BV1ZNf2BrEJA/"
+    },
+    {
+      "songId": "hearts2hearts-rude",
+      "url": "https://www.youtube.com/watch?v=RXQCY_zxz-E"
+    },
+    {
+      "songId": "hearts2hearts-style",
+      "url": "https://www.youtube.com/watch?v=NLjMZJKMOIc"
+    },
+    {
+      "songId": "huntrx-golden",
+      "url": "https://www.bilibili.com/video/BV1JzYizMEaj/"
+    },
+    {
+      "songId": "huntrx-golden",
+      "url": "https://www.bilibili.com/video/BV1LWetzgEH6/"
+    },
+    {
+      "songId": "huntrx-golden",
+      "url": "https://www.bilibili.com/video/BV1oZaozQECr/"
+    },
+    {
+      "songId": "huntrx-howitsdone",
+      "url": "https://www.bilibili.com/video/BV12ghwzGEvZ/"
+    },
+    {
+      "songId": "huntrx-takedown",
+      "url": "https://www.youtube.com/watch?v=bU_CsTN4wdw"
+    },
+    {
+      "songId": "huntrx-whatitsoundslike",
+      "url": "https://www.bilibili.com/video/BV1BuHizBEdh/"
+    },
+    {
+      "songId": "hwasa-goodgoodbye",
+      "url": "https://www.youtube.com/watch?v=nMZN5pgE65o"
+    },
+    {
+      "songId": "hyunafeatjungilhoon-rolldeep",
+      "url": "https://www.youtube.com/watch?v=taNZuKT2pSI"
+    },
+    {
+      "songId": "idle-allergy",
+      "url": "https://www.bilibili.com/video/BV1Ak4y1p7Ly/"
+    },
+    {
+      "songId": "idle-allergy",
+      "url": "https://www.youtube.com/watch?v=SWC8DXoV7ts"
+    },
+    {
+      "songId": "idle-crow",
+      "url": "https://www.youtube.com/watch?v=w6FzChNkVrY"
+    },
+    {
+      "songId": "idle-dumdidumdi",
+      "url": "https://www.youtube.com/watch?v=naRRqAGIAqQ"
+    },
+    {
+      "songId": "idle-fate",
+      "url": "https://www.youtube.com/watch?v=9vnVKx-aH5M"
+    },
+    {
+      "songId": "idle-gimmedatlove",
+      "url": "https://www.youtube.com/watch?v=nCIfydOldxI"
+    },
+    {
+      "songId": "idle-girlfriend",
+      "url": "https://www.youtube.com/watch?v=KceEp8y5HC4"
+    },
+    {
+      "songId": "idle-goodthing",
+      "url": "https://www.youtube.com/watch?v=5MrJBrR_sfo"
+    },
+    {
+      "songId": "idle-hannalone",
+      "url": "https://www.youtube.com/watch?v=EGuuBE7xjBk"
+    },
+    {
+      "songId": "idle-hwaa",
+      "url": "https://www.youtube.com/watch?v=cwKYh2geaik"
+    },
+    {
+      "songId": "idle-iwantthat",
+      "url": "https://www.youtube.com/watch?v=9bHEcpzIBek"
+    },
+    {
+      "songId": "idle-iwantthat",
+      "url": "https://www.youtube.com/watch?v=A5K-dEcLfho"
+    },
+    {
+      "songId": "idle-klaxon",
+      "url": "https://www.youtube.com/watch?v=hLntT4a_O58"
+    },
+    {
+      "songId": "idle-latata",
+      "url": "https://www.youtube.com/watch?v=Fhk4Qzj_QpM"
+    },
+    {
+      "songId": "idle-lion",
+      "url": "https://www.youtube.com/watch?v=FRYY-OxzRTU"
+    },
+    {
+      "songId": "idle-lucid",
+      "url": "https://www.youtube.com/watch?v=NhZe_K48EYY"
+    },
+    {
+      "songId": "idle-luvu",
+      "url": "https://www.youtube.com/watch?v=0vUcoyOrqyk"
+    },
+    {
+      "songId": "idle-monofeatskaiwater",
+      "url": "https://www.bilibili.com/video/BV1GoF8zdEMM/"
+    },
+    {
+      "songId": "idle-monofeatskaiwater",
+      "url": "https://www.youtube.com/watch?v=MPHOhBD8mn8"
+    },
+    {
+      "songId": "idle-mybag",
+      "url": "https://www.bilibili.com/video/BV19Y4y1s7ru/"
+    },
+    {
+      "songId": "idle-mybag",
+      "url": "https://www.youtube.com/watch?v=-uWKepR-FV4"
+    },
+    {
+      "songId": "idle-mybag",
+      "url": "https://www.youtube.com/watch?v=Si5pQHRRH5w"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://rutube.ru/video/7e14ded15610b2a01b128f36e78173b5/"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.bilibili.com/video/BV1AD4y1s7fU/"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.bilibili.com/video/BV1Me411V7Ra/"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.bilibili.com/video/BV1vm4y1w71q/?p=1"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.youtube.com/watch?v=e3eG42Ibfvk"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.youtube.com/watch?v=R9UsmrVEWYY"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.youtube.com/watch?v=Wno-7SarPdo"
+    },
+    {
+      "songId": "idle-nxde",
+      "url": "https://www.youtube.com/watch?v=yqxbo83-Fok"
+    },
+    {
+      "songId": "idle-ohmygod",
+      "url": "https://www.youtube.com/watch?v=wLlKktf0ZWE"
+    },
+    {
+      "songId": "idle-putitstraightnightmarever",
+      "url": "https://www.youtube.com/watch?v=SBtF_e6XWnc"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://rutube.ru/video/385a2b2a2017cca1b3077eb245eda670/"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://vimeo.com/828240328"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.bilibili.com/video/BV17W4y197VZ/"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.bilibili.com/video/BV1ko4y177h4/?p=9"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.bilibili.com/video/BV1Lh4y147y6/"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.bilibili.com/video/BV1oM4y1i7M9/"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.bilibili.com/video/BV1ps4y1B7Zi/"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.ganjingworld.com/video/kpop-g-i-dle-%EC%97%AC%EC%9E%90-%EC%95%84%EC%9D%B4%EB%93%A4-queencard-dance-mirror-mode/1h62un1sogs7HGYNeCqxKmWt71vd1c"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.youtube.com/watch?v=evITrT-rYd0"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.youtube.com/watch?v=JU8euS8DLIU"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.youtube.com/watch?v=nOhY6NOehVE"
+    },
+    {
+      "songId": "idle-queencard",
+      "url": "https://www.youtube.com/watch?v=pKCaXYYwGjw"
+    },
+    {
+      "songId": "idle-senorita",
+      "url": "https://www.youtube.com/watch?v=rhBa2_-qw00"
+    },
+    {
+      "songId": "idle-superlady",
+      "url": "https://rutube.ru/video/e94945794815a87bc9cabdf64f143b96/"
+    },
+    {
+      "songId": "idle-superlady",
+      "url": "https://www.youtube.com/watch?v=IIgWfz6FTSM"
+    },
+    {
+      "songId": "idle-superlady",
+      "url": "https://www.youtube.com/watch?v=pDMGEIpxzGw"
+    },
+    {
+      "songId": "idle-tomboy",
+      "url": "https://www.bilibili.com/video/BV1844y1T7wS/?p=2"
+    },
+    {
+      "songId": "idle-tomboy",
+      "url": "https://www.bilibili.com/video/BV1ga411t761/"
+    },
+    {
+      "songId": "idle-tomboy",
+      "url": "https://www.bilibili.com/video/BV1Y34y1e7Lv/"
+    },
+    {
+      "songId": "idle-tomboy",
+      "url": "https://www.youtube.com/watch?v=CKSQjJDQTaQ"
+    },
+    {
+      "songId": "idle-tomboy",
+      "url": "https://www.youtube.com/watch?v=S9yq2ig35to"
+    },
+    {
+      "songId": "idle-tomboy",
+      "url": "https://www.youtube.com/watch?v=Yhe0YzzyCAY"
+    },
+    {
+      "songId": "idle-uhoh",
+      "url": "https://www.youtube.com/watch?v=PzSCnRCpM_c"
+    },
+    {
+      "songId": "idle-wife",
+      "url": "https://www.bilibili.com/video/BV13F4m1u7oF/"
+    },
+    {
+      "songId": "ikon-lovescenario",
+      "url": "https://www.youtube.com/watch?v=heIvcW7nw5U"
+    },
+    {
+      "songId": "illit-magnetic",
+      "url": "https://weverse.io/illit/media/4-158047823?hl=ko"
+    },
+    {
+      "songId": "illit-magnetic",
+      "url": "https://www.bilibili.com/video/BV1Hp42117og/"
+    },
+    {
+      "songId": "illit-notcuteanymore",
+      "url": "https://www.youtube.com/watch?v=-tgJECVba9c"
+    },
+    {
+      "songId": "infinite-thechaser",
+      "url": "https://www.youtube.com/watch?v=LaNFMfB0k84"
+    },
+    {
+      "songId": "ini-fanfare",
+      "url": "https://www.youtube.com/watch?v=URkh4yWdfZI"
+    },
+    {
+      "songId": "into1-风暴眼",
+      "url": "https://www.bilibili.com/video/BV1wb4y1S7kp/"
+    },
+    {
+      "songId": "itzy-killshot",
+      "url": "https://www.bilibili.com/video/BV1rj411176r/"
+    },
+    {
+      "songId": "itzy-thatsanono",
+      "url": "https://www.youtube.com/watch?v=hX-yGLHSulE"
+    },
+    {
+      "songId": "itzy-wannabe",
+      "url": "https://rutube.ru/video/3507a2e2ceeb6352e39c0f14f0541be9/"
+    },
+    {
+      "songId": "itzy-wannabe",
+      "url": "https://www.bilibili.com/video/BV1hE411P7Mq/"
+    },
+    {
+      "songId": "itzy-wannabe",
+      "url": "https://www.bilibili.com/video/BV1Wa4y1t7uE/"
+    },
+    {
+      "songId": "itzy-wannabe",
+      "url": "https://www.steezy.co/posts/how-to-do-the-dance-move-from-wannabe-by-itzy"
+    },
+    {
+      "songId": "itzy-weapon",
+      "url": "https://www.bilibili.com/video/BV1yZ4y1d7vX/"
+    },
+    {
+      "songId": "ive-bangbang",
+      "url": "https://www.youtube.com/watch?v=uVpGElT--E8"
+    },
+    {
+      "songId": "ive-blackhole",
+      "url": "https://www.bilibili.com/video/BV1GRAUzDEde/"
+    },
+    {
+      "songId": "ive-iam",
+      "url": "https://www.bilibili.com/video/BV1hT411p7PV/"
+    },
+    {
+      "songId": "ive-kitsch",
+      "url": "https://www.bilibili.com/video/BV11V4y1Z7Wt/"
+    },
+    {
+      "songId": "ive-lovedive",
+      "url": "https://www.bilibili.com/video/BV1dF41137UJ/"
+    },
+    {
+      "songId": "ive-lovedive",
+      "url": "https://www.bilibili.com/video/BV1qF411F7c1/"
+    },
+    {
+      "songId": "ive-lovedive",
+      "url": "https://www.bilibili.com/video/BV1R34y1v7S7/"
+    },
+    {
+      "songId": "ive-royal",
+      "url": "https://www.bilibili.com/video/BV1Hv4y1K7PV/"
+    },
+    {
+      "songId": "izone-fiesta",
+      "url": "https://www.bilibili.com/video/BV1e7411T7oC/"
+    },
+    {
+      "songId": "izone-fiesta",
+      "url": "https://www.youtube.com/watch?v=kCk8x__pXvE"
+    },
+    {
+      "songId": "jasonderulofeatnickiminajtydollaign-swalla",
+      "url": "https://www.youtube.com/watch?v=41iqt-RzZjQ"
+    },
+    {
+      "songId": "jasonderulofeatnickiminajtydollaign-swalla",
+      "url": "https://www.youtube.com/watch?v=a02n87pnY_U"
+    },
+    {
+      "songId": "jennie-likejennie",
+      "url": "https://www.bilibili.com/video/BV1LeRGY6ECj/"
+    },
+    {
+      "songId": "jennie-likejennie",
+      "url": "https://www.bilibili.com/video/BV1UzoaYRE8d/"
+    },
+    {
+      "songId": "jennie-likejennie",
+      "url": "https://www.youtube.com/watch?v=7yTdnAm0ceU"
+    },
+    {
+      "songId": "jennie-likejennie",
+      "url": "https://www.youtube.com/watch?v=oPAels54f2w"
+    },
+    {
+      "songId": "jennie-likejennie",
+      "url": "https://www.youtube.com/watch?v=xchVWahFcVI"
+    },
+    {
+      "songId": "jennie-mantra",
+      "url": "https://www.youtube.com/watch?v=V5bVtAej1hs"
+    },
+    {
+      "songId": "jennie-solo",
+      "url": "https://rutube.ru/video/b11bbcf8ac4d643fe7862d74734a9127/"
+    },
+    {
+      "songId": "jennie-solo",
+      "url": "https://www.bilibili.com/video/BV11t411Q7aT/"
+    },
+    {
+      "songId": "jennie-withtheiewayup",
+      "url": "https://www.bilibili.com/video/BV1uvXxY8EgP/"
+    },
+    {
+      "songId": "jeonsomi-dumbdumb",
+      "url": "https://www.bilibili.com/video/BV1o44y117pf/"
+    },
+    {
+      "songId": "jeonsomi-xoxo",
+      "url": "https://www.bilibili.com/video/BV1714y1v7sA/"
+    },
+    {
+      "songId": "jhope-killinitgirl",
+      "url": "https://www.youtube.com/watch?v=hs2iI1F5pT4"
+    },
+    {
+      "songId": "jimin-who",
+      "url": "https://www.youtube.com/watch?v=xwADdJym_y4"
+    },
+    {
+      "songId": "jin-dontsayyouloveme",
+      "url": "https://www.youtube.com/watch?v=-tlEjJhLjiI"
+    },
+    {
+      "songId": "jisoo-earthquake",
+      "url": "https://www.youtube.com/watch?v=Z33suvklkx0"
+    },
+    {
+      "songId": "jisoo-yourlove",
+      "url": "https://www.youtube.com/watch?v=RXvuPBjH1so"
+    },
+    {
+      "songId": "jungkook-3d",
+      "url": "https://www.youtube.com/watch?v=XpDEEnZQxNU"
+    },
+    {
+      "songId": "jungkook-seven",
+      "url": "https://www.bilibili.com/video/BV1C8411Q7vw/"
+    },
+    {
+      "songId": "jungkook-standingnexttoyou",
+      "url": "https://www.youtube.com/watch?v=M_EpTvMOnT0"
+    },
+    {
+      "songId": "justinbieber-sorry",
+      "url": "https://www.youtube.com/watch?v=2zcFiA71zy4"
+    },
+    {
+      "songId": "katseye-debut",
+      "url": "https://www.youtube.com/watch?v=vWmAIUQ_CeM"
+    },
+    {
+      "songId": "katseye-gabriela",
+      "url": "https://www.youtube.com/watch?v=lll3eKuBJ8w"
+    },
+    {
+      "songId": "katseye-gameboy",
+      "url": "https://www.youtube.com/watch?v=wDrB_RpkZ9g"
+    },
+    {
+      "songId": "katseye-gnarly",
+      "url": "https://www.youtube.com/watch?v=xrm7PP1mbtI"
+    },
+    {
+      "songId": "katseye-internetgirl",
+      "url": "https://www.youtube.com/watch?v=GFE4FYlCftc"
+    },
+    {
+      "songId": "katseye-mia",
+      "url": "https://www.youtube.com/watch?v=NZYNHlok9nU"
+    },
+    {
+      "songId": "katseye-pinkyup",
+      "url": "https://www.youtube.com/watch?v=PXovQuBBZlY"
+    },
+    {
+      "songId": "katseye-touch",
+      "url": "https://www.youtube.com/watch?v=yhI8v8RgiW0"
+    },
+    {
+      "songId": "kep1er-wadada",
+      "url": "https://www.youtube.com/watch?v=UuYXLLas-5k"
+    },
+    {
+      "songId": "kiiikiii-404newera",
+      "url": "https://www.youtube.com/watch?v=OpqB1GJbzms"
+    },
+    {
+      "songId": "kissoflife-igloo",
+      "url": "https://www.bilibili.com/video/BV1JayDYFEy6/"
+    },
+    {
+      "songId": "kissoflife-igloo",
+      "url": "https://www.douyin.com/video/7462336328558988603"
+    },
+    {
+      "songId": "kissoflife-whoisshe",
+      "url": "https://www.youtube.com/watch?v=Xe-0JkxMsT0"
+    },
+    {
+      "songId": "ladygaga-abracadabra",
+      "url": "https://www.bilibili.com/video/BV1pVNDz5E7V/"
+    },
+    {
+      "songId": "lesserafim-antifragile",
+      "url": "https://www.bilibili.com/video/BV1fG411w7hc/"
+    },
+    {
+      "songId": "lesserafim-crazy",
+      "url": "https://www.youtube.com/watch?v=ZJwC0VYzGIs"
+    },
+    {
+      "songId": "lesserafim-easy",
+      "url": "https://www.youtube.com/watch?v=JipcAMJcOB8"
+    },
+    {
+      "songId": "lesserafim-fearless",
+      "url": "https://www.bilibili.com/video/BV11G4y1b7fa/?p=1"
+    },
+    {
+      "songId": "lesserafim-spaghetti",
+      "url": "https://www.youtube.com/watch?v=OsPt0BY1_Wk"
+    },
+    {
+      "songId": "lesserafim-unforgivenfeatnilerodgers",
+      "url": "https://www.bilibili.com/video/BV1Jh411j7KB"
+    },
+    {
+      "songId": "limyoungwoong-그댈위한멜로디",
+      "url": "https://www.youtube.com/watch?v=Nk7EcTL-a8A"
+    },
+    {
+      "songId": "limyoungwoong-사랑은늘도망가",
+      "url": "https://www.youtube.com/watch?v=ihqzSKbdOfQ"
+    },
+    {
+      "songId": "lisa-fxckuptheworldvixisoloversion",
+      "url": "https://www.bilibili.com/video/BV1bgXFYDEFE/"
+    },
+    {
+      "songId": "lisa-lalisa",
+      "url": "https://www.youtube.com/watch?v=ZJ6QQLDIzrI"
+    },
+    {
+      "songId": "lisa-money",
+      "url": "https://www.bilibili.com/video/BV1rh411J7dk/?p=1"
+    },
+    {
+      "songId": "lisa-money",
+      "url": "https://www.youtube.com/watch?v=fr-eHz87XoM"
+    },
+    {
+      "songId": "lisa-newwoman",
+      "url": "https://www.youtube.com/watch?v=LljHulE6St4"
+    },
+    {
+      "songId": "lisa-rockstar",
+      "url": "https://www.youtube.com/watch?v=tEA7buzhE0s"
+    },
+    {
+      "songId": "lngshot-moonwalkin",
+      "url": "https://www.youtube.com/watch?v=nJBDudEPvlQ"
+    },
+    {
+      "songId": "mamamoo-hip",
+      "url": "https://www.bilibili.com/video/BV1iJ411q7rp/"
+    },
+    {
+      "songId": "markronsonfeatbrunomars-uptownfunk",
+      "url": "https://www.bilibili.com/video/BV1Sw411z7NB"
+    },
+    {
+      "songId": "markronsonfeatbrunomars-uptownfunk",
+      "url": "https://www.youtube.com/watch?v=UbpNSx8K5wA"
+    },
+    {
+      "songId": "maroon5-sugar",
+      "url": "https://www.bilibili.com/video/BV1rq4y1p74r/"
+    },
+    {
+      "songId": "maroon5-sugar",
+      "url": "https://www.youtube.com/watch?v=SDAL5VCdKpc"
+    },
+    {
+      "songId": "meghantrainor-metoo",
+      "url": "https://www.bilibili.com/video/BV1Xw411Z7e5/"
+    },
+    {
+      "songId": "meghantrainor-metoo",
+      "url": "https://www.youtube.com/watch?v=Mc5hnql7pjk"
+    },
+    {
+      "songId": "michaeljackson-smoothcriminal",
+      "url": "https://www.bilibili.com/video/BV1AXL2ztExc/"
+    },
+    {
+      "songId": "michaeljackson-smoothcriminal",
+      "url": "https://www.youtube.com/watch?v=jDZ1I3uwwnY"
+    },
+    {
+      "songId": "momoland-bboombboom",
+      "url": "https://www.bilibili.com/video/BV1sW411E7pw/"
+    },
+    {
+      "songId": "momoland-bboombboom",
+      "url": "https://www.youtube.com/watch?v=S_qFgyrABXQ"
+    },
+    {
+      "songId": "monstax-shootout",
+      "url": "https://www.youtube.com/watch?v=f_sBAFCZxdo"
+    },
+    {
+      "songId": "nayeon-pop",
+      "url": "https://www.bilibili.com/video/BV1TY4y1n7PG/?p=2"
+    },
+    {
+      "songId": "nayeon-pop",
+      "url": "https://www.youtube.com/watch?v=_c4cKLYD28o"
+    },
+    {
+      "songId": "nct127-kickit",
+      "url": "https://www.bilibili.com/video/BV1eE411G7Xt/"
+    },
+    {
+      "songId": "nctdream-candy",
+      "url": "https://www.bilibili.com/video/BV1te4y1L7eB/"
+    },
+    {
+      "songId": "newjeans-ditto",
+      "url": "https://www.youtube.com/watch?v=G_1zDzhAz9w"
+    },
+    {
+      "songId": "newjeans-hypeboy",
+      "url": "https://rutube.ru/video/5601d310d62769ed36fa7a7c66bdd8ab/"
+    },
+    {
+      "songId": "newjeans-hypeboy",
+      "url": "https://rutube.ru/video/ae0ed58386432044e5e3045cc7003ba4/"
+    },
+    {
+      "songId": "newjeans-hypeboy",
+      "url": "https://www.bilibili.com/video/BV1kD4y167RB/"
+    },
+    {
+      "songId": "newjeans-supershy",
+      "url": "https://weverse.io/newjeansofficial/media/3-123997509?hl=ko"
+    },
+    {
+      "songId": "newjeans-supershy",
+      "url": "https://www.bilibili.com/video/BV1CW4y1f7HA/"
+    },
+    {
+      "songId": "newjeans-supershy",
+      "url": "https://www.dailymotion.com/video/x9jxih2"
+    },
+    {
+      "songId": "niziu-makeyouhappy",
+      "url": "https://www.youtube.com/watch?v=aXAzTUbUB6Y"
+    },
+    {
+      "songId": "nmixx-lovemelikethis",
+      "url": "https://www.bilibili.com/video/BV14L411r7QU/"
+    },
+    {
+      "songId": "ohmygirl-nonstop",
+      "url": "https://www.youtube.com/watch?v=t5CwVVIp934"
+    },
+    {
+      "songId": "oliviarodrigo-good4u",
+      "url": "https://www.youtube.com/watch?v=wWS5eQAVhGM"
+    },
+    {
+      "songId": "pentagon-shine",
+      "url": "https://www.youtube.com/watch?v=6_v8n_zb5ak"
+    },
+    {
+      "songId": "plave-bbuu",
+      "url": "https://www.youtube.com/watch?v=8k05dJLB_uE"
+    },
+    {
+      "songId": "plave-bornsavage",
+      "url": "https://www.youtube.com/watch?v=knmwFZifcSY"
+    },
+    {
+      "songId": "rahulsipligunjkaalabhairava-naatunaatu",
+      "url": "https://www.youtube.com/watch?v=qu3v0qI1Wqw"
+    },
+    {
+      "songId": "redvelvet-psycho",
+      "url": "https://www.bilibili.com/video/BV1EJ411E77m/"
+    },
+    {
+      "songId": "rihannafeatdrake-work",
+      "url": "https://www.youtube.com/watch?v=w6DmlFyB6SE"
+    },
+    {
+      "songId": "riize-flyup",
+      "url": "https://jingxuan.douyin.com/m/video/7511624851851267385"
+    },
+    {
+      "songId": "riize-lucky",
+      "url": "https://www.douyin.com/video/7398576198449679627"
+    },
+    {
+      "songId": "rosé-toxictilltheend",
+      "url": "https://www.youtube.com/watch?v=C7vwaTUdqNA"
+    },
+    {
+      "songId": "rosébrunomars-apt",
+      "url": "https://www.bilibili.com/video/BV1tuy5YuEHP/"
+    },
+    {
+      "songId": "sabrinacarpenter-nonsense",
+      "url": "https://www.bilibili.com/video/BV1rh4y1G7yV/"
+    },
+    {
+      "songId": "sajaboys-sodapop",
+      "url": "https://www.youtube.com/watch?v=U_394ajSNVQ"
+    },
+    {
+      "songId": "sajaboys-youridol",
+      "url": "https://www.youtube.com/watch?v=uBZ2FQQQyEU"
+    },
+    {
+      "songId": "sb19-gento",
+      "url": "https://www.bilibili.com/video/BV1Kw411q7vY/"
+    },
+    {
+      "songId": "sb19-gento",
+      "url": "https://www.youtube.com/watch?v=LUWWh2_EMC4"
+    },
+    {
+      "songId": "selenagomezmarshmello-wolves",
+      "url": "https://www.youtube.com/watch?v=zbWsb36U0uo"
+    },
+    {
+      "songId": "seventeen-super",
+      "url": "https://www.youtube.com/watch?v=TiMqP2SU7MA"
+    },
+    {
+      "songId": "seventeen-thunder",
+      "url": "https://jingxuan.douyin.com/m/video/7509753643005693242"
+    },
+    {
+      "songId": "shakirafeatfreshlyground-wakawakathistimeforafrica",
+      "url": "https://www.bilibili.com/video/BV17Y411u7L6/"
+    },
+    {
+      "songId": "shinee-lucifer",
+      "url": "https://www.youtube.com/watch?v=ovztfpWPo5M"
+    },
+    {
+      "songId": "sia-cheapthrills",
+      "url": "https://www.youtube.com/watch?v=9uTojYQm0N8"
+    },
+    {
+      "songId": "sing女团-千盏",
+      "url": "https://www.bilibili.com/video/BV1St41137Rz/"
+    },
+    {
+      "songId": "sing女团-寄明月",
+      "url": "https://www.bilibili.com/video/BV1av411q7gb/"
+    },
+    {
+      "songId": "sing女团-寄明月",
+      "url": "https://www.bilibili.com/video/BV1Ex411g78a/"
+    },
+    {
+      "songId": "sing女团-寄明月",
+      "url": "https://www.youtube.com/watch?v=fJ9BM21mLTs"
+    },
+    {
+      "songId": "sistar-touchmybody",
+      "url": "https://www.youtube.com/watch?v=5IT2rFeF6XQ"
+    },
+    {
+      "songId": "snowman-dd",
+      "url": "https://www.youtube.com/watch?v=aWJqUqC0s6w"
+    },
+    {
+      "songId": "stayc-asap",
+      "url": "https://www.bilibili.com/video/BV1EK4y1N7oM/"
+    },
+    {
+      "songId": "stayc-asap",
+      "url": "https://www.youtube.com/watch?v=ib0O8EHP1jk"
+    },
+    {
+      "songId": "straykids-godsmenu",
+      "url": "https://www.youtube.com/watch?v=nkeh7Bx3GzY"
+    },
+    {
+      "songId": "straykids-lalalala",
+      "url": "https://www.bilibili.com/video/BV1qw411W7Y8/"
+    },
+    {
+      "songId": "straykids-sclass",
+      "url": "https://www.bilibili.com/video/BV1qm4y1i7r1/"
+    },
+    {
+      "songId": "sunmi-gashina",
+      "url": "https://www.bilibili.com/video/BV1AF411Z7EC/"
+    },
+    {
+      "songId": "taemin-move",
+      "url": "https://www.youtube.com/watch?v=_cAskH1PtmQ"
+    },
+    {
+      "songId": "taeyang-ringalinga",
+      "url": "https://www.youtube.com/watch?v=Ho1y-4mXIL0"
+    },
+    {
+      "songId": "tatemcrae-greedy",
+      "url": "https://www.youtube.com/watch?v=BP8Jk3kDqbY"
+    },
+    {
+      "songId": "tfboys-青春修炼手册",
+      "url": "https://www.bilibili.com/video/BV1Dx411N77K/"
+    },
+    {
+      "songId": "the9-斯芬克斯",
+      "url": "https://www.youtube.com/watch?v=6StEHyj7yQU"
+    },
+    {
+      "songId": "theboyz-thestealer",
+      "url": "https://www.youtube.com/watch?v=fywIorp04B4"
+    },
+    {
+      "songId": "thepussycatdolls-buttons",
+      "url": "https://www.bilibili.com/video/BV1BA411b7P4/"
+    },
+    {
+      "songId": "thepussycatdolls-buttons",
+      "url": "https://www.youtube.com/watch?v=XpNNhb7yEOA"
+    },
+    {
+      "songId": "theweeknd-blindinglights",
+      "url": "https://www.youtube.com/watch?v=QwAePAovK4w"
+    },
+    {
+      "songId": "theweeknd-blindinglights",
+      "url": "https://www.youtube.com/watch?v=XSzivR81t5A"
+    },
+    {
+      "songId": "theweekndjennielilyrosedepp-oneofthegirls",
+      "url": "https://www.youtube.com/watch?v=s-YvRlmfqh4"
+    },
+    {
+      "songId": "travisjapan-justdance",
+      "url": "https://www.youtube.com/watch?v=glnBM_ZwAus"
+    },
+    {
+      "songId": "treasure-move",
+      "url": "https://www.bilibili.com/video/BV1Mj411Q7VL/"
+    },
+    {
+      "songId": "twice-feelspecial",
+      "url": "https://www.youtube.com/watch?v=yChy1KRIWAY"
+    },
+    {
+      "songId": "twice-gohard",
+      "url": "https://www.bilibili.com/video/BV1ST411x7SE/"
+    },
+    {
+      "songId": "twice-gohard",
+      "url": "https://www.youtube.com/watch?v=3ussoPqsrR4"
+    },
+    {
+      "songId": "twice-setmefree",
+      "url": "https://www.youtube.com/watch?v=Pg8bxzcRYxc"
+    },
+    {
+      "songId": "twice-setmefree",
+      "url": "https://www.youtube.com/watch?v=sXM5GwksZIY"
+    },
+    {
+      "songId": "twice-strategy",
+      "url": "https://www.youtube.com/watch?v=SboYuhJZYK4"
+    },
+    {
+      "songId": "twice-takedownjeongyeonjihyochaeyoung",
+      "url": "https://www.bilibili.com/video/BV15gaTzrE6R/"
+    },
+    {
+      "songId": "twice-whatislove",
+      "url": "https://www.youtube.com/watch?v=WhHEQ-W3x5Y"
+    },
+    {
+      "songId": "tws-plottwist",
+      "url": "https://www.bilibili.com/video/BV17e411J7YD/"
+    },
+    {
+      "songId": "txt-stickwithyou",
+      "url": "https://www.bilibili.com/video/BV1T5d6BhE4Q/"
+    },
+    {
+      "songId": "txt-sugarrushride",
+      "url": "https://www.bilibili.com/video/BV1BG4y1Q7ns/"
+    },
+    {
+      "songId": "txt-takemetonirvanafeatvinidaweng",
+      "url": "https://www.youtube.com/watch?v=0WW_Pp0HFPA"
+    },
+    {
+      "songId": "usher-scream",
+      "url": "https://www.bilibili.com/video/BV1sh411674c/"
+    },
+    {
+      "songId": "viviz-maniac",
+      "url": "https://www.bilibili.com/video/BV1Qr421s733/"
+    },
+    {
+      "songId": "viviz-maniac",
+      "url": "https://www.youtube.com/watch?v=a-kYsZkY6oU"
+    },
+    {
+      "songId": "vixx-shangrila",
+      "url": "https://www.youtube.com/watch?v=0ZcmWd6GypU"
+    },
+    {
+      "songId": "wjsn-asyouwish",
+      "url": "https://www.youtube.com/watch?v=JOkRHLIVjJU"
+    },
+    {
+      "songId": "woodz-drowning",
+      "url": "https://www.youtube.com/watch?v=92sTWp61T2k"
+    },
+    {
+      "songId": "xg-grlgvng",
+      "url": "https://www.bilibili.com/video/BV1r94y1Y7hd/"
+    },
+    {
+      "songId": "xg-leftright",
+      "url": "https://www.youtube.com/watch?v=RB1i1MLYeQ4"
+    },
+    {
+      "songId": "xg-shootingstar",
+      "url": "https://www.youtube.com/watch?v=NNooo5vox8o"
+    },
+    {
+      "songId": "yena-catchcatch",
+      "url": "https://www.youtube.com/watch?v=P3j4RexyOBI"
+    },
+    {
+      "songId": "yoasobi-アイドル",
+      "url": "https://www.bilibili.com/video/BV12P411U7JX/"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.bilibili.com/video/BV11f421S7vj/"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.bilibili.com/video/BV15m411y7fC/"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.bilibili.com/video/BV1Kb421a7iH/"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.bilibili.com/video/BV1qx4y1z7iw/"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.bilibili.com/video/BV1wD421K7b5/"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.youtube.com/watch?v=_R_0ShBn0uQ"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.youtube.com/watch?v=dyFGwGFerAc"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.youtube.com/watch?v=MDYjgcRFyG8"
+    },
+    {
+      "songId": "yuqi-freak",
+      "url": "https://www.youtube.com/watch?v=TDadOVNHJ8M"
+    },
+    {
+      "songId": "yuqi-mo",
+      "url": "https://www.bilibili.com/video/BV1H7pUz1EzX/"
+    },
+    {
+      "songId": "yuqi-mo",
+      "url": "https://www.youtube.com/watch?v=FeAHoZlcX_c"
+    },
+    {
+      "songId": "yuqi-onclapfeatlexieliu",
+      "url": "https://www.bilibili.com/video/BV1zm421W7P5/"
+    },
+    {
+      "songId": "yuqi-onclapfeatlexieliu",
+      "url": "https://www.youtube.com/watch?v=i_r3Ni7jdNw"
+    },
+    {
+      "songId": "yuqi-radiodumdum",
+      "url": "https://www.bilibili.com/video/BV1e4oTYoE2t/"
+    },
+    {
+      "songId": "zerobaseone-inbloom",
+      "url": "https://www.bilibili.com/video/BV1th4y1L78t/"
+    },
+    {
+      "songId": "zerobaseone-inbloom",
+      "url": "https://www.youtube.com/watch?v=lD4IcYiF2aM"
+    },
+    {
+      "songId": "zico-anysong",
+      "url": "https://www.youtube.com/watch?v=FLEqAO7OvvQ"
+    },
+    {
+      "songId": "凤凰传奇-最炫民族风",
+      "url": "https://www.bilibili.com/video/BV14X4y1c75k/"
+    },
+    {
+      "songId": "刘雨昕-节奏病",
+      "url": "https://www.bilibili.com/video/BV1Nb4y1F7Zs/"
+    },
+    {
+      "songId": "周杰伦-霍元甲",
+      "url": "https://www.bilibili.com/video/BV1ng4y1q7BG/"
+    },
+    {
+      "songId": "周杰伦-霍元甲",
+      "url": "https://www.bilibili.com/video/BV1TP4y1Y7Fx/"
+    },
+    {
+      "songId": "周杰伦-青花瓷",
+      "url": "https://www.bilibili.com/video/BV1qa411U7CM/"
+    },
+    {
+      "songId": "小虎队-青苹果乐园",
+      "url": "https://www.youtube.com/watch?v=xUkY-GcfApM"
+    },
+    {
+      "songId": "张艺兴-莲",
+      "url": "https://www.bilibili.com/video/BV1qK411p7hW/"
+    },
+    {
+      "songId": "时代少年团-要你管",
+      "url": "https://www.bilibili.com/video/BV1XK4y157Ew/"
+    },
+    {
+      "songId": "易烊千玺-myboo",
+      "url": "https://www.bilibili.com/video/BV1ZK411T7My/"
+    },
+    {
+      "songId": "李宇春-无价之姐",
+      "url": "https://www.bilibili.com/video/BV1uD4y1S7My/"
+    },
+    {
+      "songId": "李玟feat周杰伦-刀马旦",
+      "url": "https://www.bilibili.com/video/BV1aBeRz1E2v/"
+    },
+    {
+      "songId": "林俊杰-不潮不用花钱",
+      "url": "https://www.bilibili.com/video/BV1Cm421J7jF/"
+    },
+    {
+      "songId": "潘玮柏张韶涵-快乐崇拜",
+      "url": "https://www.bilibili.com/video/BV1fy41187WC/"
+    },
+    {
+      "songId": "潘玮柏张韶涵-快乐崇拜",
+      "url": "https://www.bilibili.com/video/BV1fy4y1d7TD/"
+    },
+    {
+      "songId": "火箭少女101-卡路里",
+      "url": "https://www.bilibili.com/video/BV1Pb411B762/"
+    },
+    {
+      "songId": "王心凌-honey",
+      "url": "https://www.bilibili.com/video/BV1LY4y1x7bb/"
+    },
+    {
+      "songId": "王心凌-honey",
+      "url": "https://www.bilibili.com/video/BV1UP411373P/"
+    },
+    {
+      "songId": "王心凌-爱你",
+      "url": "https://www.bilibili.com/video/BV1gS4y1q7VE/"
+    },
+    {
+      "songId": "王心凌-爱你",
+      "url": "https://www.youtube.com/watch?v=d6p-ag0nvCk"
+    },
+    {
+      "songId": "王心凌-睫毛弯弯",
+      "url": "https://www.bilibili.com/video/BV1Fo4y1e73j/"
+    },
+    {
+      "songId": "硬糖少女303-bonbongirls",
+      "url": "https://www.youtube.com/watch?v=Efv4t4Ou_QU"
+    },
+    {
+      "songId": "筷子兄弟-小苹果",
+      "url": "https://www.youtube.com/watch?v=N8jeTuHX9-U"
+    },
+    {
+      "songId": "罗志祥-精舞门",
+      "url": "https://www.bilibili.com/video/BV1Nt411M7Pc/"
+    },
+    {
+      "songId": "萧亚轩-潇洒小姐",
+      "url": "https://www.bilibili.com/video/BV1Sx411P7Fp/"
+    },
+    {
+      "songId": "萧亚轩-爱的主打歌",
+      "url": "https://www.youtube.com/watch?v=Slhcnxi-q6k"
+    },
+    {
+      "songId": "萧亚轩-表白",
+      "url": "https://www.bilibili.com/video/BV1b41hYREoX/"
+    },
+    {
+      "songId": "萧亚轩-表白",
+      "url": "https://www.bilibili.com/video/BV1ZZ4y1p7Tu/"
+    },
+    {
+      "songId": "蔡依林-怪美的",
+      "url": "https://www.youtube.com/watch?v=Nj9c1cDGi8k"
+    },
+    {
+      "songId": "蔡依林-日不落",
+      "url": "https://www.bilibili.com/video/BV1YU4y1V7af/"
+    },
+    {
+      "songId": "蔡依林-玫瑰少年",
+      "url": "https://www.youtube.com/watch?v=feOq6MWeUXA"
+    },
+    {
+      "songId": "蔡依林-美人计",
+      "url": "https://www.bilibili.com/video/BV15x411P7F7/"
+    },
+    {
+      "songId": "蔡依林-美人计",
+      "url": "https://www.youtube.com/watch?v=pdM9aIjF5Sw"
+    },
+    {
+      "songId": "蔡依林-舞娘",
+      "url": "https://www.bilibili.com/video/BV1Ft411b7Jw/"
+    },
+    {
+      "songId": "蔡徐坤-情人",
+      "url": "https://www.bilibili.com/video/BV1PQ4y1P778/"
+    },
+    {
+      "songId": "许嵩-清明雨上",
+      "url": "https://www.bilibili.com/video/BV1rF41177op/"
+    },
+    {
+      "songId": "郑秀文-眉飞色舞",
+      "url": "https://www.bilibili.com/video/BV1Zb411T7TF/"
+    }
+  ]
+}
