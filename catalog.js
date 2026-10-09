@@ -2835,8 +2835,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.youtube.com/watch?v=wWS5eQAVhGM",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kyle Hanagami编舞，多组舞者演绎；简介明确曲目与专辑Sour。直页抓取未成功。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。Kyle Hanagami编舞，多组舞者演绎；简介明确曲目与专辑Sour。直页抓取未成功。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09在原作者官网作品页核验精确嵌入ID wWS5eQAVhGM及对应GOOD 4 U真实视频预览，已截图；未验证完整播放。",
+      "thumbnail": "assets/covers/kylehanagami-wWS5eQAVhGM-cover.jpg",
+      "thumbnailSourceUrl": "https://www.youtube.com/watch?v=wWS5eQAVhGM",
+      "thumbnailProvenance": "2026-10-09：逐个打开Kyle Hanagami官网精确视频作品页，DOM确认预览对应wWS5eQAVhGM，截取可见GOOD 4 U视频预览，保留页面原预览比例与文字；未播放，不代表全片播放可用。截图页面：https://www.kylehanagami.com/new-gallery/2021/6/10/lb517aw362nq2svukvvl4m4p5io10r"
     },
     {
       "song": "Adore You",
@@ -9145,6 +9147,443 @@ globalThis.EIGHTCOUNT_DATA = {
       "thumbnail": "assets/covers/bilibili-BV1cb411w7aW-frame.jpg",
       "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1cb411w7aW/?p=1",
       "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:19真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Shangri-La",
+      "artist": "VIXX",
+      "aliases": [
+        "桃源境",
+        "도원경",
+        "빅스"
+      ],
+      "title": "代号鸢男团-VIXX《桃源境》广陵王/傅融/孙策/刘辩/袁基COS",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1GJ4m1t7iN/",
+      "uploader": "紫嘉儿",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/5028996?bvid=BV1GJ4m1t7iN&oid=1250371728",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：紫嘉儿等5人COS翻跳VIXX桃源境，非VIXX原版。实际02:44，原作者代号鸢COS五人翻跳，非VIXX本人；保留水印。 已观察00:10附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1GJ4m1t7iN-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1GJ4m1t7iN/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:10真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "The Chaser",
+      "artist": "INFINITE",
+      "aliases": [
+        "无限团",
+        "인피니트",
+        "추격자"
+      ],
+      "title": "[中字]无限宿命感 Infinite - 追击者 (The Chaser) 首尔演唱会Comeback Again现场版live舞台",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1QQ4y1H7Ru/",
+      "uploader": "笑话-可乐-软糖",
+      "type": "舞台",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1QQ4y1H7Ru/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：INFINITE首尔Comeback Again演唱会，非练习室。实际03:24，Comeback Again演唱会舞台唱跳，截图可见团体舞蹈；个人转载带中字，非固定练习室。 已观察00:17附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1QQ4y1H7Ru-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1QQ4y1H7Ru/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:17真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "LOVE SCENARIO",
+      "artist": "iKON",
+      "aliases": [
+        "사랑을 했다",
+        "恋爱剧本"
+      ],
+      "title": "《Love Scenario》- ikon，还有人没有跳过这个比心舞吗？",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1CK411y7jT/",
+      "uploader": "小柳儿吖丶",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1CK411y7jT/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：小柳儿吖丶比心舞短版，非iKON本人全曲练习室。实际00:17，原作者双人比心舞短翻跳，非iKON本人原版全曲；画面为静音播放中截图，并非暂停。 已观察00:12附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1CK411y7jT-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1CK411y7jT/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:12静音播放中真实画面，保留原比例与水印，仅裁黑边；只映射此精确来源。"
+    },
+    {
+      "song": "Shine",
+      "artist": "PENTAGON",
+      "aliases": [
+        "펜타곤",
+        "빛나리",
+        "闪耀"
+      ],
+      "title": "【P1Harmony】Shine(原唱：PENTAGON) - 冠军秀 210721 全体+个人直拍 #Kpop直拍# 4K画质",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV12v411n7oR/?p=1",
+      "uploader": "Kpop小直拍",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV12v411n7oR/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：P1Harmony翻演PENTAGON Shine；P1全体直拍03:28。选中P1全体直拍03:28，P1Harmony翻唱翻跳PENTAGON的Shine音乐节目舞台；个人转载号，不冒充原唱本人练习室。 已观察00:17附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV12v411n7oR-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV12v411n7oR/?p=1",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:17真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "The Stealer",
+      "artist": "THE BOYZ",
+      "aliases": [
+        "더보이즈"
+      ],
+      "title": "THE BOYZ ‘The Stealer’ DANCE PRACTICE VIDEO",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ja4y1s7ek/",
+      "uploader": "About花粉",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1ja4y1s7ek/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：THE BOYZ本人Dance Practice，转载作者。原页实际06:51，内容核验为万圣节角色服装特别版，片头角色介绍后才进入团体练习；截图为03:14真实舞蹈，不是普通服装版本，个人转载。 已观察03:14附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1ja4y1s7ek-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1ja4y1s7ek/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图03:14真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Touch My Body",
+      "artist": "SISTAR",
+      "aliases": [
+        "씨스타"
+      ],
+      "title": "健 康 式 性 感 才是最美的！Touch My Body♥",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1GR4y1L77q/",
+      "uploader": "几兔灰",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1GR4y1L77q/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：几兔灰、吖静sizu222双人翻跳，非SISTAR本人。实际01:27，几兔灰与吖静双人翻跳短版本，非SISTAR本人全曲。 已观察00:22附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1GR4y1L77q-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1GR4y1L77q/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:22真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Crazy",
+      "artist": "4MINUTE",
+      "aliases": [
+        "미쳐",
+        "发疯"
+      ],
+      "title": "4minute - Crazy dance practice，是我学不会系列无疑了！",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1yg411371n/",
+      "uploader": "CUBE女团挚爱粉一枚",
+      "type": "练习室",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1yg411371n/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：转载；页面来源写互联网；非CUBE或4MINUTE官方上传；不保证与当前YouTube源是同一拍摄版本。。实际03:15，4MINUTE室内舞蹈练习版本，个人转载。 已观察00:22附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1yg411371n-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1yg411371n/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:22真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Miniskirt",
+      "artist": "AOA",
+      "aliases": [
+        "짧은 치마",
+        "短裙"
+      ],
+      "title": "无椅子版AOA - 短裙 Miniskirt 路演必备扒舞练习室",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1s8BxBGEJ8/",
+      "uploader": "糖衣炮弹Tiko",
+      "type": "翻跳",
+      "region": "韩流",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1s8BxBGEJ8/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：疑似原作者发布；页面署名一致但独立身份未验；无椅子改编版，不能标为AOA本人原练习室。。实际02:59，糖衣炮弹Tiko发布的多人无椅子改编翻跳，非AOA本人。 已观察00:18附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1s8BxBGEJ8-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1s8BxBGEJ8/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:18真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "JUST DANCE!",
+      "artist": "Travis Japan",
+      "aliases": [],
+      "title": "【Travis Japan】'JUST DANCE!' -Dance Practice-",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1hd4y1c7mR/?p=1",
+      "uploader": "untitled_dream",
+      "type": "练习室",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1hd4y1c7mR/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：转载；简介称搬运工，来源net；非Travis Japan官方账号。；分P1为对应舞蹈，P2是2秒附加视频。。已核选P1 JUST DANCE! Dance Practice 02:58，个人转载。 已观察00:12附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1hd4y1c7mR-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1hd4y1c7mR/?p=1",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:12真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Because of You, I Shine",
+      "artist": "BUS",
+      "aliases": [
+        "BUS because of you i shine",
+        "泰国"
+      ],
+      "title": "【BUS】Because of you, I shine|舞蹈练习操场版|中泰双字|泰国男团",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Zw41177wA",
+      "uploader": "小坛子坛子",
+      "type": "练习室",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Zw41177wA",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：个人翻译转载的BUS操场舞蹈练习版本，04:05，附中泰字幕，非官方B站发布。从公开合集明确曲目条目点入，核实本视频ID及画面；保留中泰字幕，不将该图映射其他BUS歌曲。 已观察00:23附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1Zw41177wA-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Zw41177wA",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:23真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "VROOM VROOM",
+      "artist": "4EVE",
+      "aliases": [
+        "泰国"
+      ],
+      "title": "[4K] 4EVE - VROOM VROOM｜NOW OR NEVER Live at Impact Arena（合集P9）",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1iS421K7oi/?p=9",
+      "uploader": "urmineye",
+      "type": "舞台",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1iS421K7oi/?p=9",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：演唱会饭拍个人转载，已实际点击选集VROOM VROOM条目，页面跳转确认P9，02:51；不是原版Dance Practice。精确核对选集9/20和地址p=9，舞台可见唱跳，保留饭拍水印，仅此分段映射封面。 已观察00:24附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1iS421K7oi-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1iS421K7oi/?p=9",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:24真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Envolver",
+      "artist": "Anitta",
+      "aliases": [
+        "安妮塔",
+        "巴西"
+      ],
+      "title": "[Latin Song] Anitta - Envolver | Golfy | Dance Fitness | Dance Workout",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1CP411Z7m7/",
+      "uploader": "GolfyDance",
+      "type": "编舞视频",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/1825674860?bvid=BV1CP411Z7m7&oid=311096510",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：原作者舞蹈频道；公开正文以第一人称说明自己的编舞与镜面；健身舞改编，非Anitta官方MV或原编舞。；正文称所有视频已镜面。；canonical video URL按公开bvid确定，浏览器尚未验证。。实际03:16，GolfyDance原作者镜面健身舞改编。 已观察00:38附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1CP411Z7m7-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1CP411Z7m7/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:38真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Con Calma",
+      "artist": "Daddy Yankee & Snow",
+      "aliases": [
+        "洋基老爹",
+        "Snow"
+      ],
+      "title": "【MIC赵泳鑫】《Con Calma》舞蹈（4k第一排视角）这个舞真的帅炸了！赵泳鑫日落派对巡演广州站",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1rd4y1G7Xs/",
+      "uploader": "夕晚兮",
+      "type": "舞台",
+      "region": "其他",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rd4y1G7Xs/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：粉丝拍摄/转载属性未独立确认；非原唱官方；赵泳鑫舞台翻跳，非Daddy Yankee & Snow原版；音源和完整度需画面/声音核验。。实际01:11，为赵泳鑫巡演短舞台翻跳；原页识曲标注Con Calma (Remix)，不声称Daddy Yankee原版编舞或原音轨。 已观察00:27附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1rd4y1G7Xs-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1rd4y1G7Xs/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:27真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Make you happy",
+      "artist": "NiziU",
+      "aliases": [
+        "ニジュー"
+      ],
+      "title": "【みこ】Make you happy 踊ってみた【NiziU】",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1HD4y127KS/",
+      "uploader": "七河みこ",
+      "type": "翻跳",
+      "region": "日本",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1HD4y127KS/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：原作者发布；正文第一人称说明练舞，署名七河みこ；个人翻跳，参考Korean ver.表演视频；不是原团练习室。。实际01:16，七河みこ户外短版翻跳，非NiziU本人全曲。 已观察00:26附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1HD4y127KS-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1HD4y127KS/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:26真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Levitating",
+      "artist": "Dua Lipa feat. DaBaby",
+      "aliases": [
+        "Dua Lipa",
+        "杜娃·黎波",
+        "悬浮"
+      ],
+      "title": "1M Dua Lipa Levitating ft DaBaby Ara Cho Choreography",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1t341127jP/",
+      "uploader": "Lobster龙虾",
+      "type": "翻跳",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1t341127jP/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：原页实际为Lobster龙虾室内个人翻跳Ara Cho编舞，左下有1M原编舞参考小画面；不是1M舞室视频转载或Ara Cho本人表演。实际03:27；已依据真实画面纠正候选搜索元数据中的转载猜测，个人翻跳，保留完整原画面及小窗。 已观察00:25附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1t341127jP-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1t341127jP/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:25真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "bad guy",
+      "artist": "Billie Eilish",
+      "aliases": [
+        "碧梨",
+        "比莉·艾利什"
+      ],
+      "title": "【1M】Koosung Jung 编舞《bad guy》",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Zt411M7Zs/",
+      "uploader": "1MILLION_OFFICIAL",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/list/35836017?bvid=BV1Zt411M7Zs&oid=61889347",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：官方舞室账号；公开简介含1milliondance.com商务邮箱；是否与当前THE BOYZ版本完全相同须看画面核实。；canonical video URL按公开bvid确定。。原页实际1M舞室多组舞者演示Koosung Jung编舞，发布账号为1MILLION_OFFICIAL，歌曲标签bad guy。 已观察03:20附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1Zt411M7Zs-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Zt411M7Zs/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图03:20真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Sorry",
+      "artist": "Justin Bieber",
+      "aliases": [
+        "贾斯汀·比伯",
+        "比伯"
+      ],
+      "title": "Quadra Sorry！超对不起《sorry》#小橘编舞#竖屏",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1dE82zDEZY/",
+      "uploader": "张小橘子Juana",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1dE82zDEZY/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：原作者编舞，正文署名张小橘子；独立竖屏编舞，非当前Matt Steffanina教学版本。。原页简介明确音乐Sorry–Justin Bieber、编舞张小橘子；实际00:51竖屏多人原创编舞片段，不是Matt Steffanina版本。 已观察00:04附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1dE82zDEZY-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1dE82zDEZY/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:04真实暂停画面，保留原比例与水印，仅裁黑边；只映射此精确来源。"
+    },
+    {
+      "song": "24K Magic",
+      "artist": "Bruno Mars",
+      "aliases": [
+        "火星哥",
+        "布鲁诺·马尔斯"
+      ],
+      "title": "24K Magic - Bruno Mars - Junsun Yoo Choreography",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1dx411s7Zb/",
+      "uploader": "唯爱我弹yy",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1dx411s7Zb/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：转载，简介给出YouTube原视频；Junsun Yoo编舞，非当前Kasper版本。。原页04:25，实际黑色舞室多人编舞，简介明示Junsun Yoo来源Xj11GuedXDc；非旧Kasper版本。 已观察00:13附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1dx411s7Zb-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1dx411s7Zb/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:13真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Cheap Thrills",
+      "artist": "Sia",
+      "aliases": [
+        "希雅"
+      ],
+      "title": "Sia - Cheap Thrills 编舞 3p",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1gs411i7Sw/?p=3",
+      "uploader": "QQQuel",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1gs411i7Sw/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：转载编舞合集，简介有原YouTube链接；默认P1为Derek Mitchell版本；当前YouTube对应Viet Dang在P3，截图前需明确选取的分P。；P2使用feat. Sean Paul版本。。已在原页实际点击Viet Dang编舞第三P，选集3/3，URL变为p=3，播放器02:00；截图只属于第三P，不映射其他编舞。 已观察00:11附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1gs411i7Sw-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1gs411i7Sw/?p=3",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:11真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Work",
+      "artist": "Rihanna feat. Drake",
+      "aliases": [
+        "Rihanna",
+        "蕾哈娜",
+        "Drake",
+        "公鸭"
+      ],
+      "title": "Mina Myoung编舞合辑｜P22 Work - Rihanna ft.Drake",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1bK411P79n/?p=22",
+      "uploader": "洛可可不是可可洛",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1bK411P79n/?p=22",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：个人转载Mina Myoung编舞合辑P22，Work–Rihanna ft.Drake，桥下三人舞蹈表演；不是Matt Steffanina教学版本。原页实际选中22/31，页签题名Work - Rihanna ft.Drake，播放器02:11，已核实桥下三人舞蹈画面。 已观察00:27附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1bK411P79n-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1bK411P79n/?p=22",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:27真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Wolves",
+      "artist": "Selena Gomez & Marshmello",
+      "aliases": [
+        "Selena Gomez",
+        "Marshmello",
+        "赛琳娜·戈麦斯",
+        "傻脸娜",
+        "棉花糖"
+      ],
+      "title": "简直美哭了！拉丁舞版《Wolves》傻脸娜 Selena Gomez【单色舞蹈】",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1NJ411y7N9/?p=1",
+      "uploader": "单色舞蹈官方",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1NJ411y7N9/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：舞室原作者发布，正文列编舞及舞者；独立拉丁舞改编，非Jun Liu版本；需核实音源是否原始合作版本。。原页01:24选集1/2横版，实际四人拉丁舞椅子改编，编舞和舞者陈怡欣、白玉静、杨柳青、许晴；非Jun Liu版本。保留黑边上原作者水印。 已观察00:19附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1NJ411y7N9-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1NJ411y7N9/?p=1",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:19真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "aliases": [
+        "艾娃·麦克斯"
+      ],
+      "title": "【ED】MIMI分解教程SWEET BUT PSYCHO-1",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1hE411B7DD/",
+      "uploader": "ED爵士舞古典舞",
+      "type": "分解教学",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1hE411B7DD/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：舞室原作者发布，正文标MIMI舞者与摄影者；部分教程，第1段；非当前Mina Myoung版本。。实际02:23，画面标注动作串联PART1，MIMI老师教学第1部分，不标全曲完整教学。 已观察00:18附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1hE411B7DD-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1hE411B7DD/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:18真实暂停画面，保留原比例与水印；只映射此精确来源。"
+    },
+    {
+      "song": "How Long",
+      "artist": "Charlie Puth",
+      "aliases": [
+        "查理·普斯",
+        "断眉"
+      ],
+      "title": "[红房子MDC] Kyle Hanagami编舞 Charlie Puth - How Long",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1Ex41177Z6/",
+      "uploader": "QQQuel",
+      "type": "编舞视频",
+      "region": "欧美",
+      "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Ex41177Z6/",
+      "verificationNote": "2026-10-09逐个原视频页面复核题名、发布账号和真实画面。版本说明：编舞转载；非Kyle Hanagami本人账号；简介链接为歌曲来源，不据此声称原舞视频链接已确认。。原页05:01，红房子多人分组演示Kyle Hanagami编舞，QQQuel为转载发布者，不标官方发布，简介YouTube链接为音乐来源不作为此舞蹈canonical。 已观察00:17附近真实片段，不代表全片播放可用；此为独立B站来源，不推断与原来源为同一剪辑，仅提供原站入口及原平台嵌入预览，不提供视频下载。",
+      "thumbnail": "assets/covers/bilibili-BV1Ex41177Z6-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Ex41177Z6/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图00:17真实暂停画面，保留原比例与水印；只映射此精确来源。"
     }
   ],
   "playlists": [
