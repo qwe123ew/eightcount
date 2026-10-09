@@ -1497,13 +1497,15 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/list/21648772?bvid=BV1qa411U7CM&oid=258838847",
-      "verificationNote": "已核对B站含此BV号的页面：简介注明音源周杰伦《青花瓷》、编舞73/晓丹；创作团队标出颀三73为UP主、晓丹小仙女儿为舞者。是原创双人编舞，不是周杰伦本人表演。视频直页未成功抓取，未验证播放。",
+      "verificationNote": "已核对B站含此BV号的页面：简介注明音源周杰伦《青花瓷》、编舞73/晓丹；创作团队标出颀三73为UP主、晓丹小仙女儿为舞者。是原创双人编舞，不是周杰伦本人表演。视频直页未成功抓取，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:17附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "evidence": {
         "choreographer": "73/晓丹",
         "performers": "颀三73、晓丹小仙女儿",
         "uploaderCaution": "页面位于晓丹小仙女儿的视频列表，但创作团队中的UP主为颀三73，不能将列表拥有者当上传者。"
       },
-      "thumbnail": null
+      "thumbnail": "assets/covers/bilibili-BV1qa411U7CM-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1qa411U7CM/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:17），保留原内容比例和水印。"
     },
     {
       "song": "日不落",
@@ -1519,8 +1521,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "华语",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1YU4y1V7af/",
-      "verificationNote": "已通过B站公开检索结果核对直链、标题、UP主与简介；简介自述为蔡依林舞蹈版DVD修复转载。发布者是舒言星，不是艺人账号；不将其标作官方上传。直页抓取返回412，未验证播放。",
-      "thumbnail": null
+      "verificationNote": "已通过B站公开检索结果核对直链、标题、UP主与简介；简介自述为蔡依林舞蹈版DVD修复转载。发布者是舒言星，不是艺人账号；不将其标作官方上传。直页抓取返回412，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:17附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1YU4y1V7af-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1YU4y1V7af/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:17），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "爱的主打歌",
@@ -1556,8 +1560,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1AXL2ztExc/",
-      "verificationNote": "已通过B站公开检索结果核对视频直链、标题、UP主、歌曲和教学合集；是MJ米糕的模仿/翻跳教学，不是Michael Jackson本人表演。该链接为教学第1集，直页抓取返回412，未验证播放。",
-      "thumbnail": null
+      "verificationNote": "已通过B站公开检索结果核对视频直链、标题、UP主、歌曲和教学合集；是MJ米糕的模仿/翻跳教学，不是Michael Jackson本人表演。该链接为教学第1集，直页抓取返回412，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:16附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1AXL2ztExc-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1AXL2ztExc/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:16），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "Smooth Criminal",
@@ -1594,11 +1600,13 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1EM4y1Q73d/",
-      "verificationNote": "已通过B站公开检索结果核对标题、UP主、歌曲和原创编舞说明；另以官方音频确认歌曲署名。是Sino Afro的尊巴健身编舞，不是Camila Cabello本人表演，也不是MV原版编舞教学。直页抓取未成功，未验证播放。",
+      "verificationNote": "已通过B站公开检索结果核对标题、UP主、歌曲和原创编舞说明；另以官方音频确认歌曲署名。是Sino Afro的尊巴健身编舞，不是Camila Cabello本人表演，也不是MV原版编舞教学。直页抓取未成功，未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
       "evidence": {
         "artistEvidenceUrl": "https://www.youtube.com/watch?v=HCjNJDNzw8Y"
       },
-      "thumbnail": null
+      "thumbnail": "assets/covers/bilibili-BV1EM4y1Q73d-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1EM4y1Q73d/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印。"
     },
     {
       "song": "アイドル",
@@ -1616,8 +1624,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "日本",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV12P411U7JX/",
-      "verificationNote": "已读取B站视频页核对直链、标题、UP主、YOASOBI歌曲及分P；页面标记原创编舞，并有上下两段详细教程。是软软的原创编舞教学，不是YOASOBI本人表演。未验证播放。",
-      "thumbnail": null
+      "verificationNote": "已读取B站视频页核对直链、标题、UP主、YOASOBI歌曲及分P；页面标记原创编舞，并有上下两段详细教程。是软软的原创编舞教学，不是YOASOBI本人表演。未验证播放。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:22附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV12P411U7JX-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV12P411U7JX/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:22），保留原内容比例和水印。"
     },
     {
       "song": "Naatu Naatu",
@@ -2292,7 +2302,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "其他",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Kw411q7vY/",
-      "verificationNote": "为舞者翻跳与片段教程，页面列镜面展示00:23、喊拍慢速01:53、零基础讲解15:36，不称全曲。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "为舞者翻跳与片段教程，页面列镜面展示00:23、喊拍慢速01:53、零基础讲解15:36，不称全曲。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:16附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Kw411q7vY-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Kw411q7vY/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:16），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "FIESTA",
@@ -2308,7 +2321,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1e7411T7oC/",
-      "verificationNote": "苏司喵的翻跳分解教程，页面列多个动作分解分P，不是IZ*ONE本人练习室。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "苏司喵的翻跳分解教程，页面列多个动作分解分P，不是IZ*ONE本人练习室。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:16附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1e7411T7oC-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1e7411T7oC/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:16），保留原内容比例和水印。"
     },
     {
       "song": "Dumhdurum",
@@ -2325,7 +2341,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Xf4y1S7Fy/",
-      "verificationNote": "南舞团翻跳教学上部；页面注明下部另行购买，不能当作免费完整版。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "南舞团翻跳教学上部；页面注明下部另行购买，不能当作免费完整版。直页抓取返回412。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:14附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Xf4y1S7Fy-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Xf4y1S7Fy/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:14），保留原内容比例和水印。"
     },
     {
       "song": "In Bloom",
@@ -2341,7 +2360,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1th4y1L78t/",
-      "verificationNote": "发布账号显示为ZEROBASEONE；此条为Moving ver.，不是定点版。未独立核验账号认证。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "发布账号显示为ZEROBASEONE；此条为Moving ver.，不是定点版。未独立核验账号认证。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:13附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1th4y1L78t-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1th4y1L78t/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:13），保留原内容比例和水印。"
     },
     {
       "song": "オトナブルー",
@@ -2358,7 +2380,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "日本",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV16H4y1y7nc/",
-      "verificationNote": "简介标明编舞与表演为ATARASHII GAKKO!；账号名称与标题中的“官方”不等于已独立核验认证。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "简介标明编舞与表演为ATARASHII GAKKO!；账号名称与标题中的“官方”不等于已独立核验认证。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:16附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV16H4y1y7nc-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV16H4y1y7nc/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:16），保留原内容比例和水印。"
     },
     {
       "song": "BBoom BBoom",
@@ -2374,7 +2399,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "翻跳",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sW411E7pw/",
-      "verificationNote": "页面简介将创作类型标为翻跳、舞者为TS FAMILY；按翻跳收录，标题带教学不等于已核实分解教程。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "页面简介将创作类型标为翻跳、舞者为TS FAMILY；按翻跳收录，标题带教学不等于已核实分解教程。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:15附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1sW411E7pw-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1sW411E7pw/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:15），保留原内容比例和水印。"
     },
     {
       "song": "Scream",
@@ -2390,7 +2418,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "练习室",
       "region": "韩流",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1K7411A7WV/",
-      "verificationNote": "页面标注YouTube来源，为第三方转载团体练习室；第一分P03:28，另有MV预告分P，不把预告列为舞蹈。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。"
+      "verificationNote": "页面标注YouTube来源，为第三方转载团体练习室；第一分P03:28，另有MV预告分P，不把预告列为舞蹈。已通过B站公开检索页面核对视频直链、标题、UP主及歌曲；未实播，未验证完整播放或嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:19附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1K7411A7WV-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1K7411A7WV/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:19），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "New Rules",
@@ -2423,8 +2454,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/list/35836017?bvid=BV16R4y1o76w&oid=347943751",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已核对含该BV号的B站列表页标题与UP主；K chan的基础编舞课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已核对含该BV号的B站列表页标题与UP主；K chan的基础编舞课堂展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:15附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV16R4y1o76w-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV16R4y1o76w/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:15），保留原内容比例和水印。"
     },
     {
       "song": "Levitating",
@@ -2475,8 +2508,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1hb411y7nR/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介明确转载自1MILLION的WfwV8vkIXvI，发布账号为环球瑜伽，非原编舞频道。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介明确转载自1MILLION的WfwV8vkIXvI，发布账号为环球瑜伽，非原编舞频道。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:22附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1hb411y7nR-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1hb411y7nR/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:22），保留原内容比例和水印。"
     },
     {
       "song": "bad guy",
@@ -2509,8 +2544,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "翻跳",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1n97mzYEg3/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介指明转载自Yuri Vital的翻跳，不是Britney Spears本人舞蹈录像。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介指明转载自Yuri Vital的翻跳，不是Britney Spears本人舞蹈录像。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:18附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1n97mzYEg3-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1n97mzYEg3/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:18），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "BILLIE EILISH.",
@@ -2525,8 +2562,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1QM411177a/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介明确写出音乐Armani white-Billie Eilish.；此处Billie Eilish.是歌名，不应把Billie Eilish标作原唱。阿飘编舞。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介明确写出音乐Armani white-Billie Eilish.；此处Billie Eilish.是歌名，不应把Billie Eilish标作原唱。阿飘编舞。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1QM411177a-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1QM411177a/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印。"
     },
     {
       "song": "Abracadabra",
@@ -2543,8 +2582,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1pVNDz5E7V/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介注明任佳编舞、单色流行舞进修系统班学员表演。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介注明任佳编舞、单色流行舞进修系统班学员表演。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:15附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1pVNDz5E7V-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1pVNDz5E7V/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:15），保留原内容比例和水印。"
     },
     {
       "song": "Nonsense",
@@ -2561,8 +2602,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rh4y1G7yV/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。标题与分P标明YGX-Bini编舞；UP主转载自YouTube，不是Sabrina Carpenter本人表演。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。标题与分P标明YGX-Bini编舞；UP主转载自YouTube，不是Sabrina Carpenter本人表演。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1rh4y1G7yV-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1rh4y1G7yV/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印。"
     },
     {
       "song": "Sorry",
@@ -2684,8 +2727,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1Xw411Z7e5/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介标注申旭阔编舞，说明是老舞新跳。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介标注申旭阔编舞，说明是老舞新跳。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:17附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1Xw411Z7e5-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1Xw411Z7e5/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:17），保留原内容比例和水印。"
     },
     {
       "song": "Wolves",
@@ -2738,8 +2783,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1rq4y1p74r/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页；Hilty & Bosch双人街舞组合的编舞展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页；Hilty & Bosch双人街舞组合的编舞展示。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图01:33附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1rq4y1p74r-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1rq4y1p74r/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（01:33），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "Sweet but Psycho",
@@ -2946,11 +2993,13 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1BA411b7P4/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介标明翻跳JoJo编舞，kiwi老师表演；第1集为舞蹈展示，随后3集为分解。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null,
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介标明翻跳JoJo编舞，kiwi老师表演；第1集为舞蹈展示，随后3集为分解。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:17附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1BA411b7P4-frame.jpg",
       "evidence": {
         "artistEvidenceUrl": "https://www.youtube.com/watch?v=XpNNhb7yEOA"
-      }
+      },
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1BA411b7P4/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:17），保留原内容比例和水印，仅裁去黑边。"
     },
     {
       "song": "Buttons",
@@ -2987,11 +3036,13 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "分解教学",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1iz4y1U7bu/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介说明May J Lee编舞、JEAN老师讲解；含镜面教学Part1至Part3。原唱署名另核对1MILLION原编舞视频。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null,
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。简介说明May J Lee编舞、JEAN老师讲解；含镜面教学Part1至Part3。原唱署名另核对1MILLION原编舞视频。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:20附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1iz4y1U7bu-frame.jpg",
       "evidence": {
         "artistEvidenceUrl": "https://www.youtube.com/watch?v=zUDXj8REpAI"
-      }
+      },
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1iz4y1U7bu/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:20），保留原内容比例和水印。"
     },
     {
       "song": "Worth It",
@@ -3026,11 +3077,13 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "翻跳",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV17Y411u7L6/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。B站简介注明BGM为Shakira-Waka waka，另核对Official Charts的Freshlyground合作署名；为舞者清清翻跳。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null,
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。B站简介注明BGM为Shakira-Waka waka，另核对Official Charts的Freshlyground合作署名；为舞者清清翻跳。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:21附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV17Y411u7L6-frame.jpg",
       "evidence": {
         "artistEvidenceUrl": "https://www.officialcharts.com/songs/shakira-ft-freshlyground-waka-waka-this-time-for-africa/"
-      }
+      },
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV17Y411u7L6/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:21），保留原内容比例和水印。"
     },
     {
       "song": "Scream",
@@ -3045,8 +3098,10 @@ globalThis.EIGHTCOUNT_DATA = {
       "type": "编舞视频",
       "region": "欧美",
       "sourceEvidenceUrl": "https://www.bilibili.com/video/BV1sh411674c/",
-      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页，标题明确歌曲Scream及原唱Usher；舞者为Hilty & Bosch。 未实播，未验证完整播放、地区限制或站外嵌入许可。",
-      "thumbnail": null
+      "verificationNote": "已核对公开页面或原平台检索元数据中的视频直链、标题、发布账号及歌曲。已读取B站视频页，标题明确歌曲Scream及原唱Usher；舞者为Hilty & Bosch。 未实播，未验证完整播放、地区限制或站外嵌入许可。 2026-10-09复核：原视频公开页面正常打开，已观察并截图00:16附近的真实暂停画面；仅核验该片段，不代表全片播放可用。",
+      "thumbnail": "assets/covers/bilibili-BV1sh411674c-frame.jpg",
+      "thumbnailSourceUrl": "https://www.bilibili.com/video/BV1sh411674c/",
+      "thumbnailProvenance": "2026-10-09：逐条原视频网页截图，已核对标题/UP主，真实暂停画面（00:16），保留原内容比例和水印。"
     },
     {
       "song": "That's What I Like",
