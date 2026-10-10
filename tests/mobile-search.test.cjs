@@ -14,6 +14,7 @@ function setup() {
     constructor() { this.listeners = {}; this.value = ''; this.firstChild = {}; this.writes = 0; this.focusCalls = 0; this.isConnected = true; }
     get innerHTML() { return this.html || ''; }
     set innerHTML(value) { this.html = value; this.writes++; }
+    insertAdjacentHTML(position, html) { assert.equal(position, 'beforeend'); this.html = this.innerHTML + html; }
     addEventListener(name, fn) { (this.listeners[name] ||= []).push(fn); }
     fire(name, event = {}) { for (const fn of this.listeners[name] || []) fn(event); }
     querySelectorAll() { return []; }
