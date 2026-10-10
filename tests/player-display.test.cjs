@@ -276,3 +276,141 @@ test('a destroyed request cannot exit a different new player that entered fullsc
   resolve(); await settle();
   assert.equal(exits, 0);
 });
+
+test('returning from a timed-out fallback cancels late native success on that same player', async () => {
+  for (const leave of ['back', 'toggle']) {
+    let resolve, exits = 0;
+    const h = setup({ request() { return new Promise(done => { resolve = done; }); }, exit() {
+      exits++; h.doc.fullscreenElement = null; h.doc.fire('fullscreenchange'); return Promise.resolve();
+    } });
+    h.controller.toggle(); h.flushTimers();
+    assert.equal(h.mode(), 'page');
+    h.controller[leave]();
+    assert.equal(h.mode(), 'inline');
+    h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange'); resolve(); await settle();
+    assert.equal(h.mode(), 'inline', leave);
+    assert.equal(exits, 1, leave);
+    assert.equal(h.controller.isExpanded(), false);
+  }
+});
+
+test('late fullscreen completion without a change event is released after returning to versions', async () => {
+  let resolve, exits = 0;
+  const h = setup({ request() { return new Promise(done => { resolve = done; }); }, exit() {
+    exits++; h.doc.fullscreenElement = null; return Promise.resolve();
+  } });
+  h.controller.toggle(); h.flushTimers(); h.controller.back();
+  h.doc.fullscreenElement = h.panel; resolve(); await settle();
+  assert.equal(exits, 1);
+  assert.equal(h.mode(), 'inline');
+});
+
+test('a fresh fullscreen click after cancellation still expresses current native intent', async () => {
+  let firstResolve, requests = 0;
+  const h = setup({ request(doc) {
+    if (++requests === 1) return new Promise(done => { firstResolve = done; });
+    doc.fullscreenElement = this; doc.fire('fullscreenchange'); return Promise.resolve();
+  } });
+  h.controller.toggle(); h.flushTimers(); h.controller.back(); h.controller.toggle();
+  firstResolve(); await settle();
+  assert.equal(h.mode(), 'native');
+  assert.equal(h.doc.fullscreenElement, h.panel);
+});
+
+test('a refused exit from abandoned native success keeps visible native controls and guidance', async () => {
+  let resolve;
+  const h = setup({ request() { return new Promise(done => { resolve = done; }); }, exit() { return Promise.reject(new Error('Exit denied')); } });
+  h.controller.toggle(); h.flushTimers(); h.controller.back();
+  h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange'); resolve(); await settle();
+  assert.equal(h.mode(), 'native');
+  assert.equal(h.fullscreenButton.textContent, '退出全屏');
+  assert.equal(h.backButton.hidden, false);
+  assert.match(h.status.textContent, /未能退出|浏览器|手势/);
+});
+
+test('late cancelled native success preserves a newer explicit page expansion', async () => {
+  let resolve, exits = 0;
+  const h = setup({ request() { return new Promise(done => { resolve = done; }); }, exit() {
+    exits++; h.doc.fullscreenElement = null; h.doc.fire('fullscreenchange'); return Promise.resolve();
+  } });
+  h.controller.toggle(); h.flushTimers(); h.controller.back(); h.controller.expandPage();
+  const message = h.status.textContent;
+  h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange'); resolve(); await settle();
+  assert.equal(exits, 1);
+  assert.equal(h.mode(), 'page');
+  assert.equal(h.dialog.getAttribute('data-player-expanded'), 'true');
+  assert.equal(h.status.textContent, message);
+  assert.equal(h.backButton.focused, true);
+});
+
+test('the latest user intent wins while an abandoned native exit is pending without duplicate exits', async () => {
+  for (const action of ['back', 'toggle', 'expandPage']) {
+    let resolveNative, resolveExit, exits = 0;
+    const h = setup({ request() { return new Promise(done => { resolveNative = done; }); }, exit() {
+      exits++; return new Promise(done => { resolveExit = done; });
+    } });
+    h.controller.toggle(); h.flushTimers(); h.controller.back(); h.controller.expandPage('先前的大屏说明');
+    h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange');
+    h.controller[action]('最新的大屏说明');
+    assert.equal(h.mode(), 'native', 'native exit has not completed yet');
+    // The old request may settle after the newer user action; cleanup must not replace it.
+    resolveNative(); await settle();
+    assert.equal(exits, 1, action);
+    h.doc.fullscreenElement = null; h.doc.fire('fullscreenchange'); resolveExit(); await settle();
+    assert.equal(h.mode(), action === 'expandPage' ? 'page' : 'inline', action);
+    assert.equal(h.backCount(), action === 'back' ? 2 : 1, action);
+    if (action === 'expandPage') assert.equal(h.status.textContent, '最新的大屏说明');
+  }
+});
+
+test('refusing a pending native exit keeps truthful controls despite a newer page request', async () => {
+  let resolveNative, rejectExit, exits = 0;
+  const h = setup({ request() { return new Promise(done => { resolveNative = done; }); }, exit() {
+    exits++; return new Promise((yes, no) => { rejectExit = no; });
+  } });
+  h.controller.toggle(); h.flushTimers(); h.controller.back(); h.controller.expandPage();
+  h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange');
+  h.controller.back(); h.controller.expandPage();
+  assert.equal(h.mode(), 'native', 'a requested page transition must wait for actual native exit');
+  resolveNative(); await settle();
+  assert.equal(exits, 1);
+  rejectExit(new Error('Exit denied')); await settle();
+  assert.equal(h.mode(), 'native');
+  assert.equal(h.fullscreenButton.textContent, '退出全屏');
+  assert.equal(h.backButton.hidden, false);
+  assert.equal(h.backCount(), 1);
+  assert.match(h.status.textContent, /未能退出|浏览器|手势/);
+});
+
+test('two-step choices during native exit preserve only the final user intent', async () => {
+  for (const choices of [['expandPage', 'back'], ['back', 'expandPage'], ['toggle', 'expandPage'], ['expandPage', 'toggle']]) {
+    let resolveNative, resolveExit, exits = 0;
+    const h = setup({ request() { return new Promise(done => { resolveNative = done; }); }, exit() {
+      exits++; return new Promise(done => { resolveExit = done; });
+    } });
+    h.controller.toggle(); h.flushTimers(); h.controller.back(); h.controller.expandPage();
+    h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange');
+    for (const choice of choices) h.controller[choice]();
+    resolveNative(); await settle();
+    assert.equal(exits, 1, choices.join(' → '));
+    h.doc.fullscreenElement = null; h.doc.fire('fullscreenchange'); resolveExit(); await settle();
+    const finalChoice = choices.at(-1);
+    assert.equal(h.mode(), finalChoice === 'expandPage' ? 'page' : 'inline', choices.join(' → '));
+    assert.equal(h.backCount(), finalChoice === 'back' ? 2 : 1, choices.join(' → '));
+  }
+});
+
+test('user intent after native exit but before its delayed completion cannot be overwritten', async () => {
+  for (const choice of ['back', 'toggle', 'expandPage']) {
+    let resolveNative, resolveExit;
+    const h = setup({ request() { return new Promise(done => { resolveNative = done; }); }, exit() {
+      return new Promise(done => { resolveExit = done; });
+    } });
+    h.controller.toggle(); h.flushTimers(); h.controller.back(); h.controller.expandPage();
+    h.doc.fullscreenElement = h.panel; h.doc.fire('fullscreenchange'); resolveNative(); await settle();
+    h.doc.fullscreenElement = null; // System exit happened, but its event/promise are still queued.
+    h.controller[choice](); h.doc.fire('fullscreenchange'); resolveExit(); await settle();
+    assert.equal(h.mode(), choice === 'expandPage' ? 'page' : 'inline', choice);
+    assert.equal(h.backCount(), choice === 'back' ? 2 : 1, choice);
+  }
+});
