@@ -51,40 +51,34 @@ function setup({ playlists, search = '' } = {}) {
   return { context, get, click, nav, before };
 }
 
-function renderedGroups(html) {
-  return [...html.matchAll(/<section class="playlist-group"[\s\S]*?<\/section>/g)].map(match => match[0]);
-}
-
-test('playlist view removes the selection control and keeps the song-list mount', () => {
+test('imported songs have one concise heading without a selector or record count', () => {
   const panel = index.match(/<details id="imported-playlists"[\s\S]*?<\/details>/)[0];
-  assert.doesNotMatch(panel, /<select\b|选择歌单|playlist-select/);
-  assert.match(panel, /id="playlist-tracks"/);
+  assert.match(panel, /<summary>导入的歌曲<\/summary>/);
+  assert.doesNotMatch(panel, /<select\b|选择歌单|playlist-select|playlist-summary|歌单记录/);
+  assert.match(panel, /id="playlist-tracks" class="playlist-tracks"/);
 });
 
-test('both imported playlists render every original row in separately labelled groups', () => {
+test('all 64 imported songs render in original order without playlist titles or import notes', () => {
   const h = setup({ search: '?view=playlists' });
   const lists = h.context.EIGHTCOUNT_DATA.playlists;
-  const sections = renderedGroups(h.get('playlist-tracks').innerHTML);
-  assert.equal(sections.length, 2, 'each imported playlist must remain reachable without a selector');
+  const html = h.get('playlist-tracks').innerHTML;
+  const tracks = Array.from(lists).flatMap(list => Array.from(list.tracks));
   assert.equal(h.get('imported-playlists').hidden, false);
   assert.equal(h.get('imported-playlists').open, true);
-  assert.equal(h.get('playlist-summary').textContent, '2 份 · 64 条歌单记录');
-  for (const [i, list] of lists.entries()) {
-    const section = sections[i];
-    assert.match(section, new RegExp(`aria-labelledby="playlist-heading-${i}"`));
-    assert(section.includes(`<h2 id="playlist-heading-${i}" class="playlist-heading">${escapeHTML(list.title)}</h2>`));
-    assert(section.includes(escapeHTML(list.note)));
-    assert.equal((section.match(/class="playlist-track"/g) || []).length, list.tracks.length);
-    assert.deepEqual([...section.matchAll(/class="playlist-number">(.*?)<\/span>/g)].map(match => match[1]), Array.from(list.tracks, track => String(track.index)));
-    assert.deepEqual([...section.matchAll(/data-query="[^"]*">(.*?)<\/button>/g)].map(match => match[1]), Array.from(list.tracks, track => escapeHTML(track.song)));
+  assert.equal((html.match(/class="playlist-track"/g) || []).length, 64);
+  assert.deepEqual([...html.matchAll(/class="playlist-number">(.*?)<\/span>/g)].map(match => match[1]), tracks.map(track => String(track.index)));
+  assert.deepEqual([...html.matchAll(/data-query="[^"]*">(.*?)<\/button>/g)].map(match => match[1]), tracks.map(track => escapeHTML(track.song)));
+  for (const list of lists) {
+    assert(!html.includes(escapeHTML(list.title)), 'playlist titles should no longer be displayed');
+    assert(!html.includes(escapeHTML(list.note)), 'import explanations should no longer be displayed');
   }
-  assert.match(sections[1], /第27—29条未显示/);
-  assert.match(sections[1], /3am/);
-  assert.match(sections[1], /待补舞蹈来源/);
+  assert.doesNotMatch(html, /<h[1-6]\b|playlist-heading|playlist-note|playlist-group/);
+  assert.match(html, /3am/);
+  assert.match(html, /待补舞蹈来源/);
   assert.equal(JSON.stringify(h.context.EIGHTCOUNT_DATA), h.before, 'rendering cannot change any saved records or videos');
 });
 
-test('group titles and notes escape markup while retaining duplicate and unresolved rows', () => {
+test('concise song lists retain duplicate rows, unresolved songs and escaped per-song version notes', () => {
   const playlists = [
     { id: 'one', title: 'First <script>', note: 'Note <img onerror="bad"> & more', tracks: [
       { index: 1, song: 'Dynamite', artist: 'BTS' }, { index: 2, song: 'Dynamite', artist: 'BTS' }
@@ -95,25 +89,24 @@ test('group titles and notes escape markup while retaining duplicate and unresol
     ] }
   ];
   const h = setup({ playlists });
-  const sections = renderedGroups(h.get('playlist-tracks').innerHTML);
-  assert.equal(sections.length, 2);
-  assert.match(sections[0], /First &lt;script&gt;/);
-  assert.match(sections[0], /Note &lt;img onerror=&quot;bad&quot;&gt; &amp; more/);
-  assert.equal((sections[0].match(/data-query="BTS Dynamite"/g) || []).length, 2);
-  assert.match(sections[1], /Unknown &lt;song&gt;/);
-  assert.match(sections[1], /待补舞蹈来源/);
-  assert.match(sections[1], /版本待核对/);
-  assert.match(sections[1], /&lt;Remix&gt; needs checking/);
-  assert.doesNotMatch(h.get('playlist-tracks').innerHTML, /<script|<img/);
+  const html = h.get('playlist-tracks').innerHTML;
+  assert.equal((html.match(/class="playlist-track"/g) || []).length, 4);
+  assert.doesNotMatch(html, /First &lt;script&gt;|Note &lt;img|Second &amp; playlist|Only 2 of 3 imported/);
+  assert.equal((html.match(/>Dynamite<\/button>/g) || []).length, 2);
+  assert.match(html, /Unknown &lt;song&gt;/);
+  assert.match(html, /待补舞蹈来源/);
+  assert.match(html, /版本待核对/);
+  assert.match(html, /&lt;Remix&gt; needs checking/);
+  assert.doesNotMatch(html, /<script|<img/);
   assert.equal(JSON.stringify(h.context.EIGHTCOUNT_DATA), h.before);
 });
 
-test('a song from the second playlist opens catalog results and Back restores both groups', () => {
+test('a song from the second import opens catalog results and Back restores all imported songs', () => {
   const h = setup(); h.nav('playlists');
   const html = h.get('playlist-tracks').innerHTML;
-  const sections = renderedGroups(html);
-  assert.equal(sections.length, 2);
-  const query = sections[1].match(/data-query="([^"]+)"/)[1];
+  const queries = [...html.matchAll(/data-query="([^"]+)"/g)].map(match => match[1]);
+  assert.equal(queries.length, 64);
+  const query = queries[h.context.EIGHTCOUNT_DATA.playlists[0].tracks.length];
   h.click('[data-query]', { dataset: { query }, closest: selector => selector === '.playlist-track' ? {} : null });
   assert.equal(h.get('library-panel').hidden, false);
   assert.equal(h.get('imported-playlists').hidden, true);
