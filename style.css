@@ -207,8 +207,13 @@ h1 .acid { color: var(--accent); }
 .playlist-body > label { display: inline-block; margin: 0 12px 9px 0; color: var(--muted); font-size: 14px; }
 .playlist-body select { width: min(100%, 520px); }
 .playlist-body > p { margin: 16px 0 20px; font-size: 14px; line-height: 1.8; }
+.playlist-group { min-width: 0; }
+.playlist-group + .playlist-group { margin-block-start: 24px; border-top: 1px solid var(--edge); padding-block-start: 24px; }
+.playlist-heading { margin: 0; font-size: 18px; line-height: 1.4; overflow-wrap: anywhere; }
+.playlist-note { margin: 6px 0 14px; font-size: 14px; line-height: 1.7; overflow-wrap: anywhere; }
 .playlist-tracks { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 18px; }
 .playlist-track { display: grid; grid-template-columns: 25px minmax(0, 1fr) auto; align-items: start; gap: 10px; min-width: 0; border: 1px solid var(--edge); border-radius: 10px; padding: 14px; background: var(--surface-raised); }
+.playlist-track > div { min-width: 0; }
 .playlist-number { padding-top: 3px; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
 .playlist-track button { border: 0; padding: 0; background: none; color: var(--text); font-size: 16px; font-weight: 600; line-height: 1.5; text-align: left; overflow-wrap: anywhere; }
 .playlist-track button:hover { color: var(--accent); }
@@ -343,6 +348,9 @@ body:has(dialog[open]) { overflow: hidden; }
   .imported-playlists > summary span { display: block; margin: 6px 0 0; }
   .playlist-body { padding: 0 17px 17px; }
   .playlist-body select { width: 100%; }
+  .playlist-track { padding: 8px 12px; }
+  .playlist-number { padding-top: 13px; }
+  .playlist-track p { margin: 2px 0 0; }
   .footer { flex-wrap: wrap; align-items: flex-start; gap: 18px; }
   .footer > span { width: 100%; }
   dialog, #song-dialog { width: calc(100% - 24px); max-height: 92dvh; border-radius: 16px; padding: 18px; }
@@ -352,6 +360,11 @@ body:has(dialog[open]) { overflow: hidden; }
   .watch-placeholder h3 { font-size: 20px; }
   .source-layout { gap: 18px; }
   .source-actions { gap: 8px; }
+  .song-title, .chart-track > div > button, .playlist-track button { width: 100%; min-width: 44px; min-height: 44px; }
+  .text-button, .filter-top .text-button, .view-nav button, .quick-row button,
+  #domestic-toggle, .filter-option, .filter-chip, .clear-filters, .chart-open,
+  .external-links a, .verification-details summary { min-width: 44px; min-height: 44px; }
+  .text-button, .filter-top .text-button { padding-inline: 8px; }
 }
 
 @media (max-width: 420px) {
@@ -384,7 +397,7 @@ body:has(dialog[open]) { overflow: hidden; }
   .chart-track { grid-template-columns: 25px minmax(0, 1fr) auto; gap: 9px; }
   .chart-open { max-width: 78px; padding-inline: 8px; white-space: normal; }
   .chart-track > span:last-child:not(:first-child) { max-width: 70px; }
-  .playlist-track { grid-template-columns: 22px minmax(0, 1fr); gap: 5px 9px; }
+  .playlist-track { grid-template-columns: 22px minmax(0, 1fr); gap: 0 9px; }
   .playlist-badge { grid-column: 2; padding-top: 0; }
   .source-actions .solid-button, .source-actions .source-link { flex: 1 1 auto; }
   .player-caption { padding: 13px; }
